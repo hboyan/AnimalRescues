@@ -1,0 +1,2135 @@
+,condition_in,intake_type,outcome_detail,outcome_type,breed
+0,Other,Public Assist,Partner,Transfer,Quarter Horse Mix
+1,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+2,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+3,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+4,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+5,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+6,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+7,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+8,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+9,Normal,Stray,Partner,Transfer,Pig Mix
+10,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk
+11,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+12,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+13,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+14,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+15,Sick,Wildlife,None,Euthanasia,Raccoon
+16,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+17,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+18,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+19,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+20,Normal,Public Assist,Rabies Risk,Euthanasia,Raccoon Mix
+21,Normal,Owner Surrender,Partner,Transfer,Ferret
+22,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+23,Sick,Wildlife,None,Disposal,Bat Mix
+24,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+25,Sick,Wildlife,None,Disposal,Bat Mix
+26,Sick,Wildlife,None,Disposal,Bat Mix
+27,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+28,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+29,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+30,Normal,Wildlife,None,Disposal,Bat Mix
+31,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+32,Normal,Stray,Partner,Transfer,Californian Mix
+33,Normal,Stray,Partner,Transfer,Californian Mix
+34,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+35,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+36,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+37,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+38,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+39,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+40,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+41,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+42,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+43,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+44,Aged,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+45,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+46,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+47,Normal,Stray,Partner,Transfer,Rabbit Sh
+48,Normal,Wildlife,None,Disposal,Bat Mix
+49,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+50,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+51,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+52,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+53,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+54,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+55,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+56,Normal,Wildlife,Partner,Transfer,Fox Mix
+57,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+58,Normal,Wildlife,None,Euthanasia,Bat Mix
+59,Normal,Wildlife,None,Euthanasia,Bat Mix
+60,Normal,Wildlife,None,Disposal,Bat Mix
+61,Normal,Wildlife,None,Disposal,Bat Mix
+62,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+63,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+64,Sick,Public Assist,Rabies Risk,Euthanasia,Raccoon Mix
+65,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+66,Injured,Wildlife,Suffering,Euthanasia,Opossum
+67,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+68,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+69,Normal,Stray,Partner,Transfer,Pig Mix
+70,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+71,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+72,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+73,Injured,Wildlife,None,Relocate,Owl
+74,Sick,Wildlife,Suffering,Euthanasia,Armadillo Mix
+75,Normal,Owner Surrender,Partner,Transfer,Californian Mix
+76,Normal,Owner Surrender,Partner,Transfer,Californian Mix
+77,Normal,Wildlife,None,Disposal,Bat Mix
+78,Injured,Wildlife,None,Euthanasia,Squirrel Mix
+79,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+80,Sick,Public Assist,Rabies Risk,Euthanasia,Raccoon Mix
+81,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+82,Sick,Wildlife,None,Relocate,Raccoon
+83,Normal,Stray,Partner,Transfer,Pig Mix
+84,Injured,Stray,None,Adoption,Pigeon Mix
+85,Sick,Wildlife,None,Euthanasia,Skunk Mix
+86,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+87,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+88,Normal,Wildlife,None,Euthanasia,Bat
+89,Normal,Wildlife,None,Disposal,Raccoon
+90,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+91,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+92,Sick,Wildlife,None,Euthanasia,Raccoon
+93,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+94,Normal,Stray,None,Euthanasia,Bat
+95,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+96,Injured,Wildlife,Rabies Risk,Euthanasia,Squirrel Mix
+97,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+98,Normal,Stray,Partner,Transfer,Parakeet Mix
+99,Normal,Stray,Partner,Transfer,Parakeet Mix
+100,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+101,Normal,Wildlife,None,Disposal,Bat Mix
+102,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+103,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+104,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+105,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+106,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+107,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+108,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+109,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+110,Normal,Owner Surrender,Partner,Transfer,Californian Mix
+111,Normal,Owner Surrender,Partner,Transfer,Californian Mix
+112,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+113,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+114,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+115,Normal,Stray,None,Return to Owner,Pig Mix
+116,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+117,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+118,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+119,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+120,Normal,Wildlife,Partner,Transfer,Rabbit Sh
+121,Sick,Stray,Partner,Transfer,Rabbit Sh/Lop-Mini
+122,Sick,Stray,Rabies Risk,Euthanasia,Fox Mix
+123,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+124,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+125,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+126,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+127,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+128,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+129,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+130,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+131,Normal,Wildlife,Medical,Euthanasia,Raccoon
+132,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+133,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+134,Injured,Wildlife,None,Relocate,Opossum
+135,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+136,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+137,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+138,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+139,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+140,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+141,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+142,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+143,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+144,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+145,Normal,Wildlife,Enroute,Died,Bat Mix
+146,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+147,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+148,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+149,Normal,Wildlife,None,Disposal,Bat Mix
+150,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+151,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+152,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+153,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+154,Normal,Wildlife,Suffering,Euthanasia,Raccoon Mix
+155,Injured,Stray,Suffering,Euthanasia,Rhode Island Mix
+156,Injured,Stray,Suffering,Euthanasia,Rhode Island Mix
+157,Sick,Public Assist,None,Disposal,Raccoon
+158,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+159,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+160,Normal,Stray,None,Return to Owner,Pig Mix
+161,Sick,Wildlife,Rabies Risk,Euthanasia,Fox
+162,Normal,Wildlife,In Kennel,Died,Bat Mix
+163,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+164,Sick,Wildlife,Medical,Euthanasia,Opossum Mix
+165,Sick,Wildlife,Medical,Euthanasia,Raccoon
+166,Sick,Wildlife,Medical,Euthanasia,Raccoon
+167,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+168,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+169,Injured,Wildlife,Partner,Transfer,Turtle Mix
+170,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+171,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+172,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+173,Normal,Wildlife,Suffering,Euthanasia,Raccoon Mix
+174,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+175,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+176,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+177,Normal,Stray,Partner,Transfer,Rex Mix
+178,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+179,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+180,Normal,Wildlife,None,Disposal,Bat
+181,Normal,Wildlife,None,Disposal,Bat
+182,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+183,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+184,Injured,Wildlife,Suffering,Euthanasia,Opossum
+185,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+186,Normal,Stray,None,Adoption,Ferret
+187,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+188,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+189,Sick,Wildlife,Suffering,Euthanasia,Squirrel
+190,Injured,Wildlife,Partner,Transfer,Rabbit Sh
+191,Normal,Stray,Partner,Transfer,Rabbit Sh
+192,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+193,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+194,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+195,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+196,Sick,Public Assist,Rabies Risk,Euthanasia,Bat
+197,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+198,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+199,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+200,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+201,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+202,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+203,Normal,Wildlife,None,Euthanasia,Bat Mix
+204,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+205,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+206,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+207,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+208,Injured,Wildlife,Rabies Risk,Euthanasia,Squirrel Mix
+209,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+210,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+211,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+212,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+213,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+214,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+215,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+216,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+217,Sick,Wildlife,None,Disposal,Raccoon
+218,Sick,Wildlife,Medical,Euthanasia,Raccoon
+219,Normal,Wildlife,None,Euthanasia,Bat Mix
+220,Normal,Wildlife,None,Euthanasia,Bat Mix
+221,Normal,Wildlife,None,Euthanasia,Bat Mix
+222,Normal,Wildlife,None,Euthanasia,Bat Mix
+223,Normal,Wildlife,None,Euthanasia,Bat Mix
+224,Normal,Wildlife,None,Euthanasia,Bat Mix
+225,Normal,Wildlife,None,Euthanasia,Bat Mix
+226,Normal,Wildlife,None,Euthanasia,Bat Mix
+227,Normal,Wildlife,None,Euthanasia,Bat Mix
+228,Normal,Wildlife,None,Euthanasia,Bat Mix
+229,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+230,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+231,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+232,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+233,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+234,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+235,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+236,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+237,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+238,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+239,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+240,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+241,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+242,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+243,Injured,Wildlife,None,Relocate,Raccoon Mix
+244,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+245,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+246,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+247,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+248,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+249,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+250,Sick,Wildlife,Suffering,Euthanasia,Opossum Mix
+251,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+252,Normal,Wildlife,Enroute,Died,Raccoon Mix
+253,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+254,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+255,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+256,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+257,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+258,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+259,Normal,Owner Surrender,Partner,Transfer,Rat
+260,Normal,Owner Surrender,Partner,Transfer,Rat
+261,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+262,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+263,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+264,Injured,Wildlife,Suffering,Euthanasia,Opossum
+265,Normal,Wildlife,Medical,Euthanasia,Raccoon Mix
+266,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+267,Injured,Wildlife,Medical,Euthanasia,Opossum
+268,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+269,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+270,Normal,Stray,Partner,Transfer,Rat Mix
+271,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+272,Normal,Wildlife,None,Euthanasia,Bat Mix
+273,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+274,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+275,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+276,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+277,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+278,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+279,Sick,Wildlife,Enroute,Died,Raccoon
+280,Sick,Wildlife,Suffering,Euthanasia,Opossum Mix
+281,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+282,Injured,Wildlife,Suffering,Euthanasia,Fox Mix
+283,Sick,Wildlife,None,Euthanasia,Skunk Mix
+284,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+285,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+286,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+287,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+288,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+289,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+290,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+291,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+292,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+293,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+294,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+295,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+296,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+297,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+298,Normal,Owner Surrender,Partner,Transfer,Californian
+299,Normal,Wildlife,None,Disposal,Bat Mix
+300,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+301,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+302,Sick,Stray,None,Euthanasia,Raccoon Mix
+303,Sick,Wildlife,None,Disposal,Raccoon Mix
+304,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+305,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+306,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+307,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+308,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+309,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+310,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon
+311,Sick,Wildlife,None,Disposal,Fox
+312,Injured,Wildlife,Suffering,Euthanasia,Coyote Mix
+313,Sick,Wildlife,None,Disposal,Raccoon
+314,Sick,Wildlife,None,Disposal,Skunk Mix
+315,Normal,Stray,None,Adoption,Ferret
+316,Normal,Stray,Partner,Transfer,Guinea Pig
+317,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+318,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+319,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+320,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+321,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+322,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+323,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+324,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+325,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+326,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+327,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+328,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+329,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+330,Injured,Stray,Suffering,Euthanasia,Chicken Mix
+331,Normal,Stray,Partner,Transfer,Californian Mix
+332,Injured,Euthanasia Request,Suffering,Euthanasia,Chicken Mix
+333,Sick,Public Assist,Rabies Risk,Euthanasia,Raccoon
+334,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+335,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+336,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+337,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+338,Sick,Public Assist,Rabies Risk,Euthanasia,Raccoon
+339,Normal,Stray,None,Return to Owner,Donkey Mix
+340,Sick,Wildlife,None,Euthanasia,Raccoon
+341,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+342,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+343,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+344,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+345,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+346,Injured,Wildlife,None,Disposal,Squirrel
+347,Aged,Owner Surrender,Partner,Transfer,Horse Mix
+348,Injured,Wildlife,None,Disposal,Raccoon Mix
+349,Sick,Public Assist,Rabies Risk,Euthanasia,Raccoon Mix
+350,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+351,Sick,Wildlife,None,Euthanasia,Raccoon
+352,Sick,Wildlife,None,Euthanasia,Raccoon
+353,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+354,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+355,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+356,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+357,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+358,Sick,Wildlife,None,Disposal,Raccoon
+359,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+360,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+361,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+362,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+363,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+364,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+365,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+366,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+367,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+368,Normal,Stray,None,Adoption,Chicken
+369,Normal,Stray,None,Adoption,Chicken
+370,Normal,Stray,None,Adoption,Chicken
+371,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+372,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat
+373,Normal,Stray,Partner,Transfer,Californian Mix
+374,Normal,Owner Surrender,Partner,Transfer,Rat
+375,Normal,Owner Surrender,Partner,Transfer,Rat
+376,Sick,Owner Surrender,Suffering,Euthanasia,Rat
+377,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+378,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+379,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+380,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+381,Injured,Wildlife,None,Disposal,Opossum Mix
+382,Normal,Stray,None,Adoption,Ferret
+383,Normal,Owner Surrender,Partner,Transfer,Hamster Mix
+384,Normal,Owner Surrender,Partner,Transfer,Hamster Mix
+385,Normal,Owner Surrender,Partner,Transfer,Hamster Mix
+386,Sick,Wildlife,None,Disposal,Bat Mix
+387,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+388,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+389,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+390,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+391,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+392,Normal,Wildlife,Suffering,Euthanasia,Raccoon
+393,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+394,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+395,Injured,Wildlife,Medical,Euthanasia,Squirrel Mix
+396,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+397,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+398,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+399,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+400,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+401,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+402,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+403,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+404,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+405,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+406,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+407,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+408,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+409,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+410,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+411,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+412,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+413,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+414,Normal,Stray,Foster,Adoption,Pig Mix
+415,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+416,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+417,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+418,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+419,Nursing,Public Assist,Partner,Transfer,Rabbit Sh Mix
+420,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+421,Nursing,Public Assist,Partner,Transfer,Rabbit Sh Mix
+422,Nursing,Public Assist,Partner,Transfer,Rabbit Sh Mix
+423,Nursing,Public Assist,Partner,Transfer,Rabbit Sh Mix
+424,Nursing,Public Assist,Partner,Transfer,Rabbit Sh Mix
+425,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+426,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+427,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+428,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+429,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+430,Sick,Euthanasia Request,Suffering,Euthanasia,Rat
+431,Injured,Wildlife,Suffering,Euthanasia,Opossum
+432,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+433,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+434,Normal,Wildlife,None,Euthanasia,Bat Mix
+435,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+436,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+437,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+438,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+439,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+440,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+441,Normal,Stray,Partner,Transfer,Lionhead Mix
+442,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+443,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+444,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+445,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+446,Injured,Wildlife,None,Disposal,Bat Mix
+447,Sick,Wildlife,None,Disposal,Raccoon Mix
+448,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+449,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+450,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+451,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+452,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+453,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+454,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+455,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+456,Normal,Wildlife,None,Euthanasia,Bat
+457,Normal,Stray,Partner,Transfer,Duck Mix
+458,Normal,Stray,Partner,Transfer,Duck Mix
+459,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+460,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+461,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+462,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+463,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+464,Sick,Wildlife,None,Disposal,Bat
+465,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+466,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+467,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+468,Injured,Wildlife,Suffering,Euthanasia,Skunk
+469,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+470,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+471,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+472,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+473,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+474,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+475,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+476,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+477,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+478,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+479,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+480,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+481,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+482,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+483,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+484,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+485,Normal,Stray,Foster,Adoption,Pig Mix
+486,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+487,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+488,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+489,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+490,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+491,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+492,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+493,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+494,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+495,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+496,Normal,Stray,Suffering,Euthanasia,Raccoon Mix
+497,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+498,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+499,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+500,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+501,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+502,Sick,Wildlife,None,Died,Raccoon
+503,Normal,Stray,None,Adoption,Ferret Mix
+504,Sick,Wildlife,Medical,Euthanasia,Fox Mix
+505,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+506,Sick,Wildlife,None,Disposal,Bat Mix
+507,Injured,Wildlife,None,Disposal,Bat Mix
+508,Normal,Wildlife,None,Disposal,Bat Mix
+509,Normal,Wildlife,None,Disposal,Bat Mix
+510,Injured,Stray,None,Disposal,Opossum Mix
+511,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+512,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+513,Injured,Wildlife,Suffering,Euthanasia,Skunk Mix
+514,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+515,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+516,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+517,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+518,Sick,Wildlife,Suffering,Euthanasia,Skunk Mix
+519,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+520,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+521,Sick,Wildlife,Suffering,Euthanasia,Skunk
+522,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+523,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+524,Injured,Wildlife,Suffering,Euthanasia,Lark Mix
+525,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+526,Injured,Wildlife,Suffering,Euthanasia,Skunk
+527,Injured,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+528,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+529,Sick,Wildlife,Medical,Euthanasia,Fox Mix
+530,Sick,Wildlife,None,Euthanasia,Raccoon Mix
+531,Normal,Stray,Partner,Transfer,Silver Mix
+532,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+533,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+534,Injured,Wildlife,Suffering,Euthanasia,Skunk Mix
+535,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+536,Sick,Wildlife,None,Disposal,Raccoon Mix
+537,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+538,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+539,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+540,Sick,Wildlife,None,Euthanasia,Raccoon
+541,Normal,Wildlife,None,Euthanasia,Bat Mix
+542,Normal,Wildlife,None,Disposal,Bat Mix
+543,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+544,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+545,Normal,Wildlife,Partner,Transfer,Rabbit Sh Mix
+546,Normal,Wildlife,Partner,Transfer,Rabbit Sh Mix
+547,Normal,Wildlife,Partner,Transfer,Rabbit Sh Mix
+548,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+549,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+550,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+551,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+552,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+553,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+554,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+555,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+556,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+557,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+558,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+559,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+560,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+561,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+562,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+563,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+564,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+565,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+566,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+567,Normal,Wildlife,None,Died,Bat
+568,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+569,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+570,Normal,Wildlife,None,Disposal,Bat Mix
+571,Normal,Wildlife,None,Disposal,Bat Mix
+572,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+573,Injured,Wildlife,Enroute,Died,Opossum Mix
+574,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+575,Normal,Wildlife,None,Return to Owner,Tortoise Mix
+576,Normal,Stray,None,Return to Owner,Tortoise Mix
+577,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+578,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+579,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+580,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+581,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+582,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+583,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+584,Normal,Wildlife,None,Relocate,Squirrel
+585,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+586,Other,Wildlife,Suffering,Euthanasia,Skunk Mix
+587,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+588,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+589,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+590,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+591,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+592,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+593,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+594,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+595,Sick,Public Assist,None,Died,Raccoon Mix
+596,Normal,Wildlife,None,Euthanasia,Bat Mix
+597,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+598,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+599,Sick,Owner Surrender,Partner,Transfer,Rex Mix
+600,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+601,Normal,Wildlife,None,Euthanasia,Bat Mix
+602,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+603,Normal,Wildlife,None,Disposal,Bat Mix
+604,Normal,Wildlife,None,Disposal,Bat Mix
+605,Normal,Wildlife,None,Euthanasia,Bat Mix
+606,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+607,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+608,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+609,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+610,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+611,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+612,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+613,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+614,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+615,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+616,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+617,Injured,Wildlife,Suffering,Euthanasia,Opossum
+618,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+619,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+620,Sick,Stray,Suffering,Euthanasia,Raccoon Mix
+621,Normal,Stray,Rabies Risk,Euthanasia,Bat Mix
+622,Normal,Wildlife,None,Disposal,Bat Mix
+623,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+624,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+625,Normal,Wildlife,Suffering,Euthanasia,Raccoon
+626,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+627,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+628,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+629,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+630,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+631,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+632,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+633,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+634,Sick,Wildlife,Suffering,Euthanasia,Opossum Mix
+635,Sick,Wildlife,Suffering,Euthanasia,Squirrel Mix
+636,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+637,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+638,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+639,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+640,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+641,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+642,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+643,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+644,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+645,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+646,Normal,Owner Surrender,Foster,Adoption,Sugar Glider
+647,Normal,Stray,Partner,Transfer,English Spot Mix
+648,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+649,Normal,Stray,Partner,Transfer,Dutch Mix
+650,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+651,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+652,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+653,Normal,Wildlife,None,Relocate,Raccoon
+654,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+655,Injured,Wildlife,None,Disposal,Bat Mix
+656,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+657,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+658,Sick,Stray,Rabies Risk,Euthanasia,Bat Mix
+659,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+660,Normal,Stray,Partner,Transfer,Jersey Wooly Mix
+661,Normal,Stray,Partner,Transfer,Jersey Wooly Mix
+662,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+663,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+664,Normal,Owner Surrender,Foster,Adoption,Cockatiel Mix
+665,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+666,Injured,Stray,In Kennel,Died,Duck Mix
+667,Injured,Wildlife,Partner,Transfer,Turtle Mix
+668,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+669,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+670,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+671,Normal,Stray,Partner,Transfer,Guinea Pig
+672,Normal,Stray,Partner,Transfer,Guinea Pig
+673,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+674,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon
+675,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+676,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+677,Injured,Wildlife,None,Relocate,Raccoon
+678,Injured,Wildlife,Suffering,Euthanasia,Opossum
+679,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+680,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+681,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+682,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+683,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+684,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+685,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+686,Sick,Wildlife,Suffering,Euthanasia,Skunk
+687,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+688,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+689,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+690,Normal,Stray,Partner,Transfer,Cottontail Mix
+691,Sick,Wildlife,Enroute,Died,Raccoon Mix
+692,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+693,Normal,Stray,Partner,Transfer,Lionhead Mix
+694,Sick,Wildlife,None,Disposal,Bat
+695,Sick,Wildlife,None,Disposal,Raccoon
+696,Normal,Wildlife,None,Disposal,Bat Mix
+697,Injured,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+698,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+699,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+700,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+701,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+702,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+703,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+704,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+705,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+706,Sick,Wildlife,Rabies Risk,Euthanasia,Fox
+707,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+708,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+709,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+710,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+711,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+712,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+713,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+714,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+715,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+716,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+717,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+718,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+719,Injured,Wildlife,None,Relocate,Duck
+720,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+721,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+722,Injured,Wildlife,None,Euthanasia,Opossum Mix
+723,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+724,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+725,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+726,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+727,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+728,Normal,Stray,Partner,Transfer,Chicken Mix
+729,Normal,Wildlife,None,Disposal,Bat
+730,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+731,Normal,Stray,Partner,Transfer,Californian Mix
+732,Sick,Wildlife,Medical,Euthanasia,Opossum Mix
+733,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+734,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+735,Nursing,Wildlife,None,Relocate,Raccoon
+736,Normal,Wildlife,None,Disposal,Bat
+737,Normal,Wildlife,None,Disposal,Bat
+738,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+739,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+740,Normal,Wildlife,None,Disposal,Bat Mix
+741,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+742,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+743,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+744,Normal,Wildlife,In Kennel,Died,Bat
+745,Sick,Wildlife,Medical,Euthanasia,Raccoon
+746,Injured,Stray,Medical,Euthanasia,Opossum Mix
+747,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+748,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+749,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+750,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+751,Injured,Wildlife,Partner,Transfer,Opossum Mix
+752,Sick,Wildlife,Medical,Euthanasia,Raccoon
+753,Sick,Wildlife,None,Euthanasia,Skunk Mix
+754,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+755,Injured,Wildlife,Suffering,Euthanasia,Opossum
+756,Sick,Wildlife,Enroute,Died,Fox
+757,Injured,Wildlife,Suffering,Euthanasia,Opossum
+758,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+759,Injured,Wildlife,None,Relocate,Opossum
+760,Sick,Wildlife,Suffering,Euthanasia,Skunk
+761,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+762,Normal,Stray,None,Adoption,Bantam Mix
+763,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+764,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+765,Normal,Wildlife,None,Euthanasia,Bat
+766,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+767,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+768,Nursing,Wildlife,None,Relocate,Raccoon
+769,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+770,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+771,Normal,Stray,None,Adoption,Bantam Mix
+772,Normal,Stray,None,Adoption,Bantam Mix
+773,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+774,Sick,Wildlife,None,Euthanasia,Raccoon
+775,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+776,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+777,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+778,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+779,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+780,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+781,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+782,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+783,Normal,Stray,Partner,Transfer,Lop-English Mix
+784,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+785,Normal,Stray,None,Return to Owner,Lop-English Mix
+786,Sick,Wildlife,Medical,Euthanasia,Fox Mix
+787,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+788,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+789,Injured,Wildlife,Suffering,Euthanasia,Opossum
+790,Sick,Wildlife,Rabies Risk,Euthanasia,Fox
+791,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+792,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+793,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+794,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+795,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+796,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+797,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+798,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+799,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+800,Injured,Public Assist,None,Euthanasia,Bat
+801,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+802,Normal,Wildlife,None,Disposal,Bat Mix
+803,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+804,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+805,Normal,Stray,Partner,Transfer,Rex Mix
+806,Normal,Wildlife,None,Disposal,Bat
+807,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+808,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+809,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+810,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+811,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+812,Normal,Stray,Partner,Transfer,Parakeet Mix
+813,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+814,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+815,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+816,Injured,Stray,Suffering,Euthanasia,Rabbit Sh Mix
+817,Normal,Wildlife,None,Relocate,Raccoon Mix
+818,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+819,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+820,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+821,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+822,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+823,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+824,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+825,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+826,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+827,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+828,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+829,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+830,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+831,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+832,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+833,Normal,Stray,None,Adoption,Lovebird Mix
+834,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+835,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+836,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+837,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+838,Sick,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+839,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+840,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+841,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+842,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+843,Normal,Stray,Partner,Transfer,Goat Mix
+844,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+845,Normal,Stray,None,Adoption,Lionhead Mix
+846,Normal,Owner Surrender,Partner,Transfer,Lionhead Mix
+847,Normal,Stray,None,Return to Owner,Tortoise Mix
+848,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+849,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+850,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+851,Normal,Wildlife,In Kennel,Died,Bat
+852,Injured,Stray,None,Adoption,Parrot Mix
+853,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+854,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+855,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+856,Sick,Public Assist,None,Euthanasia,Raccoon Mix
+857,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+858,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+859,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+860,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+861,Normal,Wildlife,None,Died,Bat
+862,Normal,Wildlife,None,Died,Bat
+863,Normal,Wildlife,None,Died,Bat Mix
+864,Normal,Wildlife,None,Died,Bat Mix
+865,Normal,Wildlife,None,Disposal,Bat Mix
+866,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+867,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+868,Injured,Wildlife,Medical,Euthanasia,Opossum
+869,Injured,Wildlife,Medical,Euthanasia,Opossum
+870,Injured,Wildlife,Suffering,Euthanasia,Opossum
+871,Injured,Wildlife,None,Euthanasia,Bat Mix
+872,Nursing,Wildlife,Rabies Risk,Euthanasia,Raccoon
+873,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+874,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+875,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+876,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+877,Normal,Wildlife,Partner,Transfer,Rabbit Sh Mix
+878,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+879,Normal,Owner Surrender,Partner,Transfer,Lionhead Mix
+880,Normal,Owner Surrender,Partner,Transfer,Lionhead Mix
+881,Injured,Wildlife,Rabies Risk,Euthanasia,Armadillo
+882,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+883,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+884,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+885,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+886,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+887,Sick,Public Assist,None,Adoption,Cold Water
+888,Sick,Public Assist,None,Died,Cold Water
+889,Sick,Public Assist,None,Adoption,Cold Water
+890,Sick,Public Assist,None,Adoption,Cold Water
+891,Sick,Public Assist,None,Adoption,Cold Water
+892,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+893,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+894,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+895,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon
+896,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+897,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+898,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+899,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+900,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+901,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon
+902,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh
+903,Normal,Stray,Partner,Transfer,American Mix
+904,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+905,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+906,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+907,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+908,Injured,Wildlife,None,Euthanasia,Bat Mix
+909,Injured,Wildlife,None,Euthanasia,Bat Mix
+910,Normal,Stray,Partner,Transfer,Duck
+911,Normal,Stray,Partner,Transfer,Duck
+912,Normal,Stray,Partner,Transfer,Duck
+913,Normal,Stray,Partner,Transfer,Duck
+914,Normal,Stray,Partner,Transfer,Duck
+915,Normal,Stray,Partner,Transfer,Duck
+916,Normal,Stray,Partner,Transfer,Duck
+917,Normal,Stray,Partner,Transfer,Duck
+918,Sick,Wildlife,Medical,Euthanasia,Raccoon
+919,Injured,Wildlife,None,Euthanasia,Squirrel Mix
+920,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+921,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+922,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+923,Normal,Wildlife,None,Euthanasia,Bat Mix
+924,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+925,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+926,Normal,Stray,Partner,Transfer,Californian Mix
+927,Normal,Stray,Partner,Transfer,Californian Mix
+928,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat
+929,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat
+930,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat
+931,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat
+932,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+933,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+934,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+935,Normal,Stray,Foster,Adoption,Ferret Mix
+936,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+937,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+938,Injured,Stray,Suffering,Euthanasia,Rabbit Sh Mix
+939,Sick,Wildlife,None,Disposal,Raccoon
+940,Injured,Wildlife,None,Euthanasia,Opossum
+941,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+942,Normal,Stray,None,Adoption,Potbelly Pig
+943,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+944,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+945,Sick,Wildlife,Suffering,Euthanasia,Bat Mix
+946,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+947,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+948,Normal,Wildlife,None,Disposal,Bat
+949,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+950,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+951,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+952,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+953,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+954,Sick,Wildlife,None,Disposal,Skunk
+955,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+956,Normal,Stray,Partner,Transfer,Lop-Holland Mix
+957,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+958,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh
+959,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+960,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+961,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+962,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+963,Normal,Stray,Partner,Transfer,Rabbit Lh Mix
+964,Normal,Owner Surrender,Partner,Transfer,Rex Mix
+965,Normal,Owner Surrender,Partner,Transfer,Lionhead
+966,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+967,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+968,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+969,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+970,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+971,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+972,Injured,Wildlife,None,Euthanasia,Opossum Mix
+973,Injured,Wildlife,None,Euthanasia,Bat Mix
+974,Injured,Wildlife,None,Euthanasia,Opossum Mix
+975,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+976,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+977,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+978,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+979,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+980,Normal,Stray,None,Euthanasia,Bat Mix
+981,Normal,Wildlife,None,Disposal,Bat Mix
+982,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+983,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+984,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+985,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+986,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+987,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+988,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+989,Injured,Wildlife,Suffering,Euthanasia,Opossum
+990,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+991,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+992,Sick,Wildlife,None,Relocate,Opossum
+993,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+994,Normal,Stray,Foster,Adoption,Ferret Mix
+995,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+996,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+997,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+998,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+999,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1000,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1001,Normal,Wildlife,None,Relocate,Raccoon Mix
+1002,Normal,Stray,Partner,Transfer,Snake
+1003,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1004,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1005,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1006,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1007,Normal,Stray,In Kennel,Died,Bat Mix
+1008,Normal,Stray,Partner,Transfer,Hamster Mix
+1009,Normal,Stray,Partner,Transfer,Guinea Pig Mix
+1010,Sick,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1011,Normal,Wildlife,Suffering,Euthanasia,Raccoon
+1012,Normal,Stray,None,Return to Owner,Donkey Mix
+1013,Normal,Stray,Partner,Transfer,Sparrow Mix
+1014,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1015,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1016,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1017,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1018,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1019,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+1020,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1021,Normal,Owner Surrender,Partner,Transfer,Dutch/Rabbit Sh
+1022,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+1023,Normal,Stray,Partner,Transfer,Chicken
+1024,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+1025,Normal,Stray,Partner,Transfer,Nuthatch Mix
+1026,Normal,Wildlife,None,Died,Bat Mix
+1027,Injured,Wildlife,None,Relocate,Squirrel
+1028,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+1029,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1030,Injured,Wildlife,Enroute,Died,Squirrel Mix
+1031,Injured,Wildlife,Partner,Transfer,Turtle Mix
+1032,Normal,Stray,Partner,Transfer,Snake Mix
+1033,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1034,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1035,Injured,Wildlife,None,Euthanasia,Tortoise Mix
+1036,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1037,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1038,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1039,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1040,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1041,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1042,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1043,Normal,Wildlife,None,Disposal,Bat
+1044,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1045,Normal,Wildlife,None,Disposal,Bat
+1046,Normal,Wildlife,None,Disposal,Bat
+1047,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1048,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1049,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1050,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1051,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1052,Injured,Wildlife,Medical,Euthanasia,Opossum
+1053,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1054,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1055,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1056,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1057,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1058,Normal,Stray,Partner,Transfer,Opossum Mix
+1059,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1060,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1061,Injured,Wildlife,None,Disposal,Bat Mix
+1062,Normal,Wildlife,None,Disposal,Bat Mix
+1063,Normal,Wildlife,None,Disposal,Bat Mix
+1064,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1065,Normal,Stray,Partner,Transfer,Lizard Mix
+1066,Normal,Wildlife,None,Disposal,Bat Mix
+1067,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1068,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1069,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1070,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1071,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1072,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1073,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1074,Injured,Stray,Suffering,Euthanasia,Rabbit Sh Mix
+1075,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1076,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1077,Normal,Stray,Partner,Transfer,Quaker Mix
+1078,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1079,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1080,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1081,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1082,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1083,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1084,Normal,Stray,None,Return to Owner,Ferret Mix
+1085,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1086,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1087,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1088,Normal,Wildlife,None,Disposal,Bat
+1089,Normal,Wildlife,Partner,Transfer,Dove Mix
+1090,Injured,Wildlife,Suffering,Euthanasia,Skunk
+1091,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1092,Normal,Wildlife,None,Disposal,Bat
+1093,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1094,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1095,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1096,Normal,Wildlife,None,Disposal,Bat
+1097,Normal,Wildlife,None,Disposal,Bat
+1098,Normal,Wildlife,In Kennel,Died,Bat
+1099,Injured,Wildlife,None,Relocate,Squirrel
+1100,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1101,Injured,Wildlife,Medical,Euthanasia,Armadillo Mix
+1102,Normal,Wildlife,None,Disposal,Bat Mix
+1103,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1104,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1105,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1106,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1107,Normal,Public Assist,None,Return to Owner,Pygmy
+1108,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1109,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk
+1110,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk
+1111,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1112,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1113,Injured,Owner Surrender,Partner,Transfer,Guinea Pig
+1114,Normal,Wildlife,None,Euthanasia,Bat Mix
+1115,Normal,Wildlife,None,Euthanasia,Bat Mix
+1116,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1117,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+1118,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+1119,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1120,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1121,Normal,Wildlife,None,Disposal,Bat Mix
+1122,Normal,Wildlife,None,Disposal,Bat Mix
+1123,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1124,Normal,Wildlife,None,Disposal,Bat Mix
+1125,Normal,Wildlife,None,Disposal,Bat Mix
+1126,Normal,Wildlife,None,Disposal,Bat Mix
+1127,Normal,Wildlife,None,Disposal,Bat Mix
+1128,Normal,Wildlife,None,Disposal,Bat Mix
+1129,Normal,Wildlife,None,Disposal,Bat Mix
+1130,Normal,Wildlife,None,Disposal,Bat Mix
+1131,Normal,Wildlife,None,Disposal,Bat Mix
+1132,Normal,Wildlife,None,Disposal,Bat Mix
+1133,Normal,Wildlife,None,Disposal,Bat Mix
+1134,Normal,Wildlife,None,Disposal,Bat Mix
+1135,Normal,Wildlife,None,Disposal,Bat Mix
+1136,Normal,Wildlife,None,Disposal,Bat Mix
+1137,Normal,Wildlife,None,Disposal,Bat Mix
+1138,Normal,Wildlife,None,Disposal,Bat Mix
+1139,Normal,Wildlife,None,Disposal,Bat Mix
+1140,Normal,Wildlife,None,Disposal,Bat Mix
+1141,Normal,Wildlife,None,Disposal,Bat Mix
+1142,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1143,Normal,Wildlife,None,Disposal,Bat Mix
+1144,Normal,Wildlife,None,Disposal,Bat Mix
+1145,Normal,Wildlife,None,Disposal,Bat Mix
+1146,Normal,Wildlife,None,Disposal,Bat Mix
+1147,Normal,Wildlife,None,Disposal,Bat Mix
+1148,Normal,Wildlife,None,Disposal,Bat Mix
+1149,Normal,Wildlife,None,Disposal,Bat Mix
+1150,Normal,Wildlife,None,Disposal,Bat Mix
+1151,Normal,Wildlife,None,Disposal,Bat Mix
+1152,Normal,Wildlife,None,Disposal,Bat Mix
+1153,Normal,Wildlife,None,Disposal,Bat Mix
+1154,Normal,Wildlife,None,Disposal,Bat Mix
+1155,Normal,Wildlife,None,Disposal,Bat Mix
+1156,Normal,Owner Surrender,Partner,Transfer,Parrot Mix
+1157,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1158,Normal,Owner Surrender,Partner,Transfer,Silkie Mix
+1159,Normal,Wildlife,None,Disposal,Bat
+1160,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1161,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1162,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1163,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1164,Normal,Wildlife,None,Disposal,Bat
+1165,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1166,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1167,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1168,Normal,Wildlife,None,Disposal,Bat
+1169,Normal,Wildlife,None,Disposal,Bat
+1170,Normal,Wildlife,None,Disposal,Bat
+1171,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1172,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1173,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1174,Sick,Wildlife,None,Disposal,Bat Mix
+1175,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+1176,Normal,Wildlife,None,Disposal,Bat
+1177,Normal,Wildlife,None,Euthanasia,Bat
+1178,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum
+1179,Sick,Stray,Partner,Transfer,Rabbit Sh
+1180,Normal,Stray,Partner,Transfer,Guinea Pig
+1181,Normal,Stray,None,Adoption,Cockatiel
+1182,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1183,Normal,Wildlife,None,Euthanasia,Bat
+1184,Normal,Owner Surrender,Partner,Transfer,American Sable
+1185,Sick,Wildlife,None,Disposal,Skunk Mix
+1186,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1187,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1188,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1189,Sick,Wildlife,None,Disposal,Raccoon
+1190,Normal,Stray,Suffering,Euthanasia,Dove Mix
+1191,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1192,Sick,Wildlife,None,Disposal,Bat Mix
+1193,Normal,Wildlife,None,Relocate,Opossum
+1194,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1195,Normal,Wildlife,None,Relocate,Raccoon Mix
+1196,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1197,Sick,Wildlife,None,Disposal,Raccoon Mix
+1198,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1199,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1200,Normal,Stray,Partner,Transfer,Rabbit Sh
+1201,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1202,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1203,Sick,Wildlife,None,Disposal,Raccoon
+1204,Normal,Wildlife,None,Disposal,Bat
+1205,Sick,Wildlife,Suffering,Euthanasia,Opossum Mix
+1206,Injured,Wildlife,None,Disposal,Bat Mix
+1207,Normal,Wildlife,None,Euthanasia,Bat
+1208,Normal,Wildlife,None,Euthanasia,Bat
+1209,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1210,Normal,Public Assist,Partner,Transfer,Chicken Mix
+1211,Normal,Public Assist,Partner,Transfer,Chicken Mix
+1212,Normal,Public Assist,Suffering,Euthanasia,Chicken Mix
+1213,Injured,Stray,Suffering,Euthanasia,Chicken Mix
+1214,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1215,Sick,Wildlife,None,Disposal,Bat Mix
+1216,Normal,Wildlife,None,Disposal,Bat Mix
+1217,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1218,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1219,Injured,Stray,Medical,Euthanasia,Rabbit Sh Mix
+1220,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1221,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1222,Normal,Stray,Partner,Transfer,Cockatiel Mix
+1223,Normal,Stray,Partner,Transfer,Bantam Mix
+1224,Normal,Stray,Partner,Transfer,Bantam Mix
+1225,Normal,Stray,Partner,Transfer,Bantam Mix
+1226,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1227,Normal,Owner Surrender,Partner,Transfer,Ferret Mix
+1228,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1229,Injured,Euthanasia Request,None,Euthanasia,Rat Mix
+1230,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1231,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1232,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1233,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1234,Normal,Wildlife,None,Disposal,Bat Mix
+1235,Sick,Euthanasia Request,Medical,Euthanasia,Ferret
+1236,Normal,Stray,Partner,Transfer,Rabbit Sh
+1237,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1238,Normal,Wildlife,None,Disposal,Bat
+1239,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1240,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1241,Injured,Stray,Rabies Risk,Euthanasia,Opossum Mix
+1242,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1243,Normal,Owner Surrender,Partner,Transfer,Rex Mix
+1244,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1245,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1246,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1247,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1248,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1249,Sick,Wildlife,In Kennel,Died,Bat Mix
+1250,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1251,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1252,Sick,Stray,Suffering,Euthanasia,Opossum Mix
+1253,Normal,Wildlife,Suffering,Euthanasia,Bat Mix
+1254,Normal,Wildlife,Suffering,Euthanasia,Bat Mix
+1255,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1256,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1257,Normal,Wildlife,None,Disposal,Bat Mix
+1258,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1259,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1260,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1261,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1262,Normal,Wildlife,None,Euthanasia,Bat Mix
+1263,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1264,Normal,Wildlife,None,Euthanasia,Bat Mix
+1265,Normal,Wildlife,None,Euthanasia,Bat Mix
+1266,Sick,Wildlife,None,Disposal,Bat Mix
+1267,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1268,Normal,Stray,Partner,Transfer,Rex Mix
+1269,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1270,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1271,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1272,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1273,Injured,Stray,Medical,Euthanasia,Californian Mix
+1274,Normal,Wildlife,None,Euthanasia,Bat
+1275,Normal,Stray,Partner,Transfer,Californian Mix
+1276,Normal,Wildlife,None,Euthanasia,Bat Mix
+1277,Normal,Wildlife,None,Euthanasia,Bat Mix
+1278,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1279,Sick,Wildlife,None,Died,Bat Mix
+1280,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1281,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1282,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1283,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1284,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1285,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1286,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1287,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1288,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1289,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1290,Normal,Public Assist,Partner,Transfer,Guinea Pig Mix
+1291,Sick,Wildlife,None,Euthanasia,Bat Mix
+1292,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1293,Normal,Wildlife,None,Euthanasia,Bat Mix
+1294,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1295,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1296,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1297,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1298,Normal,Stray,None,Adoption,Ferret Mix
+1299,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1300,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1301,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1302,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1303,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1304,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1305,Normal,Stray,Partner,Transfer,Lionhead Mix
+1306,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1307,Normal,Wildlife,None,Euthanasia,Bat
+1308,Normal,Wildlife,None,Euthanasia,Bat Mix
+1309,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1310,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1311,Sick,Wildlife,Suffering,Euthanasia,Opossum
+1312,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1313,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1314,Normal,Stray,Partner,Transfer,Chicken Mix
+1315,Sick,Wildlife,None,Died,Bat Mix
+1316,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1317,Normal,Stray,Partner,Transfer,Guinea Pig
+1318,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1319,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1320,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1321,Sick,Wildlife,Rabies Risk,Euthanasia,Fox
+1322,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1323,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1324,Normal,Stray,Partner,Transfer,New Zealand Wht Mix
+1325,Normal,Wildlife,None,Euthanasia,Bat
+1326,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1327,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1328,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1329,Injured,Public Assist,Rabies Risk,Euthanasia,Bat
+1330,Injured,Public Assist,Rabies Risk,Euthanasia,Bat
+1331,Injured,Public Assist,Rabies Risk,Euthanasia,Bat
+1332,Normal,Wildlife,Suffering,Euthanasia,Skunk Mix
+1333,Injured,Stray,Partner,Transfer,Rabbit Sh
+1334,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1335,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1336,Sick,Wildlife,Suffering,Euthanasia,Skunk
+1337,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1338,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1339,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1340,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1341,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+1342,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1343,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1344,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1345,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1346,Sick,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1347,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1348,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1349,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+1350,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1351,Normal,Wildlife,None,Euthanasia,Bat
+1352,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+1353,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1354,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1355,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1356,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1357,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1358,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1359,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1360,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1361,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1362,Normal,Stray,Partner,Transfer,Lop-Mini Mix
+1363,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1364,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1365,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1366,Injured,Wildlife,Rabies Risk,Euthanasia,Coyote Mix
+1367,Normal,Wildlife,None,Euthanasia,Bat Mix
+1368,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1369,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1370,Normal,Wildlife,None,Euthanasia,Bat Mix
+1371,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1372,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1373,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1374,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1375,Normal,Wildlife,In Kennel,Died,Bat Mix
+1376,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1377,Other,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1378,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1379,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+1380,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1381,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1382,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1383,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1384,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1385,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1386,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1387,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1388,Nursing,Stray,Partner,Transfer,Lop-Mini Mix
+1389,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1390,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1391,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1392,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+1393,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1394,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1395,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1396,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1397,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1398,Injured,Stray,Suffering,Euthanasia,Opossum Mix
+1399,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1400,Normal,Stray,None,Adoption,Chicken Mix
+1401,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1402,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1403,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1404,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1405,Normal,Stray,Rabies Risk,Euthanasia,Bat Mix
+1406,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1407,Sick,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1408,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1409,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1410,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1411,Injured,Wildlife,Suffering,Euthanasia,Fox
+1412,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+1413,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1414,Injured,Stray,Partner,Transfer,Duck
+1415,Normal,Stray,Partner,Transfer,New Zealand Wht Mix
+1416,Normal,Stray,Partner,Transfer,New Zealand Wht Mix
+1417,Normal,Stray,Partner,Transfer,New Zealand Wht Mix
+1418,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1419,Normal,Stray,Partner,Transfer,Californian Mix
+1420,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1421,Normal,Stray,None,Adoption,Ferret Mix
+1422,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1423,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1424,Normal,Owner Surrender,Partner,Transfer,Chicken Mix
+1425,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1426,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1427,Normal,Owner Surrender,Partner,Transfer,Hamster Mix
+1428,Normal,Owner Surrender,None,Adoption,Finch
+1429,Normal,Owner Surrender,None,Adoption,Finch
+1430,Normal,Owner Surrender,None,Adoption,Parakeet
+1431,Normal,Owner Surrender,None,Adoption,Parakeet
+1432,Sick,Euthanasia Request,Suffering,Euthanasia,Ferret
+1433,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1434,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+1435,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1436,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1437,Normal,Wildlife,Partner,Transfer,Mouse Mix
+1438,Normal,Owner Surrender,Partner,Transfer,Hotot Mix
+1439,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1440,Sick,Wildlife,Medical,Euthanasia,Opossum Mix
+1441,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1442,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1443,Normal,Stray,None,Adoption,Turkey Mix
+1444,Normal,Stray,None,Adoption,Turkey Mix
+1445,Normal,Stray,None,Adoption,Guinea Mix
+1446,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1447,Sick,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1448,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1449,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1450,Injured,Wildlife,Medical,Euthanasia,Opossum
+1451,Normal,Owner Surrender,Partner,Transfer,Hamster Mix
+1452,Sick,Wildlife,Medical,Euthanasia,Opossum Mix
+1453,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1454,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1455,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1456,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1457,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1458,Normal,Public Assist,None,Return to Owner,Conure
+1459,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1460,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1461,Normal,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+1462,Normal,Stray,Partner,Transfer,Guinea Pig Mix
+1463,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1464,Injured,Stray,Suffering,Euthanasia,Chicken Mix
+1465,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1466,Injured,Stray,Suffering,Euthanasia,Opossum Mix
+1467,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1468,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1469,Normal,Wildlife,Partner,Transfer,Rabbit Sh
+1470,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1471,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1472,Sick,Owner Surrender,Suffering,Euthanasia,Rabbit Sh
+1473,Sick,Owner Surrender,Suffering,Euthanasia,Rabbit Sh
+1474,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1475,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1476,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1477,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1478,Normal,Owner Surrender,Partner,Transfer,Lionhead Mix
+1479,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1480,Normal,Stray,None,Return to Owner,Lop-English Mix
+1481,Normal,Public Assist,None,Return to Owner,Hamster
+1482,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1483,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1484,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1485,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1486,Normal,Public Assist,None,Return to Owner,Lizard Mix
+1487,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1488,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1489,Injured,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1490,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1491,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1492,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1493,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+1494,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1495,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1496,Sick,Euthanasia Request,Suffering,Euthanasia,Chicken Mix
+1497,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1498,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1499,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1500,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1501,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1502,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1503,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1504,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1505,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1506,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1507,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1508,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1509,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1510,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1511,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1512,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1513,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1514,Sick,Wildlife,Suffering,Euthanasia,Fox Mix
+1515,Normal,Stray,Suffering,Euthanasia,Chicken
+1516,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1517,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+1518,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1519,Injured,Stray,Foster,Adoption,Parakeet Mix
+1520,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1521,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1522,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1523,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1524,Normal,Wildlife,None,Died,Bat
+1525,Normal,Wildlife,None,Died,Bat
+1526,Normal,Wildlife,None,Died,Bat
+1527,Normal,Wildlife,None,Died,Bat
+1528,Normal,Wildlife,None,Died,Bat
+1529,Normal,Wildlife,None,Died,Bat
+1530,Normal,Wildlife,None,Died,Bat
+1531,Normal,Wildlife,None,Died,Bat
+1532,Normal,Wildlife,None,Died,Bat
+1533,Normal,Wildlife,None,Died,Bat
+1534,Normal,Wildlife,None,Died,Bat
+1535,Normal,Wildlife,None,Died,Bat
+1536,Normal,Wildlife,None,Died,Bat
+1537,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1538,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1539,Normal,Owner Surrender,Partner,Transfer,Cinnamon
+1540,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1541,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1542,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1543,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1544,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1545,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1546,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1547,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1548,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1549,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1550,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1551,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1552,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1553,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1554,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1555,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1556,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1557,Normal,Stray,Foster,Adoption,
+1558,Normal,Stray,Foster,Adoption,
+1559,Normal,Stray,Partner,Transfer,Hamster Mix
+1560,Normal,Stray,Partner,Transfer,Hamster Mix
+1561,Normal,Stray,Partner,Transfer,Hamster Mix
+1562,Normal,Stray,Partner,Transfer,Hamster Mix
+1563,Normal,Stray,Partner,Transfer,Hamster Mix
+1564,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1565,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1566,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1567,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1568,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1569,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1570,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1571,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1572,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1573,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh Mix
+1574,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1575,Normal,Wildlife,None,Died,Bat Mix
+1576,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1577,Injured,Wildlife,Medical,Euthanasia,Squirrel
+1578,Normal,Stray,None,Return to Owner,Quaker Mix
+1579,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1580,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1581,Normal,Stray,Partner,Transfer,Lop-English Mix
+1582,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1583,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1584,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1585,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1586,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1587,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1588,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1589,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1590,Normal,Stray,Partner,Transfer,Rabbit Lh
+1591,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1592,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1593,Sick,Wildlife,Medical,Euthanasia,Opossum Mix
+1594,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1595,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1596,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1597,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1598,Normal,Stray,Partner,Transfer,Pigeon Mix
+1599,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1600,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1601,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1602,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1603,Injured,Stray,Suffering,Euthanasia,Squirrel Mix
+1604,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1605,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1606,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1607,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1608,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1609,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1610,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1611,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1612,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1613,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1614,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1615,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1616,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1617,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1618,Injured,Wildlife,In Kennel,Died,Rabbit Sh
+1619,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1620,Normal,Wildlife,Partner,Transfer,Turtle Mix
+1621,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1622,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1623,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+1624,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1625,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1626,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1627,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1628,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1629,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1630,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1631,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1632,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1633,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1634,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1635,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1636,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1637,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1638,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1639,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1640,Normal,Stray,Partner,Transfer,Guinea Pig Mix
+1641,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1642,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1643,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1644,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1645,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1646,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1647,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1648,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1649,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1650,Normal,Stray,Rabies Risk,Euthanasia,Bat
+1651,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1652,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1653,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1654,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1655,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1656,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1657,Sick,Owner Surrender,Partner,Transfer,Parakeet Mix
+1658,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1659,Normal,Wildlife,None,Died,Bat Mix
+1660,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1661,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1662,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1663,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1664,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1665,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+1666,Sick,Public Assist,Rabies Risk,Euthanasia,Skunk Mix
+1667,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1668,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1669,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1670,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1671,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1672,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1673,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1674,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1675,Injured,Wildlife,Medical,Euthanasia,Squirrel Mix
+1676,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1677,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1678,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1679,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1680,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1681,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1682,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1683,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1684,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+1685,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1686,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1687,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1688,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1689,Injured,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1690,Normal,Public Assist,Partner,Transfer,Lizard Mix
+1691,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1692,Injured,Stray,Partner,Transfer,Rabbit Sh Mix
+1693,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1694,Normal,Stray,Partner,Transfer,Californian Mix
+1695,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1696,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1697,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1698,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1699,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1700,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1701,Normal,Stray,Partner,Transfer,American Sable Mix
+1702,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1703,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1704,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1705,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1706,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1707,Injured,Wildlife,Medical,Euthanasia,Opossum
+1708,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1709,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1710,Injured,Wildlife,Suffering,Euthanasia,Chicken
+1711,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1712,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1713,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1714,Normal,Stray,Partner,Transfer,Guinea Pig
+1715,Normal,Stray,Partner,Transfer,Guinea Pig
+1716,Normal,Stray,None,Euthanasia,Raccoon Mix
+1717,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1718,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1719,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1720,Normal,Stray,None,Return to Owner,Rabbit Sh Mix
+1721,Normal,Owner Surrender,Partner,Transfer,Gerbil Mix
+1722,Normal,Owner Surrender,Partner,Transfer,Gerbil Mix
+1723,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1724,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1725,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1726,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1727,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1728,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1729,Normal,Owner Surrender,Partner,Transfer,Angora-French Mix
+1730,Sick,Wildlife,Suffering,Euthanasia,Squirrel
+1731,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1732,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+1733,Injured,Wildlife,Partner,Transfer,Dove
+1734,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1735,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1736,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1737,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1738,Normal,Stray,None,Adoption,Parakeet Mix
+1739,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1740,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1741,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1742,Injured,Wildlife,Suffering,Euthanasia,Opossum
+1743,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1744,Injured,Wildlife,Aggressive,Euthanasia,Squirrel Mix
+1745,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1746,Normal,Wildlife,In Kennel,Died,Bat
+1747,Injured,Stray,Suffering,Euthanasia,Bluebird Mix
+1748,Normal,Stray,None,Adoption,Conure
+1749,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1750,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1751,Normal,Stray,Partner,Transfer,Pig Mix
+1752,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1753,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1754,Injured,Wildlife,Rabies Risk,Euthanasia,Bat
+1755,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1756,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1757,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1758,Normal,Wildlife,In Kennel,Died,Bat
+1759,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1760,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1761,Injured,Wildlife,Medical,Euthanasia,Opossum
+1762,Injured,Wildlife,Suffering,Euthanasia,Turtle Mix
+1763,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1764,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1765,Sick,Wildlife,Rabies Risk,Euthanasia,Fox Mix
+1766,Injured,Stray,In Kennel,Died,Rat Mix
+1767,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1768,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1769,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1770,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1771,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1772,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1773,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1774,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh Mix
+1775,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1776,Normal,Stray,None,Relocate,Chicken
+1777,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1778,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1779,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1780,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1781,Normal,Wildlife,Rabies Risk,Euthanasia,Opossum
+1782,Normal,Wildlife,Underage,Euthanasia,Opossum
+1783,Normal,Wildlife,Underage,Euthanasia,Opossum
+1784,Normal,Wildlife,Underage,Euthanasia,Opossum
+1785,Normal,Wildlife,Underage,Euthanasia,Opossum
+1786,Normal,Wildlife,Underage,Euthanasia,Opossum
+1787,Normal,Wildlife,Underage,Euthanasia,Opossum
+1788,Normal,Stray,None,Adoption,Chicken
+1789,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1790,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1791,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1792,Normal,Stray,None,Return to Owner,Ferret Mix
+1793,Normal,Stray,Partner,Transfer,Bunting
+1794,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1795,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1796,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1797,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1798,Other,Wildlife,Partner,Transfer,Mockingbird
+1799,Other,Wildlife,Partner,Transfer,Sparrow
+1800,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1801,Injured,Wildlife,Medical,Euthanasia,Squirrel
+1802,Normal,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+1803,Injured,Stray,Suffering,Euthanasia,Chicken Mix
+1804,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1805,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1806,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1807,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1808,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1809,Normal,Stray,None,Adoption,Duck Mix
+1810,Normal,Stray,Rabies Risk,Euthanasia,Bat
+1811,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1812,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1813,Nursing,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1814,Nursing,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1815,Nursing,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1816,Nursing,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1817,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1818,Normal,Stray,Suffering,Euthanasia,Dove
+1819,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1820,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1821,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1822,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1823,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1824,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk
+1825,Normal,Wildlife,Rabies Risk,Euthanasia,Skunk
+1826,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1827,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1828,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+1829,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1830,Normal,Stray,Rabies Risk,Euthanasia,Bat
+1831,Aged,Euthanasia Request,Suffering,Euthanasia,Hamster Mix
+1832,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1833,Normal,Stray,Partner,Transfer,Guinea Pig
+1834,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1835,Injured,Wildlife,None,Relocate,Opossum Mix
+1836,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1837,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1838,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1839,Injured,Wildlife,Suffering,Euthanasia,Turtle Mix
+1840,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1841,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1842,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1843,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1844,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1845,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1846,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1847,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1848,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1849,Normal,Stray,In Kennel,Died,Rex Mix
+1850,Normal,Owner Surrender,None,Adoption,Turtle Mix
+1851,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1852,Normal,Public Assist,Partner,Transfer,Rabbit Sh
+1853,Normal,Public Assist,Partner,Transfer,Parakeet
+1854,Normal,Public Assist,Partner,Transfer,Parakeet
+1855,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1856,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1857,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1858,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1859,Nursing,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1860,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1861,Injured,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+1862,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1863,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1864,Sick,Owner Surrender,Partner,Transfer,Rat Mix
+1865,Sick,Owner Surrender,Partner,Transfer,Rat Mix
+1866,Normal,Wildlife,None,Died,Bat
+1867,Normal,Wildlife,None,Died,Bat
+1868,Normal,Stray,Partner,Transfer,Lop-English Mix
+1869,Normal,Stray,None,Return to Owner,Snake Mix
+1870,Normal,Stray,Partner,Transfer,Rabbit Sh
+1871,Normal,Wildlife,Partner,Transfer,Opossum Mix
+1872,Normal,Wildlife,Partner,Transfer,Opossum Mix
+1873,Normal,Wildlife,Partner,Transfer,Opossum Mix
+1874,Normal,Wildlife,Partner,Transfer,Opossum Mix
+1875,Normal,Wildlife,Partner,Transfer,Opossum Mix
+1876,Normal,Wildlife,Partner,Transfer,Opossum
+1877,Normal,Wildlife,Partner,Transfer,Opossum
+1878,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1879,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1880,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1881,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1882,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1883,Normal,Stray,Partner,Transfer,Dutch
+1884,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1885,Injured,Wildlife,Suffering,Euthanasia,Squirrel
+1886,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1887,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1888,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1889,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1890,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1891,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1892,Normal,Stray,Partner,Transfer,Rabbit Sh
+1893,Sick,Wildlife,None,Died,Raccoon
+1894,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1895,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1896,Injured,Wildlife,Rabies Risk,Euthanasia,Squirrel
+1897,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+1898,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1899,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1900,Injured,Stray,Suffering,Euthanasia,Squirrel Mix
+1901,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1902,Injured,Wildlife,In Kennel,Died,Opossum Mix
+1903,Normal,Wildlife,Partner,Transfer,Cottontail Mix
+1904,Injured,Stray,Suffering,Euthanasia,Opossum Mix
+1905,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1906,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1907,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1908,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1909,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1910,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1911,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1912,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1913,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1914,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1915,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1916,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+1917,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1918,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1919,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1920,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1921,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1922,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1923,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1924,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+1925,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1926,Sick,Stray,Rabies Risk,Euthanasia,Bat
+1927,Normal,Stray,Partner,Transfer,Chicken
+1928,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1929,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+1930,Normal,Public Assist,Partner,Transfer,Californian
+1931,Normal,Public Assist,None,Adoption,Pigeon
+1932,Normal,Public Assist,None,Adoption,Pigeon
+1933,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+1934,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1935,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+1936,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1937,Normal,Owner Surrender,Partner,Transfer,Tarantula
+1938,Normal,Owner Surrender,None,Adoption,Turtle
+1939,Normal,Owner Surrender,None,Adoption,Turtle
+1940,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1941,Injured,Wildlife,Suffering,Euthanasia,Raccoon
+1942,Normal,Stray,Partner,Transfer,New Zealand Wht Mix
+1943,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk
+1944,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1945,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1946,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+1947,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1948,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1949,Normal,Wildlife,Suffering,Euthanasia,Bat Mix
+1950,Normal,Stray,Partner,Transfer,Snake
+1951,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1952,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1953,Normal,Public Assist,Partner,Transfer,Snake
+1954,Normal,Public Assist,Partner,Transfer,Frog
+1955,Normal,Public Assist,Partner,Transfer,Tarantula
+1956,Normal,Public Assist,Partner,Transfer,Tarantula
+1957,Normal,Public Assist,Partner,Transfer,Tarantula
+1958,Normal,Public Assist,Partner,Transfer,Tarantula
+1959,Normal,Public Assist,Partner,Transfer,Tarantula
+1960,Sick,Wildlife,Medical,Euthanasia,Raccoon
+1961,Normal,Wildlife,Partner,Transfer,Opossum
+1962,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1963,Normal,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1964,Normal,Public Assist,None,Disposal,Snake/Snake
+1965,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1966,Normal,Stray,None,Return to Owner,Ferret
+1967,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1968,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+1969,Normal,Wildlife,None,Died,Bat
+1970,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+1971,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1972,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+1973,Sick,Wildlife,Suffering,Euthanasia,Raccoon Mix
+1974,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1975,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1976,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1977,Sick,Wildlife,Suffering,Euthanasia,Raccoon
+1978,Injured,Wildlife,Medical,Euthanasia,Raccoon
+1979,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1980,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1981,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+1982,Sick,Wildlife,Suffering,Euthanasia,Opossum
+1983,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1984,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1985,Injured,Wildlife,Suffering,Euthanasia,Grackle
+1986,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh
+1987,Sick,Wildlife,Rabies Risk,Euthanasia,Coyote Mix
+1988,Injured,Wildlife,Medical,Euthanasia,Raccoon Mix
+1989,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1990,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1991,Normal,Wildlife,None,Disposal,Bat
+1992,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+1993,Normal,Wildlife,None,Disposal,Bat
+1994,Normal,Wildlife,None,Disposal,Bat Mix
+1995,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+1996,Injured,Wildlife,Rabies Risk,Euthanasia,Skunk
+1997,Normal,Owner Surrender,None,Return to Owner,Hamster
+1998,Normal,Owner Surrender,Partner,Transfer,Hamster
+1999,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2000,Normal,Public Assist,Rabies Risk,Euthanasia,Bat Mix
+2001,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2002,Normal,Wildlife,None,Disposal,Bat
+2003,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+2004,Normal,Wildlife,Enroute,Died,Bat
+2005,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2006,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2007,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+2008,Sick,Wildlife,None,Disposal,Bat
+2009,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2010,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh
+2011,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh
+2012,Normal,Owner Surrender,Partner,Transfer,Lionhead Mix
+2013,Normal,Owner Surrender,Partner,Transfer,Lionhead
+2014,Normal,Owner Surrender,Partner,Transfer,Lionhead
+2015,Normal,Owner Surrender,Partner,Transfer,Lionhead
+2016,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh
+2017,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh
+2018,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh
+2019,Normal,Stray,Partner,Transfer,Guinea Pig Mix
+2020,Normal,Stray,Partner,Transfer,Guinea Pig Mix
+2021,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2022,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+2023,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2024,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2025,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2026,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2027,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh Mix
+2028,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2029,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2030,Normal,Wildlife,None,Disposal,Bat Mix
+2031,Normal,Stray,Partner,Transfer,Hamster Mix
+2032,Normal,Stray,Partner,Transfer,Hamster Mix
+2033,Normal,Wildlife,None,Disposal,Bat
+2034,Sick,Wildlife,Medical,Euthanasia,Raccoon Mix
+2035,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2036,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2037,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2038,Injured,Wildlife,Suffering,Euthanasia,Fox Mix
+2039,Normal,Stray,Partner,Transfer,Californian Mix
+2040,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2041,Injured,Wildlife,Medical,Euthanasia,Opossum Mix
+2042,Normal,Wildlife,None,Disposal,Bat
+2043,Normal,Stray,Partner,Transfer,Raccoon Mix
+2044,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+2045,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2046,Injured,Wildlife,Suffering,Euthanasia,Opossum Mix
+2047,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+2048,Normal,Owner Surrender,Partner,Transfer,Guinea Pig Mix
+2049,Normal,Owner Surrender,Partner,Transfer,Guinea Pig
+2050,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2051,Normal,Stray,Partner,Transfer,Hamster
+2052,Normal,Stray,Partner,Transfer,Hamster
+2053,Normal,Stray,Partner,Transfer,Hamster
+2054,Injured,Wildlife,Suffering,Euthanasia,Armadillo
+2055,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2056,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2057,Normal,Wildlife,Enroute,Died,Bat
+2058,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2059,Injured,Stray,Partner,Transfer,Ringtail Mix
+2060,Normal,Stray,Partner,Transfer,Turtle Mix
+2061,Normal,Stray,Partner,Transfer,Turtle Mix
+2062,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2063,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+2064,Normal,Owner Surrender,Partner,Transfer,Rabbit Sh Mix
+2065,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2066,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+2067,Normal,Stray,Partner,Transfer,Lop-English Mix
+2068,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+2069,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+2070,Normal,Wildlife,None,Died,Bat
+2071,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2072,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+2073,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+2074,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2075,Injured,Wildlife,Medical,Euthanasia,Owl Mix
+2076,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+2077,Injured,Stray,Foster,Adoption,Chicken Mix
+2078,Injured,Wildlife,Rabies Risk,Euthanasia,Raccoon Mix
+2079,Normal,Stray,None,Disposal,Bat Mix
+2080,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2081,Injured,Stray,Medical,Euthanasia,Squirrel Mix
+2082,Injured,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2083,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2084,Normal,Stray,None,Disposal,Bat Mix
+2085,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2086,Injured,Wildlife,Rabies Risk,Euthanasia,Opossum Mix
+2087,Injured,Wildlife,None,Euthanasia,Squirrel Mix
+2088,Normal,Wildlife,None,Disposal,Bat
+2089,Normal,Stray,Rabies Risk,Euthanasia,Opossum Mix
+2090,Sick,Wildlife,None,Disposal,Bat Mix
+2091,Injured,Wildlife,Rabies Risk,Euthanasia,Squirrel Mix
+2092,Normal,Wildlife,In Kennel,Died,Bat
+2093,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2094,Normal,Public Assist,None,Adoption,Rat Mix
+2095,Injured,Stray,Suffering,Euthanasia,Rabbit Sh Mix
+2096,Sick,Wildlife,Suffering,Euthanasia,Squirrel Mix
+2097,Injured,Wildlife,Suffering,Euthanasia,Squirrel Mix
+2098,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2099,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2100,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2101,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2102,Normal,Stray,None,Adoption,Conure Mix
+2103,Normal,Wildlife,None,Disposal,Bat
+2104,Sick,Stray,Rabies Risk,Euthanasia,Raccoon Mix
+2105,Sick,Stray,Rabies Risk,Euthanasia,Bat
+2106,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2107,Injured,Wildlife,Suffering,Euthanasia,Fox Mix
+2108,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2109,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2110,Injured,Wildlife,None,Euthanasia,Sparrow Mix
+2111,Normal,Public Assist,Rabies Risk,Euthanasia,Bat
+2112,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2113,Normal,Wildlife,In Kennel,Died,Bat
+2114,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2115,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2116,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2117,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2118,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2119,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2120,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2121,Sick,Wildlife,Rabies Risk,Euthanasia,Skunk Mix
+2122,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2123,Normal,Stray,Partner,Transfer,Rabbit Sh Mix
+2124,Normal,Public Assist,Rabies Risk,Euthanasia,Raccoon
+2125,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2126,Normal,Wildlife,Rabies Risk,Euthanasia,Bat
+2127,Sick,Wildlife,Rabies Risk,Euthanasia,Raccoon
+2128,Normal,Wildlife,Rabies Risk,Euthanasia,Bat Mix
+2129,Normal,Wildlife,None,Euthanasia,Bat
+2130,Injured,Wildlife,Suffering,Euthanasia,Rabbit Sh Mix
+2131,Sick,Wildlife,Rabies Risk,Euthanasia,Bat
+2132,Injured,Wildlife,None,Euthanasia,Squirrel Mix
+2133,Sick,Wildlife,Rabies Risk,Euthanasia,Bat Mix

@@ -1,0 +1,2161 @@
+,breed,color,id,male,species,name
+78,Bat Mix,Brown,A664328,,Other,None
+112,Rabbit Sh Mix,White/Brown,A664374,1.0,Other,Birch
+122,Raccoon Mix,Brown,A664384,,Other,None
+129,Pig Mix,Black,A664394,0.0,Other,None
+138,Skunk,Black/White,A664430,,Other,None
+143,Raccoon Mix,Black/White,A664438,,Other,None
+219,Bat Mix,Brown/Brown,A664532,,Other,None
+238,Rabbit Sh Mix,White,A664560,1.0,Other,Dante
+265,Raccoon Mix,Black/White,A664579,,Other,None
+318,Raccoon,Brown/Black,A664633,,Other,None
+341,Bat Mix,Brown,A664682,,Other,None
+343,Opossum Mix,Gray/Black,A664684,,Other,None
+344,Bat Mix,Gray,A664685,,Other,None
+354,Bat,Brown/Black,A664689,,Other,None
+358,Raccoon Mix,Black/Brown,A664717,1.0,Other,None
+365,Ferret,Gray/White,A664724,1.0,Other,Banjo
+387,Bat Mix,Brown,A664741,,Other,None
+419,Bat Mix,Brown,A664786,,Other,None
+445,Raccoon Mix,Brown/Black,A664830,,Other,None
+461,Bat Mix,Brown,A664853,,Other,None
+462,Bat Mix,Brown,A664854,,Other,None
+474,Bat Mix,Brown,A664877,,Other,None
+493,Bat Mix,Gray/Brown,A664897,,Other,None
+494,Bat Mix,Gray,A664898,,Other,None
+504,Bat Mix,Brown,A664923,,Other,None
+510,Bat Mix,Brown,A664929,,Other,None
+519,Californian Mix,Lilac Point,A664937,1.0,Other,None
+520,Californian Mix,Seal Point,A664938,1.0,Other,None
+608,Bat Mix,Brown,A665038,,Other,None
+646,Bat Mix,Brown,A665089,,Other,None
+647,Bat Mix,Black,A665090,,Other,None
+661,Bat Mix,Brown,A665105,,Other,None
+662,Bat,Brown,A665106,,Other,None
+663,Bat,Brown,A665107,,Other,None
+664,Bat,Brown,A665108,,Other,None
+666,Bat Mix,Gray,A665121,,Other,None
+704,Bat Mix,Brown,A665158,,Other,None
+711,Bat Mix,Gray,A665166,,Other,None
+712,Bat Mix,Gray,A665169,,Other,None
+722,Bat,Brown/Black,A665188,,Other,None
+777,Skunk Mix,Black/White,A665247,,Other,None
+782,Rabbit Sh,Black Brindle,A665254,,Other,None
+786,Bat Mix,Brown,A665255,,Other,None
+829,Bat Mix,Brown,A665317,,Other,None
+913,Bat Mix,Brown,A665432,,Other,None
+914,Raccoon Mix,Brown,A665435,,Other,None
+947,Bat Mix,Gray,A665483,,Other,None
+962,Rabbit Sh Mix,Tan/White,A665548,0.0,Other,Baby
+963,Rabbit Sh Mix,Brown,A663372,,Other,Nutmeg
+964,Rabbit Sh Mix,White/Tan,A663373,,Other,Snowball
+965,Rabbit Sh Mix,Brown,A663374,,Other,Cinnimen
+966,Rabbit Sh Mix,Brown,A663375,,Other,Itzie
+967,Rabbit Sh Mix,Brown,A663376,,Other,Floppy
+992,Raccoon Mix,Black/White,A665573,,Other,None
+1006,Opossum Mix,Gray/Black,A665591,,Other,None
+1053,Fox Mix,White/Gray,A665648,0.0,Other,None
+1083,Raccoon Mix,Black/Brown,A665670,,Other,None
+1106,Bat Mix,Brown,A665705,,Other,None
+1107,Bat Mix,Brown,A665706,,Other,None
+1108,Bat Mix,Brown,A665700,,Other,None
+1109,Bat Mix,Brown,A665701,,Other,None
+1116,Bat Mix,Brown,A665709,,Other,None
+1144,Bat Mix,Brown,A665765,,Other,None
+1169,Raccoon Mix,Brown/Black,A665811,,Other,None
+1175,Raccoon Mix,Brown/Black,A665816,,Other,None
+1185,Opossum,Gray/White,A665844,1.0,Other,None
+1186,Bat Mix,Brown,A665846,,Other,None
+1188,Bat Mix,Gray,A665851,,Other,None
+1203,Pig Mix,White,A665867,1.0,Other,None
+1226,Raccoon Mix,Gray/Black,A665902,,Other,None
+1228,Raccoon Mix,Gray/Black,A665904,,Other,None
+1240,Fox Mix,Red,A665919,,Other,None
+1261,Owl,Gray,A665956,,Other,None
+1279,Armadillo Mix,Gray,A665976,1.0,Other,None
+1288,Californian Mix,White/Black,A665985,0.0,Other,Nina
+1289,Californian Mix,White/Black,A665986,1.0,Other,Spaz
+1299,Bat Mix,Brown/Brown,A666005,,Other,None
+1372,Squirrel Mix,Gray/Brown,A666101,,Other,None
+1415,Bat,Brown/Black,A666153,,Other,None
+1452,Raccoon Mix,Brown/Black,A666195,,Other,None
+1462,Bat,Brown/Black,A666202,,Other,None
+1468,Raccoon,Brown/Black,A666216,,Other,None
+1477,Pigeon Mix,Gray,A666232,,Other,None
+1489,Skunk Mix,Black/White,A666254,0.0,Other,None
+1504,Pig Mix,Black/White,A666222,1.0,Other,None
+1540,Raccoon Mix,Brown/Black,A666323,,Other,None
+1571,Raccoon Mix,Gray/Black,A666384,,Other,None
+1594,Bat,Brown/Black,A666419,,Other,None
+1595,Raccoon,Brown/Black,A666420,,Other,None
+1601,Raccoon Mix,Black/White,A666427,,Other,None
+1605,Bat Mix,Brown,A666428,,Other,None
+1638,Raccoon,Gray/Black,A666468,,Other,None
+1639,Raccoon Mix,Gray/Black,A666469,,Other,None
+1644,Bat,Brown/Black,A666475,,Other,None
+1649,Bat,Brown/Black,A666482,,Other,None
+1657,Squirrel Mix,Red,A666494,,Other,None
+1658,Raccoon Mix,Gray/Black,A666497,,Other,None
+1750,Parakeet Mix,Blue,A666593,1.0,Other,None
+1751,Parakeet Mix,Green,A666594,1.0,Other,None
+1784,Raccoon Mix,Gray/Black,A666630,,Other,None
+1831,Bat Mix,Brown/Brown,A666690,,Other,None
+1845,Raccoon Mix,Black/Gray,A666707,1.0,Other,None
+1856,Raccoon Mix,Black/White,A666727,,Other,None
+1862,Bat Mix,Brown,A666741,,Other,None
+1864,Bat Mix,Brown,A666743,,Other,None
+1876,Opossum Mix,Gray/White,A666755,,Other,None
+1883,Raccoon Mix,Brown/Black,A666773,,Other,None
+1932,Raccoon Mix,Brown/Black,A666827,,Other,None
+1951,Guinea Pig Mix,Brown/White,A666863,,Other,None
+2009,Californian Mix,Seal Point,A666917,1.0,Other,None
+2010,Californian Mix,Seal Point,A666918,0.0,Other,None
+2020,Raccoon Mix,Gray/Black,A666927,,Other,None
+2042,Opossum Mix,Gray/Black,A666942,,Other,None
+2055,Raccoon Mix,Gray/Black,A666960,,Other,None
+2124,Pig Mix,White/Black,A667019,1.0,Other,Oreo
+2130,Squirrel,Brown,A667051,,Other,None
+2160,Raccoon Mix,Black/Gray,A667089,1.0,Other,None
+2162,Bat Mix,Brown,A667092,,Other,None
+2170,Bat Mix,Gray,A667096,,Other,None
+2175,Quarter Horse Mix,Red,A657066,0.0,Other,None
+2176,Rabbit Sh,Brown,A667108,,Other,None
+2261,Rabbit Sh/Lop-Mini,White/Black,A667243,0.0,Other,None
+2325,Fox Mix,Gray/Orange,A667321,,Other,None
+2346,Rabbit Sh Mix,Brown,A667348,,Other,None
+2347,Rabbit Sh Mix,Brown,A667349,,Other,None
+2348,Rabbit Sh Mix,Brown,A667351,,Other,None
+2349,Rabbit Sh Mix,Brown,A667352,,Other,None
+2415,Bat,Brown/Black,A667433,,Other,None
+2417,Fox Mix,Gray/Red,A667440,,Other,None
+2429,Bat Mix,Gray,A667454,,Other,None
+2447,Raccoon Mix,Gray/Black,A667484,,Other,None
+2450,Raccoon,Brown/Black,A667491,,Other,None
+2451,Bat,Brown/Black,A667492,,Other,None
+2452,Raccoon,Brown/Black,A667493,,Other,None
+2453,Opossum,Brown/White,A667494,0.0,Other,None
+2479,Raccoon Mix,Gray/Black,A667528,,Other,None
+2494,Bat Mix,Brown,A667551,,Other,None
+2495,Raccoon Mix,Gray/Black,A667553,,Other,None
+2499,Raccoon Mix,Gray/Black,A667555,,Other,None
+2500,Raccoon Mix,Gray/Black,A667570,,Other,None
+2501,Raccoon Mix,Black/White,A667574,,Other,None
+2502,Opossum Mix,Gray,A667575,,Other,None
+2510,Raccoon Mix,Brown/Black,A667585,,Other,None
+2571,Raccoon Mix,Gray,A667725,,Other,None
+2591,Bat Mix,Brown,A667771,,Other,None
+2600,Bat Mix,Brown,A667793,,Other,None
+2606,Bat Mix,Brown/Brown,A667800,,Other,None
+2683,Bat,Brown/Black,A667907,,Other,None
+2710,Raccoon Mix,Brown/Black,A667937,,Other,None
+2736,Bat Mix,Gray,A667977,,Other,None
+2775,Raccoon Mix,Gray/Black,A668037,,Other,None
+2780,Bat Mix,Gray/Brown,A668049,,Other,None
+2787,Bat Mix,Brown/Brown,A668062,,Other,None
+2791,Raccoon Mix,Gray/Black,A668070,,Other,None
+2797,Raccoon Mix,Gray/Black,A668080,,Other,None
+2812,Rhode Island Mix,Yellow/Black,A668105,1.0,Other,None
+2813,Rhode Island Mix,Yellow/Black,A668106,1.0,Other,None
+2840,Raccoon,Gray/Black,A668154,,Other,None
+2846,Raccoon,Gray/Black,A668162,,Other,None
+2847,Raccoon,Gray/Black,A668163,,Other,None
+2850,Pig Mix,Black/White,A668167,0.0,Other,None
+2899,Fox,Gray/Orange,A668225,,Other,None
+2922,Bat Mix,Brown,A668263,,Other,None
+2923,Raccoon Mix,Black/Gray,A668265,1.0,Other,None
+2924,Opossum Mix,White,A668266,,Other,None
+2933,Raccoon,Black/Gray,A668278,1.0,Other,None
+2936,Raccoon,Black/Gray,A668279,1.0,Other,None
+2938,Bat,Black/Brown,A668281,,Other,None
+2947,Raccoon Mix,Gray,A668296,,Other,None
+2951,Turtle Mix,Brown/Yellow,A668305,,Other,None
+2954,Bat,Black/Brown,A668309,,Other,None
+3009,Bat,Brown/Black,A668367,,Other,None
+3033,Raccoon Mix,Gray,A668410,,Other,None
+3038,Raccoon Mix,Brown/Black,A668412,,Other,None
+3040,Raccoon Mix,Gray,A668419,,Other,None
+3051,Raccoon Mix,Black/Gray,A668448,,Other,None
+3099,Raccoon Mix,Gray,A668514,,Other,None
+3146,Rex Mix,White/Brown,A668571,1.0,Other,None
+3174,Raccoon Mix,Gray,A668605,,Other,None
+3176,Raccoon Mix,Gray,A668608,,Other,None
+3178,Bat,Brown/Black,A668612,,Other,None
+3179,Bat,Brown/Black,A668613,,Other,None
+3210,Raccoon Mix,Gray/Black,A668670,,Other,None
+3288,Guinea Pig,Brown,A668754,,Other,Zeebee
+3293,Opossum,Brown,A668757,,Other,None
+3294,Bat,Brown/Black,A668758,,Other,None
+3307,Ferret,Sable,A668775,0.0,Other,None
+3316,Raccoon Mix,Black/Gray,A668783,1.0,Other,None
+3336,Bat,Brown/Black,A668807,,Other,None
+3340,Squirrel,Brown/Gray,A668815,,Other,None
+3364,Rabbit Sh,Brown,A668879,,Other,None
+3398,Rabbit Sh,White/Gray,A668944,,Other,Noel
+3410,Bat Mix,Brown,A668962,,Other,Finch
+3412,Raccoon Mix,Black/White,A668963,,Other,Merle
+3426,Fox Mix,Red/Tan,A668994,,Other,None
+3440,Skunk Mix,Black/White,A669018,1.0,Other,None
+3441,Bat,Black,A669019,1.0,Other,None
+3469,Fox Mix,Gray/Red,A669072,,Other,None
+3513,Raccoon Mix,Brown,A669117,,Other,None
+3514,Raccoon Mix,Gray/Black,A669118,,Other,None
+3534,Raccoon Mix,Black/Gray,A669134,,Other,None
+3568,Bat Mix,Brown,A669167,,Other,None
+3573,Skunk Mix,Black/White,A669171,,Other,None
+3576,Bat Mix,Brown,A669175,,Other,None
+3594,Raccoon Mix,Brown,A669194,,Other,None
+3610,Rabbit Sh Mix,White/Brown,A669223,0.0,Other,Lele
+3620,Raccoon Mix,Gray/Black,A669237,,Other,None
+3647,Raccoon Mix,Brown,A669282,,Other,None
+3662,Squirrel Mix,Brown,A669304,,Other,Rico Suave
+3676,Raccoon Mix,Gray/Black,A669340,,Other,None
+3678,Raccoon Mix,Gray/Black,A669343,,Other,None
+3694,Bat Mix,Brown,A669373,,Other,None
+3698,Raccoon Mix,Gray/Black,A669379,,Other,None
+3731,Bat Mix,Brown,A669414,,Other,None
+3737,Rabbit Sh Mix,Tortie,A669423,,Other,Jingle
+3741,Raccoon Mix,Brown/Black,A669425,,Other,None
+3748,Raccoon Mix,Gray/Black,A669436,,Other,None
+3749,Raccoon,Black/Gray,A669439,,Other,None
+3756,Raccoon,Sable,A669451,,Other,None
+3803,Bat Mix,Brown,A669514,,Other,None
+3804,Bat Mix,Brown,A669515,,Other,None
+3805,Bat Mix,Brown,A669517,,Other,None
+3806,Bat Mix,Brown,A669518,,Other,None
+3807,Bat Mix,Brown,A669519,,Other,None
+3808,Bat Mix,Brown,A669520,,Other,None
+3809,Bat Mix,Brown,A669521,,Other,None
+3810,Bat Mix,Brown,A669522,,Other,None
+3811,Bat Mix,Brown,A669523,,Other,None
+3812,Bat Mix,Brown,A669524,,Other,None
+3813,Bat Mix,Brown,A669525,,Other,None
+3814,Bat Mix,Brown,A669526,,Other,None
+3815,Bat Mix,Brown,A669527,,Other,None
+3816,Bat Mix,Brown,A669528,,Other,None
+3817,Bat Mix,Brown,A669529,,Other,None
+3818,Bat Mix,Brown,A669530,,Other,None
+3819,Rabbit Sh Mix,White/Black,A669531,,Other,None
+3846,Bat Mix,Brown,A669551,,Other,None
+3851,Bat Mix,Brown,A669559,,Other,None
+3883,Raccoon Mix,Brown/Black,A669589,,Other,None
+3898,Raccoon Mix,Gray/Black,A669612,,Other,None
+3924,Bat Mix,Brown,A669669,,Other,None
+3932,Squirrel Mix,Brown,A669693,,Other,None
+3970,Raccoon Mix,Brown/Black,A669729,,Other,None
+3994,Raccoon Mix,Brown,A669772,,Other,None
+4015,Bat Mix,Black/Brown,A669796,,Other,None
+4030,Bat Mix,Brown,A669820,,Other,None
+4043,Fox Mix,Red/Black,A669827,,Other,None
+4072,Raccoon,Brown/Black,A669864,,Other,None
+4073,Bat,Black/Brown,A669868,,Other,None
+4142,Bat Mix,Gray,A669938,,Other,None
+4157,Opossum Mix,Gray/White,A669964,1.0,Other,None
+4183,Raccoon Mix,Brown/Black,A669989,,Other,None
+4200,Raccoon Mix,Gray/Black,A670020,,Other,None
+4224,Raccoon,Gray/Black,A670069,,Other,None
+4270,Fox Mix,Gray,A670129,1.0,Other,None
+4271,Rabbit Sh Mix,Brown Brindle,A670131,,Other,None
+4273,Bat Mix,Brown,A670134,,Other,None
+4296,Bat,Brown/Black,A670170,,Other,None
+4406,Bat Mix,Gray/Brown,A670302,,Other,None
+4488,Rat,Tan/White,A670434,1.0,Other,None
+4489,Rat,Black/White,A670435,1.0,Other,None
+4553,Bat Mix,Brown,A670516,,Other,None
+4585,Fox Mix,Gray/Brown,A670565,,Other,None
+4606,Bat Mix,Brown,A670594,,Other,None
+4613,Opossum,Brown/White,A670605,,Other,None
+4657,Raccoon Mix,Gray/Black,A670648,0.0,Other,None
+4658,Bat Mix,Brown,A670649,,Other,None
+4673,Opossum,Brown/White,A670670,,Other,None
+4707,Bat Mix,Brown,A670707,,Other,None
+4713,Bat,Brown/Black,A670713,,Other,None
+4728,Rat Mix,White,A670724,0.0,Other,None
+4735,Raccoon Mix,Brown/Black,A670732,,Other,None
+4736,Bat Mix,Gray,A670734,,Other,None
+4737,Skunk Mix,Black/White,A670735,,Other,None
+4755,Opossum Mix,White/Gray,A670756,,Other,None
+4756,Raccoon Mix,Brown,A670757,,Other,None
+4766,Bat,Brown,A670776,,Other,None
+4819,Raccoon Mix,Gray/Black,A670847,,Other,None
+4829,Raccoon,Gray/Black,A670870,,Other,None
+4830,Raccoon,Gray/Black,A670872,,Other,None
+4860,Opossum Mix,Gray,A670927,,Other,Harry
+4866,Bat Mix,Brown,A670942,,Other,None
+4872,Fox Mix,Red,A670950,,Other,Fredrick
+4878,Skunk Mix,Black/White,A670959,,Other,None
+4889,Raccoon,Brown/Black,A670974,,Other,None
+4896,Bat Mix,Gray,A670984,,Other,None
+4911,Fox Mix,Brown/Black,A671017,,Other,None
+4949,Raccoon Mix,Sable,A671077,,Other,None
+5004,Raccoon,Brown/Black,A671129,,Other,None
+5034,Raccoon Mix,Brown,A671159,,Other,None
+5036,Bat,Brown/Black,A671162,,Other,None
+5037,Bat,Brown/Black,A671163,,Other,None
+5049,Raccoon,Black/Gray,A671176,,Other,None
+5079,Skunk Mix,Black/White,A671210,,Other,None
+5125,Bat,Brown/Black,A671282,,Other,None
+5132,Raccoon Mix,Gray/Black,A671298,,Other,None
+5147,Raccoon Mix,Gray/Black,A671325,,Other,None
+5148,Raccoon Mix,Brown/Black,A671326,,Other,None
+5179,Raccoon Mix,Gray/Black,A671381,,Other,None
+5227,Californian,White/Black,A671479,1.0,Other,Peter
+5264,Bat Mix,Brown,A671515,,Other,None
+5280,Rabbit Sh Mix,Gray/White,A671532,0.0,Other,Harriet
+5281,Raccoon Mix,Brown/Brown,A671530,,Other,None
+5332,Raccoon Mix,Brown,A671592,,Other,None
+5380,Raccoon Mix,Brown/Black,A671689,,Other,None
+5393,Bat Mix,Brown,A671718,,Other,None
+5403,Guinea Pig Mix,White/Brown,A671734,1.0,Other,Marshmallow
+5409,Bat Mix,Brown,A671741,,Other,None
+5414,Raccoon Mix,Gray/Black,A671742,,Other,None
+5415,Skunk Mix,Black/White,A671745,,Other,None
+5431,Raccoon Mix,Brown/Black,A671774,,Other,None
+5439,Raccoon,Brown/Black,A671799,1.0,Other,None
+5478,Fox,Red/Gray,A671886,,Other,None
+5504,Coyote Mix,Red,A671932,1.0,Other,None
+5515,Raccoon,Brown/Black,A671941,,Other,None
+5516,Skunk Mix,Black/White,A671943,1.0,Other,None
+5533,Ferret,White/Gray,A671996,1.0,Other,Walterwhite
+5570,Guinea Pig,White/Gray,A672062,1.0,Other,Cesar
+5576,Raccoon Mix,Gray/Black,A672069,,Other,None
+5577,Skunk Mix,Black/White,A672070,,Other,None
+5607,Raccoon Mix,Gray/Black,A672115,,Other,None
+5621,Raccoon Mix,Black/Brown,A672154,,Other,None
+5646,Raccoon Mix,Black,A672149,,Other,None
+5698,Raccoon,Gray/Black,A672242,,Other,None
+5722,Bat Mix,Brown,A672268,,Other,None
+5725,Raccoon,Brown/Black,A672273,,Other,None
+5727,Raccoon Mix,Black/White,A672275,,Other,None
+5729,Raccoon Mix,Gray/Black,A672274,,Other,None
+5745,Raccoon,Gray/Black,A672298,,Other,None
+5754,Raccoon Mix,Brown/Black,A672312,,Other,None
+5758,Raccoon Mix,Sable,A672322,,Other,None
+5782,Chicken Mix,Red/Black,A672342,1.0,Other,None
+5794,Californian Mix,Lilac Point,A672369,1.0,Other,Cotton
+5808,Chicken Mix,Brown/Red,A672387,0.0,Other,None
+5830,Raccoon,Brown/Black,A672406,,Other,None
+5833,Raccoon Mix,Black/White,A672412,,Other,None
+5836,Raccoon Mix,Brown,A672418,,Other,None
+5837,Raccoon Mix,Brown,A672419,,Other,None
+5866,Raccoon Mix,Black/Gray,A672460,,Other,None
+5878,Raccoon,Brown/Black,A672471,,Other,None
+5882,Donkey Mix,Brown/Gray,A672478,1.0,Other,Pepper
+5886,Raccoon,Black/Gray,A672482,,Other,None
+5896,Raccoon Mix,Black/Gray,A672495,,Other,None
+5901,Raccoon Mix,Black/Gray,A672504,,Other,None
+5912,Raccoon Mix,Black/Gray,A672526,,Other,None
+5924,Raccoon Mix,Black/Gray,A672537,,Other,None
+5954,Raccoon,Brown/Black,A672574,,Other,None
+5955,Squirrel,Brown,A672575,,Other,None
+5958,Raccoon Mix,Gray/Black,A672580,,Other,None
+5962,Horse Mix,Red/White,A672577,0.0,Other,None
+5973,Raccoon Mix,Gray/Black,A672591,,Other,None
+5974,Fox Mix,Gray/Orange,A672594,,Other,None
+6001,Raccoon,Brown/Black,A672635,,Other,None
+6002,Raccoon,Brown/Black,A672636,,Other,None
+6003,Opossum Mix,Gray,A672641,,Other,None
+6004,Raccoon,Black/Gray,A672642,,Other,None
+6006,Skunk Mix,Black,A672643,,Other,None
+6008,Rabbit Sh Mix,White/Brown,A672649,1.0,Other,Micah
+6041,Raccoon Mix,Brown/Black,A672687,0.0,Other,None
+6062,Raccoon,Black/Gray,A672717,,Other,None
+6063,Raccoon Mix,Gray/Black,A672719,,Other,None
+6064,Raccoon Mix,Gray/Black,A672720,,Other,None
+6081,Bat Mix,Brown/Black,A672748,,Other,None
+6082,Raccoon Mix,Black/Silver,A672749,,Other,None
+6107,Skunk Mix,Black/White,A672785,,Other,None
+6129,Raccoon Mix,Black/Brown,A672833,,Other,None
+6132,Raccoon Mix,Black/Gray,A672842,,Other,None
+6143,Raccoon Mix,Brown,A672861,,Other,None
+6160,Raccoon Mix,Black/Gray,A672899,,Other,None
+6166,Chicken,Red/Black,A672939,1.0,Other,None
+6167,Chicken,Red/Black,A672940,1.0,Other,None
+6168,Chicken,Red/Black,A672941,1.0,Other,None
+6175,Bat Mix,Brown,A672968,,Other,None
+6199,Bat,Brown/Black,A673022,,Other,None
+6207,Californian Mix,White/Brown,A673034,0.0,Other,Garnet
+6274,Rat,Black/White,A673137,0.0,Other,None
+6275,Rat,Brown/White,A673141,0.0,Other,None
+6276,Rat,Tan/White,A673142,0.0,Other,None
+6289,Bat,Brown/Black,A673192,,Other,None
+6296,Raccoon Mix,Gray/Black,A673203,,Other,None
+6315,Bat,Brown,A673233,,Other,None
+6318,Raccoon Mix,Gray/Black,A673239,,Other,None
+6331,Ferret,White,A673254,0.0,Other,Sochi
+6332,Opossum Mix,Gray/White,A673253,,Other,None
+6353,Hamster Mix,Black/White,A673282,,Other,None
+6354,Hamster Mix,Gray/Brown,A673283,,Other,None
+6355,Hamster Mix,Gray/Brown,A673284,,Other,None
+6363,Bat Mix,Brown,A673294,,Other,Batman
+6369,Fox Mix,Red/White,A673309,,Other,None
+6373,Bat,Brown/Black,A673315,,Other,None
+6391,Raccoon,Black/Gray,A673335,,Other,None
+6400,Raccoon Mix,Gray/Black,A673344,,Other,None
+6409,Raccoon,Brown/Black,A673357,,Other,None
+6410,Raccoon,Brown/Black,A673358,,Other,None
+6422,Raccoon,Brown/Black,A673376,,Other,None
+6423,Bat,Brown/Black,A673377,,Other,None
+6431,Raccoon Mix,Brown/Black,A673385,,Other,None
+6432,Squirrel Mix,Brown,A673386,,Other,None
+6433,Guinea Pig,Tan/Black,A673388,0.0,Other,None
+6434,Guinea Pig,Tricolor,A673389,0.0,Other,None
+6452,Raccoon Mix,Brown/Black,A673404,,Other,None
+6453,Raccoon Mix,Brown/Black,A673407,,Other,None
+6457,Opossum Mix,White/Black,A673409,,Other,None
+6458,Bat,Brown/Black,A673405,,Other,None
+6459,Bat,Brown/Black,A673403,,Other,None
+6468,Raccoon Mix,Gray/Black,A673425,,Other,None
+6473,Skunk Mix,Black/White,A673427,,Other,None
+6505,Bat Mix,Black,A673468,,Other,None
+6513,Bat Mix,Brown,A673487,,Other,None
+6524,Rabbit Sh Mix,Black/White,A673514,0.0,Other,None
+6535,Raccoon Mix,Black/White,A673517,,Other,None
+6546,Raccoon Mix,Brown/Black,A673534,,Other,None
+6568,Bat,Brown,A673561,,Other,None
+6573,Raccoon Mix,Gray/Black,A673567,,Other,None
+6603,English Spot Mix,White/Black,A673608,0.0,Other,None
+6626,Raccoon Mix,Gray/Black,A673633,,Other,None
+6635,Raccoon,Brown/Black,A673645,,Other,None
+6636,Raccoon,Gray/Black,A673647,0.0,Other,None
+6639,Pig Mix,Black/White,A673651,1.0,Other,None
+6667,Raccoon,Brown/Black,A673695,,Other,None
+6671,Bat Mix,Brown,A673707,,Other,None
+6676,Raccoon,Brown/Black,A673712,,Other,None
+6677,Bat,Brown/Black,A673713,,Other,None
+6678,Rabbit Sh Mix,Black/White,A673720,0.0,Other,None
+6679,Rabbit Sh Mix,Black/White,A673721,0.0,Other,None
+6680,Rabbit Sh Mix,Black/White,A673722,0.0,Other,None
+6681,Rabbit Sh Mix,Blue/White,A673723,0.0,Other,None
+6682,Rabbit Sh Mix,Black,A673718,0.0,Other,None
+6683,Raccoon Mix,Gray/Black,A673719,,Other,None
+6693,Raccoon Mix,Black/White,A673735,,Other,None
+6700,Raccoon Mix,Brown/Black,A673738,,Other,None
+6708,Bat Mix,Brown,A673744,,Other,Orion
+6712,Bat,Brown/Black,A673750,,Other,None
+6714,Rabbit Sh Mix,Blue/Brown,A673759,0.0,Other,Snuggles
+6719,Rat,Black/White,A673768,0.0,Other,Toto
+6720,Opossum,Gray/Pink,A673769,,Other,None
+6733,Raccoon Mix,Black/White,A673783,,Other,None
+6736,Raccoon Mix,Black/White,A673786,,Other,None
+6773,Bat Mix,Brown,A673840,,Other,None
+6778,Bat,Brown/Black,A673850,,Other,None
+6780,Bat Mix,Brown,A673849,,Other,None
+6781,Bat Mix,Black/Brown,A673853,,Other,None
+6782,Bat Mix,Black/Brown,A673856,,Other,None
+6783,Bat Mix,Brown/Black,A673854,,Other,None
+6788,Bat Mix,Brown/Black,A673864,,Other,None
+6793,Lionhead Mix,Blue/White,A673871,0.0,Other,Trinket
+6794,Bat Mix,Brown,A673874,,Other,None
+6795,Bat Mix,Brown,A673875,,Other,None
+6823,Bat,Brown,A673918,,Other,None
+6828,Bat Mix,Black/Brown,A673922,,Other,None
+6829,Bat Mix,Black/Brown,A673924,,Other,None
+6830,Raccoon Mix,Black/Gray,A673927,,Other,None
+6843,Bat Mix,Brown,A673940,,Other,None
+6858,Bat Mix,Brown,A673965,,Other,None
+6859,Bat Mix,Brown,A673966,,Other,None
+6860,Bat Mix,Brown,A673967,,Other,None
+6861,Raccoon Mix,Gray/Black,A673968,,Other,None
+6876,Bat Mix,Brown/Black,A673981,,Other,None
+6880,Bat Mix,Brown,A673991,,Other,None
+6883,Raccoon Mix,Gray/Black,A673995,1.0,Other,None
+6885,Bat,Black,A673998,1.0,Other,None
+6894,Duck Mix,Yellow,A674004,,Other,None
+6895,Duck Mix,Yellow,A674005,,Other,None
+6898,Raccoon,Brown/Black,A674011,,Other,None
+6900,Bat Mix,Brown,A674013,,Other,None
+6901,Skunk Mix,Black/White,A674020,,Other,None
+6902,Bat Mix,Brown/Black,A674021,,Other,None
+6913,Bat Mix,Brown,A674031,,Other,None
+6916,Bat,Brown,A674037,,Other,None
+6920,Raccoon Mix,Sable,A674045,,Other,None
+6932,Raccoon Mix,Gray/Black,A674071,,Other,None
+6935,Raccoon Mix,Gray/Black,A674076,,Other,None
+6936,Skunk,Black/White,A674077,,Other,None
+6937,Raccoon,Brown/Black,A674078,,Other,None
+6938,Bat,Brown/Black,A674079,,Other,None
+6939,Bat,Brown/Black,A674080,,Other,None
+6940,Bat,Brown/Black,A674081,,Other,None
+6941,Raccoon Mix,Gray/Black,A674086,,Other,None
+6942,Raccoon Mix,Gray/Black,A674087,,Other,None
+6972,Fox Mix,Brown/White,A674121,,Other,None
+6973,Bat Mix,Brown/Black,A674122,,Other,None
+6974,Bat Mix,Brown/Black,A674123,,Other,None
+6984,Raccoon,Brown/Black,A674138,,Other,None
+6985,Bat,Brown/Black,A674140,,Other,None
+6989,Bat Mix,Brown/Black,A674145,,Other,None
+7002,Bat Mix,Brown,A674148,,Other,None
+7009,Raccoon Mix,Black/White,A674166,,Other,None
+7013,Skunk Mix,Black/White,A674174,,Other,None
+7035,Raccoon Mix,Black/Gray,A674199,,Other,None
+7046,Bat Mix,Brown,A674209,,Other,None
+7047,Pig Mix,Black,A674214,,Other,None
+7051,Bat Mix,Brown,A674221,,Other,None
+7052,Bat Mix,Brown,A674222,,Other,None
+7053,Bat Mix,Brown,A674224,,Other,None
+7077,Bat Mix,Brown,A674254,,Other,None
+7078,Raccoon Mix,Black/Gray,A674256,,Other,None
+7079,Bat Mix,Brown,A674257,,Other,None
+7080,Bat Mix,Brown,A674258,,Other,None
+7081,Raccoon Mix,Gray/Black,A674259,,Other,None
+7089,Bat Mix,Brown,A674268,,Other,None
+7090,Raccoon Mix,Brown/Black,A674269,,Other,None
+7091,Raccoon Mix,Black/Brown,A674270,,Other,None
+7092,Bat Mix,Gray,A674273,,Other,None
+7101,Bat Mix,Brown,A674283,,Other,None
+7102,Bat Mix,Brown,A674285,,Other,None
+7104,Raccoon Mix,Brown,A674286,,Other,None
+7107,Bat Mix,Black,A674293,,Other,None
+7109,Raccoon,Gray/Black,A674296,,Other,None
+7118,Ferret Mix,Brown/White,A674312,1.0,Other,Roscoe
+7130,Fox Mix,Red,A674329,,Other,None
+7136,Raccoon Mix,Black/White,A674338,,Other,None
+7140,Bat Mix,Black/Brown,A674341,,Other,None
+7151,Bat Mix,Brown,A674358,,Other,None
+7152,Bat Mix,Brown,A674360,,Other,None
+7153,Bat Mix,Brown,A674361,,Other,None
+7154,Opossum Mix,Gray/Pink,A674366,,Other,None
+7172,Raccoon Mix,Brown/Black,A674385,,Other,None
+7185,Bat Mix,Brown,A674406,,Other,None
+7188,Skunk Mix,Black/White,A674412,,Other,None
+7202,Bat Mix,Brown,A674428,,Other,None
+7243,Bat Mix,Brown,A674482,,Other,None
+7246,Bat Mix,Black,A674485,,Other,None
+7249,Bat,Brown/Black,A674493,,Other,None
+7266,Skunk Mix,Black/White,A674514,,Other,None
+7268,Raccoon Mix,Brown/Black,A674515,,Other,None
+7296,Raccoon,Brown/Black,A674547,,Other,None
+7298,Skunk,Black/White,A674552,,Other,None
+7322,Bat Mix,Brown/Black,A674578,,Other,None
+7327,Bat,Brown,A674588,,Other,None
+7344,Lark Mix,Brown/Black,A674618,,Other,None
+7345,Raccoon,Brown/Black,A674623,,Other,None
+7346,Skunk,Black/White,A674624,,Other,None
+7364,Fox Mix,Red/Gray,A674640,,Other,None
+7383,Raccoon Mix,Black/White,A674654,,Other,None
+7387,Fox Mix,Brown/Gray,A674655,,Other,None
+7413,Raccoon Mix,Brown,A674684,,Other,None
+7432,Silver Mix,Brown,A674716,1.0,Other,Balsamic
+7441,Bat Mix,Brown,A674723,,Other,None
+7448,Bat Mix,Gray,A674734,,Other,None
+7458,Skunk Mix,Black/White,A674745,,Other,None
+7461,Bat Mix,Brown,A674747,,Other,None
+7463,Raccoon Mix,Brown,A674749,,Other,None
+7464,Bat Mix,Brown,A674751,,Other,None
+7476,Bat,Brown,A674777,,Other,None
+7489,Bat Mix,Brown,A674792,,Other,None
+7490,Raccoon,Gray/Black,A674794,,Other,None
+7499,Bat Mix,Gray,A674811,,Other,None
+7500,Bat Mix,Gray,A674813,,Other,None
+7502,Bat Mix,Black/Brown,A674826,,Other,None
+7504,Raccoon Mix,Black/Gray,A674827,,Other,None
+7505,Rabbit Sh Mix,Brown,A674831,,Other,None
+7506,Rabbit Sh Mix,Brown,A674832,,Other,None
+7507,Rabbit Sh Mix,Brown,A674833,,Other,None
+7508,Bat Mix,Brown,A674834,,Other,None
+7509,Bat Mix,Brown,A674835,,Other,None
+7510,Bat Mix,Brown,A674836,,Other,None
+7511,Guinea Pig Mix,Black/White,A674840,1.0,Other,Oscar
+7518,Raccoon Mix,Black/White,A674851,,Other,None
+7525,Raccoon Mix,Black/White,A674863,,Other,Rangerrick
+7531,Bat Mix,Brown,A674869,,Other,None
+7543,Fox Mix,Red/Gray,A674885,,Other,None
+7561,Opossum Mix,Gray,A674903,,Other,None
+7562,Skunk,White/Black,A674904,,Other,None
+7574,Skunk Mix,Black/White,A674919,,Other,None
+7580,Opossum Mix,White,A674920,,Other,None
+7588,Bat Mix,Brown,A674930,,Other,None
+7589,Bat Mix,Brown,A674932,,Other,None
+7604,Bat Mix,Brown,A674951,,Other,None
+7605,Bat Mix,Brown,A674952,,Other,None
+7613,Bat,Brown,A674966,,Other,None
+7615,Bat Mix,Brown,A674970,,Other,None
+7616,Raccoon,Brown/Black,A674975,,Other,None
+7618,Bat,Brown/Black,A674977,,Other,None
+7619,Bat,Brown/Black,A674978,,Other,None
+7629,Fox Mix,Red/Gray,A674992,,Other,None
+7634,Bat Mix,Brown,A675000,,Other,None
+7636,Bat Mix,Brown,A675001,,Other,None
+7648,Bat,Brown,A675014,,Other,None
+7655,Opossum Mix,Gray,A675023,1.0,Other,None
+7657,Bat Mix,Brown,A675025,,Other,None
+7664,Tortoise Mix,Tan,A675035,0.0,Other,Shelly
+7665,Raccoon Mix,Gray/Black,A675037,,Other,None
+7695,Skunk Mix,Black/White,A675075,,Other,None
+7702,Squirrel,Brown/Black,A675080,,Other,None
+7705,Bat,Brown/Black,A675084,,Other,None
+7706,Bat Mix,Brown,A675083,,Other,None
+7709,Bat,Brown/Black,A675091,,Other,None
+7710,Raccoon,Brown/Black,A675092,,Other,None
+7711,Squirrel,Brown,A675093,,Other,None
+7712,Bat Mix,Brown,A675094,,Other,None
+7717,Skunk Mix,Black/White,A675099,,Other,None
+7742,Bat Mix,Brown,A675122,,Other,None
+7743,Raccoon Mix,Black/Gray,A675124,,Other,None
+7753,Opossum Mix,Gray/White,A675143,,Other,None
+7761,Bat Mix,Brown,A675157,,Other,None
+7763,Bat Mix,Black/Brown,A675161,,Other,None
+7769,Bat Mix,Brown,A675169,,Other,None
+7781,Opossum Mix,Pink,A675190,,Other,None
+7782,Opossum Mix,Pink,A675191,,Other,None
+7787,Raccoon Mix,Tan/White,A675196,,Other,None
+7789,Bat Mix,Brown,A675201,,Other,None
+7792,Bat Mix,Gray,A675210,,Other,None
+7798,Skunk Mix,Black/White,A675211,,Other,None
+7823,Rex Mix,White/Brown,A675247,1.0,Other,None
+7832,Guinea Pig,Calico,A675256,1.0,Other,None
+7833,Bat Mix,Brown,A675261,,Other,None
+7834,Bat Mix,Brown,A675263,,Other,None
+7835,Bat Mix,Gray,A675267,,Other,None
+7836,Bat Mix,Black/Brown,A675270,,Other,None
+7847,Bat Mix,Brown,A675289,,Other,None
+7848,Bat Mix,Brown,A675290,,Other,None
+7852,Opossum Mix,White/Black,A675296,0.0,Other,None
+7871,Bat,Brown,A675316,,Other,None
+7914,Bat Mix,Brown,A675358,,Other,None
+7917,Raccoon Mix,Brown/Black,A675367,,Other,None
+7918,Skunk Mix,Black/White,A675378,,Other,None
+7919,Bat Mix,Brown/Black,A675381,,Other,None
+7920,Bat Mix,Brown/Black,A675382,,Other,None
+7921,Bat Mix,Brown,A675385,,Other,None
+7922,Bat Mix,Brown,A675386,,Other,None
+7923,Raccoon,Brown/Black,A675388,,Other,None
+7924,Opossum,Gray,A675389,,Other,None
+7925,Bat,Brown/Black,A675391,,Other,None
+7928,Raccoon,Gray/Black,A675398,,Other,None
+7935,Raccoon Mix,Gray/Black,A675404,,Other,None
+7936,Bat Mix,Brown,A675411,,Other,None
+7938,Bat Mix,Brown,A675412,,Other,None
+7939,Bat Mix,Brown,A675413,,Other,None
+7956,Bat Mix,Brown,A675436,,Other,None
+7958,Raccoon,Black/Gray,A675437,,Other,None
+7959,Bat,Brown/Black,A675438,,Other,None
+7961,Bat Mix,Brown,A675444,,Other,None
+7963,Bat Mix,Brown,A675445,,Other,None
+7964,Bat Mix,Brown,A675446,,Other,None
+7965,Bat Mix,Brown,A675448,,Other,None
+7970,Bat,Black,A675453,1.0,Other,None
+7973,Bat Mix,Brown,A675457,,Other,None
+7981,Raccoon,Brown/Black,A675463,,Other,None
+7983,Opossum Mix,Gray/White,A675464,1.0,Other,None
+7984,Squirrel Mix,Brown,A675474,,Other,None
+7985,Skunk,Black/White,A675476,,Other,None
+7987,Bat Mix,Brown,A675477,,Other,None
+7988,Bat Mix,Brown,A675475,,Other,None
+7989,Bat Mix,Brown,A675479,,Other,None
+8035,Bat Mix,Red,A675531,,Other,None
+8037,Bat Mix,Brown,A675532,,Other,None
+8043,Bat Mix,Brown,A675542,,Other,None
+8044,Bat,Brown/Black,A675546,,Other,None
+8045,Bat,Brown/Black,A675547,,Other,None
+8046,Bat,Brown/Black,A675548,,Other,None
+8050,Sugar Glider,Agouti/Gray,A675558,1.0,Other,Sam
+8060,English Spot Mix,White/Black,A675571,0.0,Other,Marzipan
+8061,Rabbit Sh Mix,Black/White,A675572,0.0,Other,Ryo-Ohki
+8062,Dutch Mix,Blue/White,A675573,1.0,Other,Pancho
+8063,Rabbit Sh Mix,Black/White,A677818,,Other,None
+8064,Rabbit Sh Mix,Black/White,A677819,,Other,None
+8065,Rabbit Sh Mix,Black/White,A677820,,Other,None
+8066,Rabbit Sh Mix,Black/White,A677821,,Other,None
+8067,Rabbit Sh Mix,Black/White,A677822,,Other,None
+8082,Raccoon Mix,Black/Gray,A675587,,Other,None
+8087,Bat Mix,Brown,A675595,,Other,None
+8094,Rabbit Sh Mix,White/Brown,A675606,0.0,Other,Bugs
+8096,Raccoon,Brown/Black,A675609,,Other,None
+8097,Squirrel,Black/Brown,A675610,,Other,None
+8118,Bat Mix,Black/Brown,A675629,,Other,None
+8127,Raccoon Mix,Gray/Black,A675636,,Other,None
+8137,Bat Mix,Brown,A675661,,Other,None
+8153,Bat Mix,Black/Brown,A675677,,Other,None
+8161,Raccoon Mix,Black/Gray,A675702,,Other,None
+8183,Jersey Wooly Mix,White/Black,A675792,,Other,None
+8228,Jersey Wooly Mix,Black,A675871,,Other,None
+8229,Bat Mix,Brown,A675873,,Other,None
+8231,Raccoon,Black/Gray,A675880,,Other,None
+8244,Cockatiel Mix,Gray/Yellow,A675898,0.0,Other,Java
+8251,Raccoon Mix,Gray/Black,A675906,1.0,Other,None
+8283,Duck Mix,White,A675979,,Other,None
+8293,Turtle Mix,Green,A675999,,Other,None
+8304,Bat,Brown,A676016,,Other,None
+8305,Bat Mix,Brown,A676017,,Other,None
+8313,Bat Mix,Brown,A676029,,Other,None
+8318,Guinea Pig,Tricolor,A676037,,Other,None
+8319,Guinea Pig,Tricolor,A676032,,Other,None
+8325,Bat,Black,A676049,1.0,Other,None
+8332,Raccoon,Brown/Black,A676058,,Other,None
+8333,Bat,Brown/Black,A676059,,Other,None
+8334,Raccoon,Brown/Black,A676061,,Other,None
+8335,Raccoon,Brown/Black,A676062,,Other,None
+8336,Opossum,Brown,A676064,,Other,None
+8354,Bat Mix,Brown,A676088,,Other,None
+8369,Bat Mix,Brown,A676106,,Other,None
+8370,Skunk Mix,Black/White,A676110,,Other,None
+8423,Raccoon Mix,Gray/Black,A676165,,Other,None
+8439,Raccoon,Brown/Black,A676185,,Other,None
+8440,Raccoon,Brown/Black,A676186,,Other,None
+8441,Squirrel,Brown,A676188,,Other,None
+8442,Skunk,Black/White,A676189,,Other,None
+8443,Bat,Black/Brown,A676190,,Other,None
+8470,Raccoon Mix,Black/Gray,A676214,,Other,None
+8488,Raccoon Mix,Black/White,A676233,,Other,None
+8499,Cottontail Mix,Brown,A676250,,Other,Toffee
+8522,Raccoon Mix,Gray/Black,A676278,,Other,None
+8535,Lionhead Mix,Tan,A676295,0.0,Other,Pom-Pom
+8538,Raccoon Mix,Black/Gray,A676293,,Other,None
+8541,Raccoon,Brown/Black,A676307,1.0,Other,None
+8542,Bat,Black,A676303,1.0,Other,None
+8544,Bat Mix,Brown,A676308,,Other,None
+8550,Fox Mix,Brown/Black,A676315,,Other,None
+8570,Raccoon Mix,Black/White,A676346,,Other,None
+8577,Raccoon Mix,Black/Gray,A676353,,Other,None
+8588,Opossum Mix,White/Gray,A676359,,Other,None
+8615,Rabbit Sh Mix,White/Gray,A676396,,Other,None
+8616,Bat Mix,Brown,A676398,,Other,None
+8631,Bat Mix,Black/Brown,A676426,,Other,None
+8637,Bat Mix,Brown,A676436,,Other,None
+8639,Raccoon Mix,Brown/Black,A676442,,Other,None
+8652,Fox,Brown/Orange,A676469,,Other,None
+8660,Raccoon,Brown/Black,A676508,,Other,None
+8664,Skunk Mix,Black,A676511,,Other,None
+8666,Raccoon Mix,Gray/Black,A676517,,Other,None
+8691,Raccoon Mix,Gray/Black,A676550,,Other,None
+8692,Raccoon Mix,Gray/Black,A676551,,Other,None
+8694,Bat Mix,Brown,A676555,,Other,None
+8695,Bat Mix,Brown,A676556,,Other,None
+8696,Bat Mix,Brown,A676553,,Other,None
+8721,Fox Mix,Red/Silver,A676591,,Other,None
+8743,Raccoon Mix,Gray/Black,A676610,,Other,None
+8765,Bat,Brown/Black,A676637,,Other,None
+8791,Raccoon Mix,Black/Gray,A676666,,Other,None
+8799,Duck,Brown/Tan,A676676,,Other,None
+8800,Bat,Brown/Black,A676679,,Other,None
+8846,Bat Mix,Black/Brown,A676741,,Other,None
+8853,Opossum Mix,Gray,A676748,,Other,None
+8872,Bat Mix,Brown,A676763,,Other,None
+8900,Raccoon Mix,Gray/Black,A676797,,Other,None
+8925,Bat,Black,A676850,,Other,None
+8931,Raccoon,Gray/Black,A676862,,Other,None
+8950,Bat Mix,Brown,A676884,,Other,None
+8999,Chicken Mix,Gold,A676942,1.0,Other,None
+9008,Bat,Brown,A676952,,Other,None
+9009,Raccoon,Gray/Black,A676953,,Other,None
+9020,Californian Mix,White/Chocolate,A676965,,Other,None
+9023,Opossum Mix,Gray/White,A676968,,Other,None
+9025,Skunk Mix,Black/White,A676970,,Other,None
+9049,Raccoon,Black/Gray,A677021,1.0,Other,None
+9080,Raccoon,Brown/Black,A677060,,Other,None
+9081,Bat,Black/Brown,A677061,,Other,None
+9082,Bat,Brown/Black,A677062,,Other,None
+9083,Bat Mix,Brown,A677063,,Other,None
+9102,Rabbit Sh Mix,Black,A677085,,Other,None
+9132,Bat Mix,Brown,A677114,,Other,None
+9133,Bat Mix,Brown,A677113,,Other,None
+9134,Bat Mix,Brown,A677116,,Other,None
+9138,Bat Mix,Brown,A677122,,Other,None
+9144,Bat,Brown/Black,A677136,,Other,None
+9146,Raccoon,Gray/Black,A677138,,Other,None
+9166,Opossum Mix,Gray/White,A677161,,Other,None
+9167,Bat Mix,Black/Brown,A677162,,Other,None
+9176,Raccoon Mix,Brown,A677173,,Other,None
+9177,Bat Mix,Red,A677174,,Other,None
+9229,Bat Mix,Brown,A677243,,Other,None
+9233,Opossum Mix,Gray,A677248,0.0,Other,None
+9249,Raccoon,Gray/Black,A677265,,Other,None
+9254,Skunk Mix,Black/White,A677270,,Other,None
+9255,Raccoon Mix,Gray/Black,A677271,,Other,None
+9274,Opossum,Gray/White,A677295,,Other,None
+9315,Fox,Red/Gray,A677348,,Other,None
+9319,Opossum,Gray/Pink,A677355,0.0,Other,None
+9337,Bat Mix,Brown,A677390,,Other,None
+9354,Opossum,Brown/White,A677418,,Other,None
+9355,Skunk,Black/White,A677420,,Other,None
+9391,Rabbit Sh Mix,Brown,A677494,,Other,None
+9410,Bantam Mix,White,A677505,1.0,Other,None
+9416,Squirrel,Gray,A677512,1.0,Other,None
+9420,Bat,Brown/Black,A677520,,Other,None
+9421,Bat,Brown/Brown,A677521,,Other,None
+9443,Rabbit Sh Mix,White/Black,A677542,,Other,None
+9477,Raccoon Mix,Gray/Black,A677580,,Other,None
+9502,Raccoon,Gray/Black,A677615,,Other,None
+9503,Opossum Mix,White/Gray,A677617,1.0,Other,None
+9509,Raccoon,Gray/Black,A677623,,Other,None
+9562,Bantam Mix,White,A677676,1.0,Other,None
+9563,Bantam Mix,White,A677677,1.0,Other,None
+9567,Bat Mix,Brown,A677678,,Other,None
+9601,Raccoon,Gray/Black,A677738,,Other,None
+9617,Raccoon Mix,Black/Gray,A677757,,Other,None
+9624,Raccoon,Black/Gray,A677769,,Other,None
+9637,Guinea Pig,White/Black,A677780,0.0,Other,Lovey
+9668,Lop-English Mix,Chocolate,A677839,,Other,None
+9674,Raccoon Mix,Black/Gray,A677847,,Other,None
+9677,Lop-English Mix,Brown,A677850,1.0,Other,Snuggles
+9700,Fox Mix,Brown/Gray,A677883,,Other,None
+9738,Raccoon Mix,Black/White,A677928,,Other,None
+9762,Raccoon Mix,Gray/Black,A677948,,Other,None
+9768,Opossum,Brown/White,A677970,,Other,None
+9772,Bat Mix,Brown,A677980,,Other,None
+9773,Fox,Gray,A677976,,Other,None
+9795,Bat Mix,Brown,A678005,,Other,None
+9796,Raccoon Mix,Gray/Black,A678004,,Other,None
+9797,Raccoon Mix,Gray/Black,A678007,0.0,Other,None
+9808,Bat,Brown/Black,A678035,,Other,None
+9809,Bat,Brown/Black,A678036,,Other,None
+9810,Bat,Brown/Black,A678038,,Other,None
+9866,Bat Mix,Brown,A678102,,Other,None
+9874,Rabbit Sh Mix,Black,A678110,1.0,Other,Mr.Black
+9951,Bat,Brown/Black,A678189,,Other,None
+10028,Raccoon Mix,Black/White,A678280,,Other,None
+10045,Bat Mix,Brown,A678297,,Other,None
+10075,Raccoon Mix,Black/Gray,A678335,,Other,None
+10077,Raccoon Mix,Gray/Black,A678337,,Other,None
+10083,Rex Mix,Chocolate/Tan,A678352,0.0,Other,Lotus
+10093,Bat,Brown/Black,A678362,,Other,None
+10096,Skunk Mix,Black/White,A678364,,Other,None
+10101,Raccoon Mix,Gray/Black,A678368,,Other,None
+10125,Raccoon Mix,Gray/Black,A678392,,Other,None
+10149,Raccoon Mix,Gray/Black,A678439,,Other,None
+10171,Raccoon Mix,Black/Gray,A678473,,Other,None
+10198,Parakeet Mix,Green/Yellow,A678507,,Other,None
+10206,Raccoon Mix,Black/Gray,A678524,,Other,None
+10262,Rabbit Sh Mix,Black,A678592,,Other,None
+10272,Raccoon Mix,Gray/Black,A678605,,Other,None
+10292,Rabbit Sh Mix,Gray/White,A678622,,Other,None
+10307,Raccoon Mix,Black,A678645,,Other,None
+10340,Bat Mix,Brown,A678686,,Other,None
+10419,Raccoon Mix,Black/White,A678768,,Other,None
+10428,Bat,Brown/Black,A678776,,Other,None
+10524,Bat Mix,Brown,A678873,,Other,None
+10525,Bat Mix,Brown,A678874,,Other,None
+10527,Raccoon Mix,Black/White,A678877,,Other,None
+10534,Bat Mix,Black,A678882,,Other,None
+10535,Bat Mix,Black,A678883,,Other,None
+10561,Bat,Brown,A678934,,Other,None
+10563,Bat Mix,Brown,A678932,,Other,None
+10618,Raccoon,Brown/Black,A678993,,Other,None
+10647,Bat Mix,Brown,A679032,,Other,None
+10660,Opossum Mix,White,A679051,,Other,None
+10662,Bat,Brown/Black,A679055,,Other,None
+10668,Rabbit Sh,Brown,A679066,,Other,None
+10730,Raccoon Mix,Black/Brown,A679124,,Other,None
+10731,Lovebird Mix,White,A679125,,Other,None
+10733,Raccoon,Gray/Black,A679140,,Other,None
+10764,Raccoon,Gray/Black,A679184,,Other,None
+10821,Bat Mix,Brown,A679254,,Other,None
+10841,Bat Mix,Brown,A679282,,Other,None
+10842,Opossum Mix,Gray,A679287,,Other,None
+10961,Raccoon Mix,Gray/Black,A679436,,Other,None
+10978,Raccoon Mix,Black/Gray,A679444,,Other,None
+10979,Raccoon Mix,Black/Gray,A679454,,Other,None
+10982,Raccoon Mix,Black/White,A679460,,Other,None
+11048,Goat Mix,Black,A679540,1.0,Other,None
+11056,Bat,Brown,A679553,,Other,None
+11097,Lionhead Mix,Seal Point/Gray,A679602,1.0,Other,Abe Lincoln
+11113,Tortoise Mix,Brown,A679618,,Other,None
+11146,Bat Mix,Brown,A679656,,Other,None
+11164,Bat,Brown,A679677,,Other,None
+11165,Raccoon Mix,Gray/Black,A679679,,Other,None
+11172,Bat,Brown/Black,A679691,,Other,None
+11180,Parrot Mix,Green/White,A679700,,Other,None
+11272,Bat Mix,Brown,A679801,,Other,None
+11282,Raccoon,Gray/Black,A679826,,Other,None
+11321,Bat Mix,Brown,A679863,,Other,None
+11325,Raccoon Mix,Sable,A679866,,Other,None
+11333,Bat Mix,Brown,A679877,,Other,None
+11338,Bat Mix,Gray,A679891,,Other,None
+11417,Raccoon,Black/Gray,A679984,,Other,None
+11423,Bat,Brown,A679991,,Other,None
+11424,Bat,Brown,A679992,,Other,None
+11425,Bat,Brown,A679994,,Other,None
+11426,Bat Mix,Brown,A679995,,Other,None
+11427,Bat Mix,Brown,A679996,,Other,None
+11443,Bat Mix,Brown,A680013,,Other,None
+11444,Raccoon,Brown/Black,A680014,,Other,None
+11446,Bat,Brown/Black,A680017,,Other,None
+11464,Opossum,Gray/White,A680029,1.0,Other,None
+11465,Opossum,Gray/White,A680031,0.0,Other,None
+11478,Opossum,Gray/White,A680047,1.0,Other,None
+11489,Bat Mix,Brown,A680056,,Other,None
+11520,Raccoon,Gray/Black,A680107,,Other,None
+11521,Bat,Brown/Black,A680108,,Other,None
+11595,Bat,Brown,A680197,,Other,None
+11600,Raccoon Mix,Gray/Black,A680203,,Other,None
+11610,Bat,Brown/Black,A680208,,Other,None
+11654,Rabbit Sh Mix,Brown,A680256,,Other,None
+11674,Lionhead Mix,Gray,A680279,,Other,None
+11675,Lionhead Mix,Black,A680280,,Other,None
+11681,Bat,Brown,A680275,,Other,None
+11682,Armadillo,Brown/Black,A680287,,Other,None
+11728,Bat Mix,Brown,A680328,,Other,None
+11735,Raccoon Mix,Black/White,A680333,,Other,None
+11736,Raccoon Mix,Black/White,A680337,,Other,None
+11737,Raccoon Mix,Black/White,A680338,,Other,None
+11738,Raccoon Mix,Black/White,A680339,,Other,None
+11764,Cold Water,Black/Gray,A680392,,Other,Plecostomus
+11765,Cold Water,Gray/Orange,A680393,,Other,Oscar
+11766,Cold Water,White/Orange,A680394,,Other,Oscar
+11769,Cold Water,Orange/White,A680388,,Other,Koi
+11770,Cold Water,Black/Gray,A680389,,Other,Plecostomus
+11811,Raccoon Mix,Black/White,A680428,,Other,None
+11813,Bat Mix,Brown,A680429,,Other,None
+11816,Bat Mix,Brown,A680431,,Other,None
+11835,Raccoon,Gray/Black,A680453,,Other,None
+11885,Bat Mix,Brown,A680502,,Other,None
+11968,Bat,Brown,A680637,,Other,None
+11969,Bat,Brown,A680638,,Other,None
+11970,Bat,Brown,A680639,,Other,None
+11971,Bat,Brown,A680640,,Other,None
+11979,Raccoon,Gray/Black,A680651,,Other,None
+12009,Rabbit Sh,Brown/White,A680686,,Other,None
+12063,American Mix,Agouti,A680759,0.0,Other,Pebbles
+12080,Skunk Mix,Black/White,A680775,,Other,None
+12106,Raccoon Mix,Black/White,A680807,,Other,None
+12112,Rabbit Sh Mix,Black,A680818,1.0,Other,Rocket Man
+12138,Bat Mix,Brown,A680845,,Other,None
+12139,Bat Mix,Brown,A680846,,Other,None
+12140,Bat Mix,Brown,A680847,,Other,None
+12145,Duck,Yellow/Black,A680857,,Other,None
+12146,Duck,Yellow/Black,A680858,,Other,None
+12147,Duck,Yellow/Black,A680859,,Other,None
+12148,Duck,Yellow/Black,A680860,,Other,None
+12149,Duck,Yellow/Black,A680861,,Other,None
+12150,Duck,Yellow/Black,A680862,,Other,None
+12151,Duck,Yellow/Black,A680863,,Other,None
+12152,Duck,Yellow/Black,A680855,,Other,None
+12175,Raccoon,Gray/Black,A680893,,Other,None
+12187,Squirrel Mix,Tan/Black,A680911,,Other,None
+12215,Raccoon,Gray/Black,A680944,,Other,None
+12216,Raccoon,Gray/Black,A680945,,Other,None
+12217,Raccoon,Gray/Black,A680941,,Other,None
+12232,Bat Mix,Brown,A680959,,Other,None
+12368,Rabbit Sh Mix,Black/White,A681165,1.0,Other,Tiny
+12410,Bat,Brown/Black,A681225,,Other,None
+12440,Californian Mix,White/Brown,A681253,0.0,Other,None
+12441,Californian Mix,White/Brown,A681254,1.0,Other,None
+12468,Bat,Orange,A681278,,Other,None
+12469,Bat,Orange,A681279,,Other,None
+12470,Bat,Orange,A681280,,Other,None
+12471,Bat,Orange,A681276,0.0,Other,None
+12479,Rabbit Sh Mix,Black,A681295,1.0,Other,Sharpie
+12498,Squirrel,Brown/Black,A681330,,Other,None
+12499,Raccoon,Brown/Black,A681331,,Other,None
+12549,Ferret Mix,Black/Brown,A681384,1.0,Other,Lestat
+12601,Bat,Brown,A681446,,Other,None
+12602,Bat,Brown,A681394,,Other,None
+12643,Opossum Mix,White/Black,A681487,,Other,None
+12670,Rabbit Sh Mix,Black/White,A681518,,Other,None
+12671,Raccoon,Gray/Black,A681520,,Other,None
+12684,Opossum,Gray/White,A681535,0.0,Other,None
+12744,Squirrel,Brown/Black,A681623,,Other,None
+12747,Potbelly Pig,Black,A681628,1.0,Other,Cledus
+12753,Raccoon Mix,Brown/Black,A681634,,Other,None
+12800,Squirrel,Brown,A681760,,Other,None
+12806,Bat Mix,Red/White,A681766,0.0,Other,None
+12863,Bat,Red,A681841,,Other,None
+12864,Bat,Red,A681843,,Other,None
+12865,Bat,Red,A681844,,Other,None
+12975,Raccoon,Gray/Black,A681995,,Other,None
+13013,Bat Mix,Brown,A682058,,Other,None
+13032,Opossum Mix,Brown/Gray,A682080,,Other,None
+13071,Raccoon,Gray/Black,A682135,,Other,None
+13083,Bat,Brown,A682151,,Other,None
+13085,Skunk,Black/White,A682153,,Other,None
+13086,Bat Mix,Brown,A682156,,Other,None
+13112,Lop-Holland Mix,Brown,A682185,,Other,None
+13127,Raccoon Mix,Black/White,A682195,,Other,None
+13159,Rabbit Sh,Brown,A682245,,Other,None
+13223,Bat,Brown,A682361,,Other,None
+13224,Bat,Brown,A682362,,Other,None
+13225,Bat,Brown,A682363,,Other,None
+13226,Bat,Brown,A682364,,Other,None
+13249,Rex Mix,White/Black,A682390,0.0,Other,Spots
+13250,Lionhead,Brown,A682391,1.0,Other,Triceratops
+13252,Rabbit Lh Mix,Gray,A682388,,Other,None
+13271,Bat Mix,Red/Cream,A682406,,Other,None
+13272,Bat Mix,Red/Cream,A682407,0.0,Other,None
+13273,Bat,Red/Cream,A682408,,Other,None
+13274,Bat Mix,Red/Cream,A682409,,Other,None
+13275,Bat Mix,Red/Cream,A682410,,Other,None
+13276,Bat Mix,Red/Cream,A682411,,Other,None
+13296,Opossum Mix,Gray,A682432,1.0,Other,None
+13297,Bat Mix,Orange,A682434,,Other,None
+13299,Opossum Mix,Gray/White,A682435,,Other,None
+13306,Bat,Brown,A682448,,Other,None
+13307,Bat,Brown,A682449,,Other,None
+13308,Bat,Brown,A682450,,Other,None
+13415,Bat,Red,A682566,,Other,None
+13416,Bat,Red,A682567,,Other,None
+13429,Bat Mix,Brown,A682582,,Other,None
+13484,Bat Mix,Brown,A682646,,Other,None
+13492,Opossum Mix,Brown/White,A682656,,Other,None
+13518,Bat Mix,Brown,A682688,,Other,None
+13522,Bat Mix,Brown,A682692,,Other,None
+13528,Bat Mix,Red,A682711,,Other,None
+13529,Rabbit Sh Mix,Black/White,A682710,0.0,Other,None
+13530,Raccoon Mix,Black,A682712,,Other,None
+13531,Opossum,Gray/White,A682718,,Other,None
+13563,Bat Mix,Brown,A682715,,Other,None
+13618,Skunk Mix,Black/White,A682818,,Other,None
+13651,Bat,Brown,A682847,,Other,None
+13652,Opossum,Brown,A682860,,Other,None
+13698,Raccoon Mix,Gray/Black,A682915,,Other,None
+13758,Ferret Mix,Sable/White,A682985,1.0,Other,Edgar
+13798,Rabbit Sh Mix,Red/White,A683047,0.0,Other,Sedona
+13810,Bat Mix,Brown,A683060,,Other,None
+13827,Bat,Black/Brown,A683068,,Other,None
+13865,Bat Mix,Brown,A683113,,Other,None
+13866,Bat Mix,Brown,A683115,,Other,None
+13867,Bat Mix,Brown,A683116,,Other,None
+13882,Raccoon Mix,Black/Gray,A683134,,Other,None
+13895,Snake,Brown/Black,A683151,,Other,None
+13906,Bat Mix,Brown,A683164,,Other,None
+13912,Guinea Pig Mix,White,A683183,1.0,Other,Junior
+13913,Guinea Pig Mix,White/Brown,A683184,0.0,Other,Sugar
+13940,Raccoon Mix,Black/Gray,A683276,,Other,None
+13952,Bat Mix,Brown,A683289,,Other,None
+14077,Hamster Mix,Gray/White,A683379,,Other,None
+14080,Guinea Pig Mix,Black/White,A683382,,Other,None
+14089,Squirrel Mix,Brown,A683388,,Other,None
+14092,Raccoon,Brown/Black,A683393,,Other,None
+14096,Donkey Mix,Gray,A683398,1.0,Other,Sonny
+14113,Sparrow Mix,Brown/Black,A683414,,Other,None
+14151,Rabbit Sh Mix,White/Black,A683455,,Other,None
+14162,Bat Mix,Black,A683477,,Other,None
+14163,Bat Mix,Brown,A683478,,Other,None
+14216,Raccoon Mix,Brown/Black,A683535,,Other,None
+14227,Bat,Brown/Black,A683557,,Other,None
+14228,Raccoon,Brown,A683558,,Other,None
+14229,Raccoon Mix,Gray/Black,A683560,,Other,None
+14261,Catbird Mix,Brown,A683591,,Other,None
+14333,Dutch/Rabbit Sh,Brown/White,A683685,0.0,Other,None
+14339,Grackle Mix,Black/White,A683693,,Other,None
+14351,Opossum Mix,Black/White,A683697,1.0,Other,None
+14368,Chicken,Brown/Yellow,A683716,0.0,Other,None
+14461,Raccoon Mix,Brown,A683825,,Other,None
+14604,Nuthatch Mix,Brown,A684023,,Other,None
+14626,Bat Mix,Brown,A684053,,Other,None
+14637,Squirrel,Brown,A684068,,Other,None
+14700,Raccoon,Black/Gray,A684154,,Other,None
+14720,Squirrel,Brown,A684174,,Other,None
+14739,Squirrel Mix,Tan/Brown,A684194,,Other,None
+14743,Turtle Mix,Brown,A684197,,Other,None
+14757,Snake Mix,Brown/Black,A684213,,Other,None
+14758,Bat Mix,Brown,A684214,,Other,None
+14820,Bat,Black/Brown,A684322,,Other,None
+14826,Tortoise Mix,Green,A684327,,Other,None
+14875,Bat Mix,Black/Brown,A684389,,Other,None
+14923,Opossum,Brown,A684448,,Other,None
+14955,Bat Mix,Brown,A684489,,Other,None
+14956,Bat,Brown,A684490,,Other,None
+14970,Bat Mix,Brown,A684499,,Other,None
+14985,Rabbit Sh Mix,Black,A684523,0.0,Other,Luna
+14986,Rabbit Sh Mix,White/Tan,A684524,1.0,Other,Helios
+14989,Bat,Brown/Black,A684525,,Other,None
+15007,Bat Mix,Brown,A684550,,Other,None
+15049,Bat,Brown/Black,A684590,,Other,None
+15050,Bat,Brown/Black,A684597,,Other,None
+15088,Bat Mix,Brown,A684637,,Other,None
+15156,Bat,Black/Brown,A684721,,Other,None
+15161,Bat Mix,Brown,A684732,,Other,None
+15162,Raccoon,Black/Gray,A684727,,Other,None
+15169,Bat Mix,Brown,A684743,,Other,None
+15178,Opossum,Gray/White,A684755,,Other,None
+15209,Bat,Black/Brown,A684789,,Other,None
+15223,Bat Mix,Brown,A684809,,Other,None
+15226,Raccoon Mix,Black/White,A684813,,Other,None
+15280,Bat,Black/Brown,A684864,,Other,None
+15290,Bat Mix,Red,A684894,,Other,None
+15295,Opossum Mix,Black,A684902,,Other,None
+15316,Bat Mix,Brown,A684931,,Other,None
+15318,Raccoon Mix,Black/White,A684934,,Other,None
+15320,Bat Mix,Brown,A684935,,Other,None
+15322,Bat Mix,Black,A684940,,Other,None
+15323,Bat Mix,Brown,A684943,,Other,None
+15325,Bat Mix,Brown,A684944,1.0,Other,None
+15368,Lizard Mix,Tan,A684990,0.0,Other,None
+15379,Bat Mix,Brown/Black,A685009,,Other,None
+15398,Bat,Brown,A685029,,Other,None
+15399,Bat,Brown,A685031,,Other,None
+15400,Bat,Brown,A685041,,Other,None
+15404,Bat Mix,Brown,A685034,,Other,None
+15406,Raccoon Mix,Gray/Black,A685027,,Other,None
+15457,Raccoon Mix,Sable,A685098,,Other,None
+15472,Rabbit Sh Mix,White/Black,A685115,,Other,None
+15480,Rabbit Sh Mix,Brown,A685125,,Other,None
+15483,Bat,Brown/Black,A685128,,Other,None
+15536,Bat Mix,Brown,A685194,,Other,None
+15546,Quaker Mix,Green/Blue,A685204,,Other,None
+15602,Bat Mix,Red,A685266,,Other,None
+15619,Guinea Pig,Tricolor,A685289,1.0,Other,Max
+15620,Guinea Pig,Tricolor,A685290,0.0,Other,Princess
+15621,Guinea Pig,Tricolor,A685291,0.0,Other,Peach
+15622,Guinea Pig,Tricolor,A685292,0.0,Other,Bruno
+15623,Guinea Pig,Tricolor,A685293,0.0,Other,Bella
+15667,Ferret Mix,Sable,A685357,0.0,Other,None
+15671,Bat,Black/Brown,A685359,,Other,None
+15712,Bat Mix,Brown,A685422,,Other,None
+15718,Bat,Brown,A685428,,Other,None
+15750,Bat,Brown/Black,A685463,,Other,None
+15756,Dove Mix,Brown,A685473,,Other,None
+15757,Skunk,Black/White,A685474,,Other,None
+15816,Bat,Brown,A685534,,Other,None
+15819,Bat,Brown/Black,A685544,,Other,None
+15820,Bat,Brown/Black,A685545,,Other,None
+15821,Bat,Brown/Black,A685546,,Other,None
+15822,Bat,Brown/Black,A685547,,Other,None
+15883,Bat,Brown/Black,A685620,,Other,None
+15884,Bat,Brown/Black,A685621,,Other,None
+15919,Bat,Gray,A685668,,Other,None
+15920,Squirrel,Brown,A685669,,Other,None
+15930,Rabbit Sh Mix,Brown,A685682,1.0,Other,Elote
+15956,Armadillo Mix,Gray,A685713,,Other,None
+15958,Bat Mix,Brown,A685714,,Other,None
+15959,Bat,Brown/Black,A685719,,Other,None
+15967,Pygmy,Agouti/Red,A685738,0.0,Other,Bambi
+15970,Bat Mix,Brown,A685728,,Other,None
+15977,Bat Mix,Brown,A685735,,Other,None
+15978,Bat Mix,Brown,A685736,,Other,None
+16020,Squirrel Mix,Brown,A685797,0.0,Other,None
+16021,Skunk,Black/White,A685799,,Other,None
+16022,Skunk,Black/White,A685800,,Other,None
+16029,Bat Mix,Brown,A685813,,Other,None
+16055,Bat,Brown,A685855,,Other,None
+16060,Guinea Pig,Tortie,A685863,0.0,Other,Sully
+16104,Bat Mix,Brown,A685928,,Other,None
+16105,Bat Mix,Brown,A685929,,Other,None
+16123,Bat Mix,Brown,A685954,,Other,None
+16147,Raccoon,Gray/Black,A685985,,Other,None
+16164,Rabbit Sh Mix,Orange,A686003,0.0,Other,None
+16175,Bat Mix,Brown,A686018,,Other,None
+16176,Bat Mix,Brown,A686022,,Other,None
+16177,Bat Mix,Brown,A686023,,Other,None
+16178,Bat Mix,Brown,A686024,,Other,None
+16179,Bat Mix,Brown,A686025,,Other,None
+16180,Bat Mix,Brown,A686026,,Other,None
+16181,Bat Mix,Brown,A686027,,Other,None
+16182,Bat Mix,Brown,A686028,,Other,None
+16183,Bat Mix,Brown,A686029,,Other,None
+16184,Bat Mix,Brown,A686030,,Other,None
+16185,Bat Mix,Brown,A686031,,Other,None
+16186,Bat Mix,Brown,A686032,,Other,None
+16187,Bat Mix,Brown,A686033,,Other,None
+16188,Bat Mix,Brown,A686034,,Other,None
+16189,Bat Mix,Brown,A686035,,Other,None
+16190,Bat Mix,Brown,A686036,,Other,None
+16191,Bat Mix,Brown,A686037,,Other,None
+16192,Bat Mix,Brown,A686038,,Other,None
+16193,Bat Mix,Brown,A686039,,Other,None
+16194,Bat Mix,Brown,A686040,,Other,None
+16195,Bat Mix,Brown,A686041,,Other,None
+16196,Bat Mix,Brown,A686042,,Other,None
+16197,Bat Mix,Brown,A686043,,Other,None
+16198,Bat Mix,Brown,A686044,,Other,None
+16199,Bat Mix,Brown,A686045,,Other,None
+16200,Bat Mix,Brown,A686046,,Other,None
+16201,Bat Mix,Brown,A686047,,Other,None
+16202,Bat Mix,Brown,A686048,,Other,None
+16203,Bat Mix,Brown,A686049,,Other,None
+16204,Bat Mix,Brown,A686050,,Other,None
+16205,Bat Mix,Brown,A686051,,Other,None
+16206,Bat Mix,Brown,A686052,,Other,None
+16207,Bat Mix,Brown,A686053,,Other,None
+16208,Bat Mix,Brown,A686054,,Other,None
+16209,Bat Mix,Brown,A686055,,Other,None
+16210,Bat Mix,Brown,A686056,,Other,None
+16211,Bat Mix,Brown,A686057,,Other,None
+16212,Bat Mix,Brown,A686058,,Other,None
+16255,Parrot Mix,Green,A686106,0.0,Other,Polly
+16358,Bat Mix,Gray,A686219,,Other,None
+16361,Silkie Mix,Black,A686222,1.0,Other,None
+16367,Bat,Black/Brown,A686227,,Other,None
+16378,Bat Mix,Brown,A686244,,Other,None
+16453,Rabbit Sh Mix,Black,A686341,,Other,None
+16454,Rabbit Sh Mix,Brown,A686342,,Other,None
+16508,Bat,Brown,A686438,,Other,None
+16509,Bat,Brown/Black,A686439,,Other,None
+16515,Bat,Brown,A686445,,Other,None
+16534,Bat Mix,Brown,A686469,,Other,None
+16542,Bat Mix,Black,A686499,,Other,None
+16544,Bat,Brown/Black,A686506,,Other,None
+16545,Bat,Brown/Black,A686508,,Other,None
+16546,Bat,Brown/Black,A686509,,Other,None
+16580,Bat,Brown,A686545,,Other,None
+16590,Bat Mix,Brown,A686552,,Other,None
+16596,Raccoon Mix,Gray/Black,A686571,,Other,None
+16600,Bat Mix,Gray,A686577,,Other,None
+16601,Raccoon,Gray/Black,A686581,,Other,None
+16606,Bat,Brown/Black,A686590,,Other,None
+16607,Bat,Brown/Black,A686591,,Other,None
+16614,Opossum,Gray/Black,A686598,,Other,None
+16626,Rabbit Sh,White/Brown,A686605,,Other,None
+16652,Guinea Pig,Brown/White,A686640,,Other,None
+16682,Cockatiel,Gray/White,A686687,,Other,None
+16701,Bat Mix,Gray,A686707,,Other,None
+16705,Bat,Black/Brown,A686714,,Other,None
+16737,American Sable,Sable,A686756,1.0,Other,Mr Bunny
+16757,Skunk Mix,Black/White,A686787,,Other,None
+16806,Raccoon,Gray/Black,A686863,,Other,None
+16844,Rabbit Sh Mix,Black,A686906,,Other,None
+16899,Guinea Pig Mix,Tricolor,A686969,1.0,Other,Charles
+16994,Raccoon,Gray/Brown,A687080,,Other,None
+16999,Dove Mix,Gray/White,A687087,,Other,None
+17019,Opossum Mix,Brown,A687111,1.0,Other,None
+17083,Bat Mix,Brown,A687186,,Other,None
+17114,Opossum,Brown/White,A687222,,Other,None
+17147,Bat Mix,Brown,A687249,,Other,None
+17148,Raccoon Mix,Brown/Black,A687250,,Other,None
+17149,Bat Mix,Brown,A687251,,Other,None
+17160,Raccoon Mix,Brown,A687284,,Other,None
+17200,Bat,Brown,A687342,,Other,None
+17203,Bat Mix,Gray,A687349,,Other,None
+17233,Rabbit Sh,Tan,A687387,1.0,Other,Sunkist
+17267,Skunk Mix,White/Black,A687431,,Other,None
+17277,Raccoon,Gray/Black,A687452,,Other,None
+17282,Bat,Brown/Black,A687461,,Other,None
+17283,Raccoon,Gray/Black,A687459,,Other,None
+17285,Opossum Mix,Gray,A687471,,Other,None
+17333,Bat Mix,Black,A687522,,Other,None
+17381,Bat,Brown/Black,A687576,,Other,None
+17382,Bat,Brown/Black,A687577,,Other,None
+17414,Bat Mix,Brown,A687605,,Other,None
+17427,Chicken Mix,Brown,A687621,,Other,None
+17428,Chicken Mix,Brown,A687622,,Other,None
+17429,Chicken Mix,Brown,A687623,,Other,None
+17431,Chicken Mix,Brown/Black,A687629,,Other,None
+17436,Bat Mix,Brown,A687634,,Other,None
+17482,Bat Mix,Brown,A687696,,Other,None
+17525,Bat Mix,Brown,A687763,,Other,None
+17542,Raccoon Mix,Sable,A687777,,Other,None
+17543,Pig Mix,Black,A687778,1.0,Other,None
+17544,Bat Mix,Brown,A687779,,Other,None
+17563,Pig Mix,White,A688634,0.0,Other,Mag Pie
+17564,Pig Mix,White,A688635,1.0,Other,James Dean
+17573,Rabbit Sh Mix,White/Black,A687805,,Other,None
+17656,Raccoon,Gray/Black,A687924,,Other,None
+17678,Bat,Brown,A687934,,Other,None
+17682,Cockatiel Mix,Yellow,A687957,1.0,Other,None
+17712,Bantam Mix,White,A688000,,Other,None
+17713,Bantam Mix,White,A688001,,Other,None
+17714,Bantam Mix,White,A688002,,Other,None
+17731,Opossum Mix,Gray,A688023,,Other,None
+17791,Ferret Mix,White/Silver,A688082,1.0,Other,Benny
+17819,Raccoon Mix,Brown/Black,A688113,0.0,Other,None
+17865,Rat Mix,White/Brown,A688159,1.0,Other,Immy
+17873,Bat Mix,Brown,A688169,,Other,None
+17879,Rabbit Sh Mix,Black,A688177,0.0,Other,Kacy
+17883,Bat Mix,Brown,A688180,,Other,None
+17924,Raccoon Mix,Brown/Black,A688228,,Other,None
+17934,Bat Mix,Brown,A688242,,Other,None
+17958,Ferret,Brown,A688283,0.0,Other,Metta
+17964,Rabbit Sh,White/Gray,A688289,0.0,Other,Bluebonnet
+18024,Bat Mix,Brown,A688373,,Other,None
+18025,Bat,Brown,A688375,,Other,None
+18037,Raccoon Mix,Gray/Black,A688392,,Other,None
+18040,Bat,Brown/Black,A688397,,Other,None
+18061,Opossum Mix,Gray/Pink,A688409,,Other,None
+18066,Bat,Brown,A688419,,Other,None
+18203,Rex Mix,Black Smoke,A688561,1.0,Other,Roger
+18207,Bat,Brown/Black,A688575,,Other,None
+18222,Bat Mix,Brown/Black,A688592,,Other,None
+18257,Bat,Brown,A688633,,Other,None
+18262,Bat,Brown/Black,A688647,,Other,None
+18313,Bat Mix,Brown/Black,A688708,,Other,None
+18331,Bat Mix,Brown,A688731,,Other,None
+18334,Bat,Brown/Black,A688735,,Other,None
+18364,Bat Mix,Orange/Tan,A688766,,Other,None
+18370,Opossum Mix,Gray/White,A688770,1.0,Other,None
+18371,Bat Mix,Brown,A688771,,Other,None
+18372,Bat Mix,Brown,A688772,,Other,None
+18389,Bat Mix,Brown,A688791,,Other,None
+18390,Bat Mix,Brown,A688792,,Other,None
+18420,Bat Mix,Brown,A688824,,Other,None
+18424,Bat Mix,Brown,A688825,,Other,None
+18433,Bat Mix,Brown,A688840,,Other,None
+18454,Bat,Black,A688865,1.0,Other,None
+18469,Bat,Brown/Black,A688894,,Other,None
+18556,Bat Mix,Brown/Black,A689013,,Other,None
+18594,Bat Mix,Brown/Black,A689055,,Other,None
+18650,Bat Mix,Gray,A689119,,Other,None
+18652,Bat Mix,Gray,A689123,,Other,None
+18664,Bat Mix,Brown,A689142,,Other,None
+18711,Bat Mix,Gray,A689202,,Other,None
+18752,Rex Mix,White/Black,A689264,,Other,Monarch
+18868,Bat Mix,Brown,A689405,,Other,None
+18921,Raccoon Mix,Black/White,A689472,,Other,None
+18922,Bat Mix,Brown,A689479,,Other,None
+18934,Bat,Brown,A689492,,Other,None
+18963,Californian Mix,White,A689536,,Other,None
+18969,Bat,Brown,A689547,,Other,None
+18989,Californian Mix,White,A689572,1.0,Other,Sugar Ray
+19004,Bat Mix,Gray,A689588,,Other,None
+19006,Bat Mix,Gray,A689591,,Other,None
+19024,Guinea Pig Mix,White/Tricolor,A689618,1.0,Other,Oreo
+19073,Bat Mix,Brown,A689683,,Other,None
+19096,Bat Mix,Brown,A689717,,Other,None
+19122,Skunk Mix,Black/White,A689756,,Other,None
+19145,Raccoon Mix,Gray/Black,A689781,,Other,None
+19177,Raccoon Mix,Gray/Black,A689826,,Other,None
+19212,Bat,Brown/Black,A689868,,Other,None
+19247,Rabbit Sh Mix,Tricolor,A689913,1.0,Other,None
+19270,Raccoon Mix,Black,A689947,,Other,None
+19279,Bat Mix,Brown,A689948,,Other,None
+19288,Bat,Brown/Black,A689962,,Other,None
+19294,Opossum,Gray/Pink,A689968,,Other,None
+19329,Guinea Pig Mix,Brown/Black,A690016,0.0,Other,None
+19442,Bat Mix,Brown,A690144,,Other,None
+19458,Bat,Brown,A690164,,Other,None
+19471,Bat Mix,Brown,A690177,,Other,None
+19487,Squirrel Mix,Brown,A690210,0.0,Other,None
+19504,Bat Mix,Brown,A690228,,Other,None
+19557,Bat Mix,Brown,A690291,,Other,None
+19562,Bat,Brown/Black,A690990,,Other,None
+19571,Bat Mix,Brown,A690307,,Other,None
+19579,Ferret Mix,Chocolate Point/Cream,A690316,0.0,Other,Cappucino
+19623,Opossum Mix,White/Black,A690358,1.0,Other,None
+19659,Bat Mix,Brown,A690392,,Other,None
+19660,Bat Mix,Brown,A690393,,Other,None
+19664,Bat Mix,Brown,A690401,,Other,None
+19665,Bat Mix,Brown,A690402,,Other,None
+19675,Opossum Mix,White/Gray,A690417,1.0,Other,None
+19718,Lionhead Mix,Gray,A690466,,Other,None
+19725,Bat,Brown/Black,A690986,,Other,None
+19732,Bat Mix,Black,A690473,,Other,None
+19744,Bat,Brown,A690501,,Other,None
+19752,Bat Mix,Brown,A690521,,Other,None
+19753,Bat Mix,Brown,A690523,,Other,None
+19766,Bat,Brown,A690528,,Other,None
+19805,Opossum,Gray,A690575,,Other,None
+19813,Opossum Mix,Brown/Black,A690583,,Other,None
+19817,Bat,Brown/Black,A690590,,Other,None
+19820,Chicken Mix,Brown/White,A690593,0.0,Other,None
+19877,Bat Mix,Brown,A690684,,Other,None
+19910,Bat,Brown,A690729,,Other,None
+19950,Guinea Pig,Gray/White,A690773,1.0,Other,None
+19957,Bat,Brown/Black,A690779,,Other,None
+19962,Raccoon,Gray/Black,A690786,,Other,None
+19980,Bat,Brown,A690801,,Other,None
+20009,Fox,Gray/Red,A690842,,Other,None
+20025,Guinea Pig Mix,Black/White,A690859,1.0,Other,Stuff
+20026,Guinea Pig Mix,Black/White,A690858,0.0,Other,Double
+20036,New Zealand Wht Mix,White/Black,A690874,1.0,Other,None
+20045,Bat,Brown,A690879,,Other,None
+20049,Bat Mix,Brown,A690884,,Other,None
+20103,Bat Mix,Brown,A690969,,Other,None
+20108,Bat,Brown,A690978,,Other,None
+20113,Bat,Brown/Black,A690989,,Other,None
+20117,Skunk Mix,Black/White,A691015,,Other,None
+20121,Rabbit Sh,White/Brown,A691017,,Other,None
+20190,Bat Mix,Brown,A691123,,Other,None
+20213,Bat,Brown/Black,A691176,,Other,None
+20215,Skunk,Black/White,A691178,,Other,None
+20216,Opossum Mix,Gray,A691179,,Other,None
+20242,Bat Mix,Brown,A691209,,Other,None
+20338,Bat Mix,Brown,A691320,,Other,None
+20397,Bat Mix,Black,A691417,,Other,None
+20453,Fox Mix,Red/Gray,A691494,,Other,None
+20465,Bat Mix,Brown,A691499,,Other,None
+20547,Bat,Brown,A691620,,Other,None
+20558,Bat,Red,A691638,1.0,Other,None
+20577,Bat Mix,Brown,A691661,,Other,None
+20636,Opossum Mix,Gray/White,A691730,,Other,None
+20665,Raccoon,Brown/Black,A691760,,Other,None
+20669,Bat,Brown/Black,A691763,,Other,None
+20693,Raccoon,Gray/Black,A691786,,Other,None
+20703,Bat,Brown/Black,A691805,,Other,None
+20727,Bat,Black/Brown,A691835,,Other,None
+20728,Rabbit Sh Mix,Brown/White,A691837,1.0,Other,None
+20783,Bat Mix,Brown,A691894,,Other,None
+20784,Bat,Brown,A691895,,Other,None
+20785,Bat Mix,Brown,A691897,,Other,None
+20912,Guinea Pig Mix,Tricolor,A692095,0.0,Other,Juno
+20913,Guinea Pig Mix,Tricolor/Black,A692097,0.0,Other,Oreo
+20914,Guinea Pig Mix,Tan,A692094,0.0,Other,Annabell
+20915,Guinea Pig Mix,White,A692098,0.0,Other,White One
+20939,Bat Mix,Brown,A692129,,Other,None
+20981,Bat Mix,Gray,A692183,,Other,None
+20996,Lop-Mini Mix,White/Gray,A692202,0.0,Other,Icicle
+21061,Bat Mix,Brown,A692278,,Other,None
+21062,Bat Mix,Brown,A692279,,Other,None
+21091,Bat,Black/Brown,A692333,,Other,None
+21126,Coyote Mix,Brown/Black,A692368,,Other,None
+21188,Bat Mix,Brown,A692451,,Other,None
+21211,Bat Mix,Brown,A692480,,Other,None
+21291,Rabbit Sh Mix,Black/White,A692557,,Other,Bagel
+21299,Bat Mix,Brown,A692569,,Other,None
+21300,Bat Mix,Brown,A692575,,Other,None
+21369,Bat Mix,Red,A692640,,Other,None
+21370,Bat Mix,Brown,A692641,,Other,None
+21393,Bat Mix,Brown,A692723,,Other,None
+21404,Bat Mix,Brown,A692743,,Other,None
+21423,Bat Mix,Brown,A692786,,Other,None
+21441,Bat Mix,Brown,A692815,,Other,None
+21476,Bat,Black/Brown,A692856,,Other,None
+21499,Skunk,Black/White,A692895,1.0,Other,None
+21537,Bat,Brown,A692933,,Other,None
+21558,Ferret,White,A694133,0.0,Other,Baby
+21589,Raccoon Mix,Gray/Black,A692987,,Other,None
+21631,Bat,Black,A693041,1.0,Other,None
+21705,Rabbit Sh Mix,Pink,A693140,,Other,None
+21706,Rabbit Sh Mix,Pink,A693139,,Other,None
+21707,Rabbit Sh Mix,Pink,A693138,,Other,None
+21708,Rabbit Sh Mix,Pink,A693141,,Other,None
+21716,Bat Mix,Brown,A693134,,Other,None
+21727,Lop-Mini Mix,White,A693153,,Other,None
+21753,Bat Mix,Brown,A693184,,Other,None
+21777,Bat Mix,Brown,A693212,,Other,None
+21787,Opossum Mix,Gray/White,A693222,,Other,None
+21821,Raccoon Mix,Gray/Black,A693286,,Other,None
+21873,Bat,Brown/Black,A693337,,Other,None
+21911,Bat,Brown/Black,A693384,,Other,None
+21954,Bat,Brown/Black,A693426,0.0,Other,None
+21957,Squirrel Mix,Brown/Gray,A693427,,Other,None
+21972,Bat,Black/Brown,A693448,,Other,None
+21975,Opossum Mix,White/Gray,A693451,,Other,None
+22053,Bat Mix,Brown,A693549,,Other,None
+22077,Chicken Mix,Red/Green,A693590,1.0,Other,None
+22091,Guinea Pig,Tricolor,A693613,0.0,Other,None
+22092,Guinea Pig,Tricolor,A693615,1.0,Other,None
+22093,Guinea Pig,Tricolor,A693614,1.0,Other,None
+22094,Guinea Pig,Tricolor,A693612,0.0,Other,Spooky
+22124,Bat Mix,Brown,A693645,,Other,None
+22126,Skunk Mix,Black/White,A693647,,Other,None
+22127,Opossum Mix,Gray/White,A693649,1.0,Other,None
+22131,Bat Mix,Brown,A693651,,Other,None
+22144,Bat,Brown,A693665,,Other,None
+22170,Squirrel Mix,Tan,A693700,,Other,None
+22171,Fox,Gray/Red,A693702,,Other,None
+22216,Rabbit Sh Mix,Brown,A693755,,Other,None
+22286,Opossum Mix,White/Black,A693836,1.0,Other,None
+22301,Duck,Black/Green,A693850,0.0,Other,None
+22303,New Zealand Wht Mix,White,A693853,1.0,Other,None
+22304,New Zealand Wht Mix,White,A693854,1.0,Other,None
+22305,New Zealand Wht Mix,White,A693855,0.0,Other,None
+22316,Raccoon Mix,Black/Gray,A693867,,Other,None
+22399,Californian Mix,White/Brown,A693973,1.0,Other,Sacramento
+22408,Guinea Pig Mix,Tricolor,A693982,1.0,Other,Samson
+22424,Ferret Mix,Black/White,A693997,1.0,Other,None
+22447,Opossum Mix,Sable,A694023,1.0,Other,None
+22458,Bat Mix,Brown,A694039,,Other,None
+22508,Chicken Mix,Brown/Black,A694113,1.0,Other,Rooster
+22514,Finch,Gray/Black,A694120,,Other,None
+22515,Finch,White/Gray,A694121,,Other,None
+22516,Parakeet,Green,A694123,0.0,Other,None
+22517,Parakeet,White,A694122,0.0,Other,None
+22518,Guinea Pig Mix,Tricolor,A694117,0.0,Other,Molly
+22519,Guinea Pig Mix,White/Tricolor,A694118,0.0,Other,Snowflake
+22520,Hamster Mix,Brown/White,A694119,0.0,Other,Marshmallow
+22627,Rabbit Sh Mix,Orange/Brown,A694257,,Other,Sahara
+22677,Raccoon Mix,Gray/Black,A694320,,Other,None
+22696,Rabbit Sh Mix,White/Black,A694349,,Other,Jersey
+22828,Skunk Mix,Black/White,A694504,,Other,None
+22906,Mouse Mix,Gray/Black,A694592,,Other,Henry
+23143,Hotot Mix,White/Black,A694976,0.0,Other,Kuromi
+23173,Bat Mix,Brown,A695014,,Other,None
+23177,Opossum Mix,White/Gray,A695020,1.0,Other,None
+23246,Raccoon Mix,Gray/Black,A695137,,Other,None
+23440,Bat,Black/Brown,A695383,,Other,None
+23498,Guinea Mix,Brown/White,A695478,1.0,Other,None
+23499,Turkey Mix,Brown/White,A695477,0.0,Other,None
+23500,Turkey Mix,Brown/White,A695476,1.0,Other,None
+23505,Bat Mix,Brown,A695485,,Other,None
+23521,Opossum Mix,Gray,A695514,,Other,None
+23547,Guinea Pig Mix,Black,A695544,1.0,Other,Pipper
+23548,Guinea Pig Mix,White/Red,A695545,1.0,Other,Poppett
+23557,Opossum,White/Gray,A695566,,Other,None
+23558,Hamster Mix,White/Blue,A695568,,Other,Dash
+23593,Opossum Mix,Gray,A695601,,Other,None
+23598,Raccoon,Black/Gray,A695614,,Other,None
+23630,Bat Mix,Brown,A695648,,Other,None
+23683,Opossum,Gray,A695708,,Other,None
+23685,Bat,Brown,A695713,,Other,None
+23701,Rabbit Sh Mix,White/Black,A695727,1.0,Other,Apache
+23706,Conure,Green/Orange,A695738,,Other,Guey
+23710,Bat,Black/Brown,A695740,,Other,None
+23741,Bat Mix,Brown,A695776,,Other,None
+23791,Raccoon Mix,Black/Gray,A695841,,Other,None
+23797,Guinea Pig Mix,White/Black,A695848,,Other,None
+23801,Guinea Pig,Black/White,A695849,,Other,Oreo
+23802,Chicken Mix,Red/Black,A695851,,Other,None
+23811,Raccoon Mix,Brown/Black,A695858,,Other,None
+23825,Opossum Mix,Gray,A695870,,Other,None
+23835,Bat,Brown/Black,A695888,,Other,None
+23948,Bat,Brown,A696016,,Other,None
+24012,Bat Mix,Brown,A696098,,Other,None
+24065,Bat Mix,Brown,A696159,,Other,None
+24066,Rabbit Sh,Black,A696167,,Other,None
+24067,Rabbit Sh,White,A696166,,Other,None
+24111,Rabbit Sh Mix,Brown,A696239,,Other,None
+24143,Bat,Black/Brown,A696270,,Other,None
+24177,Bat,Brown/Black,A696305,,Other,None
+24178,Bat,Gray/Black,A696306,,Other,None
+24194,Lionhead Mix,Gray,A696339,0.0,Other,Thumper
+24223,Bat,Brown,A696372,,Other,None
+24301,Lop-English Mix,Brown,A696496,,Other,Tobey
+24339,Hamster,Brown/White,A696542,,Other,None
+24415,Bat,Brown,A696633,,Other,None
+24442,Raccoon Mix,Brown,A696672,,Other,None
+24459,Bat,Black/Brown,A696699,,Other,None
+24466,Skunk Mix,Black/White,A696710,,Other,None
+24481,Lizard Mix,Tan,A696733,,Other,None
+24541,Bat Mix,Brown,A696789,,Other,None
+24656,Opossum,Gray,A696951,,Other,None
+24683,Bat Mix,Brown/Black,A696972,,Other,None
+24711,Skunk Mix,Black/White,A697007,,Other,None
+24730,Bat Mix,Brown,A697046,,Other,None
+24732,Guinea Pig,Red,A697050,0.0,Other,Amelia
+24733,Guinea Pig Mix,Brown,A697048,1.0,Other,Rory
+24782,Bat Mix,Brown,A697125,,Other,None
+24798,Bat,Black/Brown,A697149,,Other,None
+24887,Chicken Mix,Red,A697267,,Other,None
+24994,Rabbit Sh Mix,Tan,A697420,,Other,None
+25002,Bat Mix,Brown,A697444,,Other,None
+25003,Bat Mix,Brown,A697447,,Other,None
+25004,Bat Mix,Brown,A697438,,Other,None
+25005,Bat Mix,Brown,A697441,,Other,None
+25007,Bat Mix,Brown,A697442,,Other,None
+25008,Bat Mix,Brown,A697436,,Other,None
+25009,Bat Mix,Brown,A697435,,Other,None
+25010,Bat Mix,Brown,A697448,,Other,None
+25011,Bat Mix,Brown,A697445,,Other,None
+25012,Bat Mix,Brown,A697443,,Other,None
+25013,Bat Mix,Brown,A697440,,Other,None
+25014,Bat Mix,Brown,A697439,,Other,None
+25015,Bat Mix,Brown,A697433,,Other,None
+25016,Bat Mix,Brown,A697434,,Other,None
+25017,Bat Mix,Brown,A697437,,Other,None
+25020,Bat Mix,Brown,A697446,,Other,None
+25143,Fox Mix,Red/Brown,A697693,,Other,None
+25251,Chicken,White/Brown,A697828,,Other,None
+25306,Bat,Brown,A697915,,Other,None
+25345,Skunk,Black/White,A698011,,Other,None
+25391,Raccoon,Brown/Black,A698096,,Other,None
+25413,Bat Mix,Brown,A698346,,Other,None
+25432,Parakeet Mix,Yellow,A698147,1.0,Other,None
+25448,Bat,Brown/Black,A698165,,Other,None
+25449,Bat,Brown/Black,A698160,,Other,None
+25450,Bat,Brown/Black,A698169,,Other,None
+25451,Bat,Brown/Black,A698171,,Other,None
+25452,Bat,Brown/Black,A698176,,Other,None
+25453,Bat,Brown/Black,A698162,,Other,None
+25454,Bat,Brown/Black,A698173,,Other,None
+25455,Bat,Brown/Black,A698168,,Other,None
+25456,Bat,Brown/Black,A698178,,Other,None
+25457,Bat,Brown/Black,A698166,,Other,None
+25458,Bat,Brown/Black,A698174,,Other,None
+25459,Bat,Brown/Black,A698172,,Other,None
+25460,Bat,Brown/Black,A698170,,Other,None
+25461,Bat,Brown/Black,A698175,,Other,None
+25462,Bat,Brown/Black,A698164,,Other,None
+25463,Bat,Brown/Black,A698163,,Other,None
+25464,Bat,Brown/Black,A698179,,Other,None
+25503,Bat Mix,Brown,A698221,,Other,None
+25505,Bat Mix,Brown,A698228,,Other,None
+25520,Cinnamon,Tricolor,A698269,0.0,Other,Cheekeis
+25530,Raccoon Mix,Black/Gray,A698277,,Other,None
+25531,Bat Mix,Brown,A698278,,Other,None
+25537,Bat Mix,Brown,A698286,,Other,None
+25538,Bat Mix,Brown,A698284,,Other,None
+25546,Bat Mix,Brown,A698345,,Other,None
+25556,Bat,Brown/Black,A698316,,Other,None
+25576,Bat Mix,Brown,A698350,,Other,None
+25577,Bat Mix,Brown,A698349,,Other,None
+25578,Bat Mix,Brown,A698347,,Other,None
+25579,Bat Mix,Brown,A698440,,Other,None
+25580,Bat Mix,Brown,A698348,,Other,None
+25581,Bat Mix,Brown,A698342,,Other,None
+25582,Bat Mix,Brown,A698352,,Other,None
+25583,Bat Mix,Brown,A698343,,Other,None
+25584,Bat Mix,Brown,A698344,,Other,None
+25604,Bat,Brown,A698368,,Other,None
+25605,Bat,Brown,A698371,,Other,None
+25612,Hamster Mix,Gray,A698382,,Other,None
+25613,Hamster Mix,Gray,A698385,,Other,None
+25614,Hamster Mix,Gray,A698384,,Other,None
+25615,Hamster Mix,Gray,A698383,,Other,None
+25617,Hamster Mix,Gray,A698381,,Other,None
+25618,Bat,Brown,A698377,,Other,None
+25628,Bat Mix,Brown,A698445,,Other,None
+25629,Bat Mix,Brown,A698396,,Other,None
+25630,Bat Mix,Brown,A698395,,Other,None
+25645,Bat Mix,Brown,A698428,,Other,None
+25656,Bat,Red,A698446,,Other,None
+25675,Bat Mix,Brown,A698468,,Other,None
+25677,Bat Mix,Black,A698474,,Other,None
+25712,Bat Mix,Brown,A698512,,Other,None
+25715,Rabbit Sh Mix,Brown,A698517,,Other,None
+25716,Opossum Mix,Gray/White,A698518,,Other,None
+25743,Bat Mix,Brown,A698550,,Other,None
+25744,Raccoon Mix,Gray/Black,A698552,,Other,None
+25768,Squirrel,Brown/Black,A698579,,Other,None
+25771,Quaker Mix,Green,A698583,0.0,Other,Precious
+25797,Lop-English Mix,Brown Brindle,A698620,1.0,Other,None
+25798,Rabbit Sh Mix,Blue/White,A698619,,Other,None
+25799,Rabbit Sh Mix,White/Blue,A698618,,Other,None
+25843,Bat,Brown/Black,A698658,,Other,None
+25844,Bat,Brown/Black,A698657,,Other,None
+25845,Bat,Brown/Black,A698656,,Other,None
+25866,Bat,Brown/Black,A698686,,Other,None
+25873,Bat Mix,Brown,A698689,,Other,None
+25892,Bat,Red,A698723,,Other,None
+25893,Bat,Brown,A698725,,Other,None
+25917,Raccoon,Gray/Black,A698760,,Other,None
+25918,Rabbit Lh,White/Black,A698761,0.0,Other,None
+25934,Bat Mix,Brown,A699119,,Other,None
+25938,Bat Mix,Brown,A698782,,Other,None
+25939,Raccoon Mix,Gray/Black,A698783,,Other,None
+25942,Opossum Mix,White/Gray,A698791,,Other,None
+25993,Raccoon Mix,Brown/Black,A698860,,Other,None
+26012,Skunk Mix,Black,A698864,,Other,None
+26015,Bat Mix,Brown,A698905,,Other,None
+26035,Bat,Brown/Black,A698932,,Other,None
+26062,Bat,Brown,A699121,,Other,None
+26076,Bat,Brown/Black,A699004,,Other,None
+26104,Pigeon Mix,White/Black,A699037,,Other,None
+26112,Bat,Brown,A699051,,Other,None
+26129,Squirrel Mix,Brown/Tan,A699089,0.0,Other,None
+26138,Bat,Brown,A699096,,Other,None
+26145,Raccoon,Brown,A699104,,Other,None
+26148,Squirrel Mix,Agouti,A699109,,Other,None
+26187,Bat Mix,Brown,A699159,,Other,None
+26188,Bat Mix,Brown,A699160,,Other,None
+26208,Bat,Brown,A699183,,Other,None
+26210,Bat Mix,Brown,A699204,,Other,None
+26231,Bat Mix,Brown,A699231,,Other,None
+26252,Bat Mix,Brown,A699252,,Other,None
+26253,Squirrel,Black/Brown,A699253,1.0,Other,None
+26254,Bat,Brown,A699254,,Other,None
+26256,Bat,Black/Brown,A699258,,Other,None
+26257,Bat,Black/Brown,A699259,,Other,None
+26259,Bat,Black/Brown,A699260,,Other,None
+26269,Bat,Brown,A699274,,Other,None
+26270,Rabbit Sh,Brown,A699280,,Other,None
+26292,Bat Mix,Brown,A699303,,Other,None
+26299,Turtle Mix,Green/Yellow,A699317,,Other,None
+26305,Bat,Brown,A699325,,Other,None
+26308,Bat,Brown,A699326,,Other,None
+26340,Rabbit Sh Mix,Black/White,A699362,,Other,Lola
+26346,Bat Mix,Brown,A699369,,Other,None
+26357,Bat Mix,Brown,A699381,,Other,None
+26369,Bat,Brown/Black,A699403,,Other,None
+26393,Bat Mix,Gray,A699447,,Other,None
+26396,Bat Mix,Gray,A699449,,Other,None
+26400,Bat Mix,Brown,A699459,,Other,None
+26401,Bat Mix,Brown,A699457,,Other,None
+26411,Bat,Brown/Black,A699475,,Other,None
+26412,Bat,Brown/Black,A699479,,Other,None
+26413,Bat,Brown/Black,A699480,,Other,None
+26414,Bat,Brown/Black,A699483,,Other,None
+26434,Bat Mix,Black,A699504,,Other,None
+26441,Bat Mix,Brown,A699509,,Other,None
+26443,Guinea Pig Mix,Brown,A699514,,Other,Derpy
+26447,Bat Mix,Brown,A699519,,Other,None
+26449,Bat,Brown/Black,A699524,,Other,None
+26450,Bat,Black,A699525,,Other,None
+26482,Raccoon Mix,Black/Gray,A700091,,Other,None
+26487,Guinea Pig Mix,Tricolor,A699561,,Other,None
+26491,Bat,Black/Brown,A699568,,Other,None
+26495,Bat Mix,Brown,A699572,,Other,None
+26499,Bat,Black/Brown,A699575,,Other,None
+26504,Bat,Brown,A699580,,Other,None
+26527,Bat,Black/Brown,A699606,,Other,None
+26530,Bat Mix,Brown,A699615,,Other,None
+26532,Bat Mix,Brown,A699616,,Other,None
+26533,Bat Mix,Brown,A699617,,Other,None
+26538,Bat,Brown,A699622,,Other,None
+26539,Bat,Brown,A699624,,Other,None
+26545,Bat,Brown,A699627,,Other,None
+26546,Bat,Brown,A699628,,Other,None
+26549,Bat Mix,Brown,A699645,,Other,None
+26559,Bat,Black/Brown,A699656,,Other,None
+26560,Bat Mix,Brown,A699661,,Other,None
+26562,Bat,Brown,A699664,,Other,None
+26563,Parakeet Mix,Yellow,A699665,,Other,Lemon
+26571,Bat,Gray,A699676,,Other,None
+26576,Bat Mix,Black,A699682,,Other,None
+26588,Bat,Black/Brown,A699702,,Other,None
+26589,Bat,Black/Brown,A699705,,Other,None
+26605,Bat Mix,Brown,A699726,,Other,None
+26629,Bat Mix,Brown,A699761,,Other,None
+26630,Bat,Brown,A699762,,Other,Bat
+26631,Raccoon Mix,Gray/Black,A699765,,Other,None
+26663,Opossum,Gray,A699798,0.0,Other,None
+26664,Skunk Mix,Black/White,A699796,,Other,None
+26683,Bat Mix,Brown,A699817,,Other,None
+26689,Bat,Brown/Black,A699804,,Other,None
+26690,Bat,Brown/Black,A699821,,Other,None
+26708,Bat Mix,Brown,A699845,,Other,None
+26736,Bat,Brown/Black,A699895,,Other,None
+26760,Bat,Black,A699914,,Other,None
+26776,Squirrel Mix,Brown,A700400,,Other,None
+26783,Squirrel Mix,Red,A699941,,Other,None
+26800,Bat Mix,Brown,A699964,,Other,None
+26817,Bat,Red/Brown,A699977,,Other,None
+26821,Raccoon Mix,Black/Gray,A699987,,Other,None
+26823,Raccoon Mix,Black/Gray,A699988,,Other,None
+26824,Bat,Brown,A699991,,Other,None
+26827,Bat,Brown,A699994,,Other,None
+26828,Bat,Brown,A699995,,Other,None
+26861,Bat Mix,Brown,A700029,,Other,None
+26862,Opossum Mix,White/Black,A700030,,Other,None
+26864,Bat,Brown,A700032,,Other,None
+26871,Bat,Black/Brown,A700036,,Other,None
+26876,Bat,Brown,A700049,,Other,None
+26877,Bat,Red,A700050,,Other,None
+26991,Lizard Mix,Black/Yellow,A700190,,Other,None
+27053,Bat,Brown/Black,A700269,,Other,None
+27057,Rabbit Sh Mix,White/Black,A700273,,Other,None
+27067,Bat Mix,Brown,A700281,,Other,None
+27143,Californian Mix,Tricolor,A700367,0.0,Other,None
+27144,Californian Mix,Tricolor,A700368,1.0,Other,Kennedy
+27145,Bat Mix,Brown/Black,A700370,,Other,None
+27147,Bat Mix,Brown/Black,A700369,,Other,None
+27149,Bat Mix,Brown,A700375,,Other,None
+27153,Bat,Brown,A700379,,Other,None
+27160,Bat Mix,Brown,A700391,,Other,None
+27169,American Sable Mix,Sable,A700406,,Other,None
+27190,Bat,Brown/Black,A700430,,Other,None
+27191,Bat,Brown/Black,A700431,,Other,None
+27231,Opossum,Gray,A701870,,Other,None
+27241,Raccoon,Gray/Black,A700489,,Other,None
+27245,Bat Mix,Brown,A700501,,Other,None
+27253,Bat Mix,Brown,A700515,,Other,None
+27257,Opossum,Gray,A700523,,Other,None
+27269,Bat Mix,Brown,A700534,,Other,None
+27274,Bat Mix,Brown,A700546,,Other,None
+27315,Chicken,Black,A700594,,Other,None
+27345,Bat,Black/Brown,A700623,,Other,None
+27357,Bat,Brown,A700635,1.0,Other,None
+27365,Raccoon Mix,Gray/Black,A700647,0.0,Other,None
+27377,Guinea Pig,Tricolor,A700664,,Other,None
+27378,Guinea Pig,Tricolor,A700665,,Other,None
+27381,Raccoon Mix,Pink,A700666,,Other,None
+27388,Bat Mix,Brown,A700671,,Other,None
+27396,Bat,Black/Brown,A700685,,Other,None
+27397,Bat,Black/Brown,A700686,,Other,None
+27420,Rabbit Sh Mix,Black/White,A700704,,Other,None
+27431,Gerbil Mix,White,A700714,,Other,None
+27432,Gerbil Mix,White,A700713,,Other,None
+27446,Bat Mix,Brown,A700731,,Other,None
+27447,Bat,Black/Brown,A700733,,Other,None
+27510,Bat,Brown,A700806,,Other,None
+27511,Bat,Brown,A700807,,Other,None
+27519,Opossum,White/Gray,A700816,,Other,None
+27551,Bat,Red,A700860,,Other,None
+27555,Angora-French Mix,Tricolor,A700868,1.0,Other,Kisses
+27557,Squirrel,Brown,A700871,,Other,None
+27561,Bat,Brown,A700872,,Other,None
+27564,Bat,Brown,A700879,,Other,None
+27587,Dove,Gray/Blue,A700902,,Other,None
+27589,Raccoon,Gray/Black,A700904,,Other,None
+27631,Bat,Brown,A700968,,Other,None
+27632,Bat,Brown,A700969,,Other,None
+27634,Bat,Brown,A700971,,Other,None
+27643,Parakeet Mix,Blue/White,A700983,,Other,None
+27662,Bat Mix,Brown,A701003,,Other,None
+27683,Squirrel,Brown/Black,A701023,,Other,None
+27685,Bat,Brown/Black,A701025,,Other,None
+27690,Opossum,Gray,A701034,,Other,None
+27703,Bat Mix,Brown,A701046,,Other,None
+27709,Squirrel Mix,Brown,A701048,,Other,None
+27715,Opossum,Gray,A701865,,Other,None
+27734,Bat,Black/Brown,A701097,,Other,None
+27735,Bat,Black/Brown,A701067,,Other,None
+27767,Bluebird Mix,Blue/Brown,A701134,,Other,None
+27814,Conure,Green,A701179,,Other,None
+27849,Rabbit Sh Mix,White/Gray,A701221,1.0,Other,None
+27852,Bat,Black,A701222,,Other,None
+27877,Pig Mix,Pink,A701250,0.0,Other,None
+27905,Bat,Red,A701279,,Other,None
+27906,Bat,Brown,A701280,,Other,None
+27922,Bat,Black/Brown,A701294,,Other,None
+27925,Raccoon Mix,Gray/Black,A701304,,Other,None
+27939,Bat,Red/Brown,A701324,,Other,None
+27956,Bat,Brown,A701339,,Other,None
+27957,Bat,Brown,A701340,,Other,None
+27975,Raccoon Mix,Gray,A701355,,Other,None
+27978,Raccoon Mix,Gray/Black,A701362,,Other,None
+28000,Opossum,White/Gray,A701381,,Other,None
+28035,Turtle Mix,Green/Brown,A701432,,Other,None
+28051,Raccoon Mix,Black/White,A701449,,Other,None
+28067,Bat,Brown,A701465,,Other,None
+28103,Fox Mix,Sable,A701496,,Other,None
+28125,Rat Mix,White/Pink,A701529,,Other,None
+28135,Bat Mix,Brown,A701534,,Other,None
+28138,Bat Mix,Brown,A701536,,Other,None
+28143,Raccoon Mix,Sable,A701544,,Other,None
+28154,Bat Mix,Brown,A701560,,Other,None
+28155,Bat Mix,Brown,A701566,,Other,None
+28156,Bat Mix,Brown,A701569,,Other,None
+28176,Skunk Mix,Black/White,A701587,,Other,None
+28210,Rabbit Sh Mix,Brown,A701637,,Other,None
+28278,Rabbit Sh Mix,Fawn/White,A701720,,Other,None
+28281,Chicken,Black,A701725,,Other,None
+28302,Skunk Mix,Black/White,A701749,,Other,None
+28317,Bat,Brown,A701759,,Other,None
+28365,Opossum Mix,White/Gray,A701818,,Other,None
+28391,Bat Mix,Brown,A701863,,Other,None
+28392,Opossum,Gray,A701869,,Other,None
+28393,Opossum,Gray,A701868,,Other,None
+28394,Opossum,Gray,A701866,,Other,None
+28395,Opossum,Gray,A701864,0.0,Other,None
+28396,Opossum,Gray,A701867,,Other,None
+28397,Chicken,Yellow/White,A701871,1.0,Other,None
+28416,Rabbit Sh Mix,Blue,A701891,,Other,None
+28420,Bat,Brown,A701894,,Other,None
+28456,Bat,Brown,A702057,,Other,None
+28481,Raccoon Mix,Black/White,A701975,,Other,None
+28495,Ferret Mix,Black/White,A701993,1.0,Other,Nugget
+28534,Bunting,Tricolor,A702036,1.0,Other,None
+28540,Rabbit Sh Mix,Black/White,A702042,,Other,Rocky
+28552,Bat,Brown,A702061,,Other,None
+28577,Raccoon,Gray/Black,A702088,,Other,None
+28625,Bat,Brown/Black,A702143,,Other,None
+28633,Sparrow,Brown/Gray,A702157,,Other,None
+28634,Mockingbird,Black/Gray,A702156,,Other,None
+28642,Squirrel,Gray/Brown,A702167,,Other,None
+28653,Squirrel,Brown/Gray,A702179,,Other,None
+28668,Raccoon Mix,Gray/Black,A702194,,Other,None
+28713,Chicken Mix,Red,A702247,0.0,Other,None
+28716,Squirrel Mix,Brown,A702252,0.0,Other,None
+28724,Guinea Pig Mix,Brown/Orange,A702260,0.0,Other,Bella
+28729,Raccoon Mix,Black/Black,A702273,,Other,None
+28730,Raccoon Mix,Black/Gray,A702266,,Other,None
+28731,Raccoon Mix,Black/Gray,A702267,,Other,None
+28754,Duck Mix,Yellow/Black,A702293,,Other,None
+28762,Bat,Brown,A702307,,Other,None
+28774,Raccoon Mix,Brown/Gray,A702318,,Other,None
+28777,Bat Mix,Brown,A702323,,Other,None
+28827,Raccoon Mix,Sable,A702380,,Other,None
+28828,Raccoon Mix,Sable,A702379,,Other,None
+28829,Raccoon Mix,Sable,A702381,,Other,None
+28831,Raccoon Mix,Sable,A702382,,Other,None
+28865,Raccoon Mix,Gray/Black,A702423,,Other,None
+28969,Dove,Brown,A702542,,Other,None
+29010,Bat,Black/Brown,A702589,,Other,None
+29053,Squirrel,Gray,A702644,1.0,Other,None
+29075,Raccoon Mix,Gray/Black,A702663,,Other,None
+29084,Raccoon,Black/Gray,A702682,,Other,None
+29120,Bat,Black/Brown,A702742,,Other,None
+29159,Skunk,Black/White,A702780,,Other,None
+29160,Skunk,Black/White,A702778,0.0,Other,None
+29201,Bat,Brown,A702831,,Other,None
+29211,Bat,Brown,A702832,,Other,None
+29258,Skunk,Black/White,A702888,,Other,None
+29259,Bat Mix,Gray,A702899,,Other,None
+29261,Bat,Brown,A702900,,Other,None
+29292,Hamster Mix,White/Gray,A702931,,Other,Henry
+29328,Raccoon,Gray/Black,A702964,,Other,None
+29382,Guinea Pig,Tricolor/White,A703083,1.0,Other,None
+29390,Bat Mix,Brown,A703097,,Other,None
+29486,Bat Mix,Brown,A703581,,Other,None
+29503,Opossum Mix,Gray/White,A703228,,Other,None
+29518,Bat,Black,A703242,,Other,None
+29532,Bat Mix,Brown,A703256,,Other,None
+29546,Skunk Mix,Black/White,A703262,,Other,None
+29583,Raccoon,Brown,A704874,,Other,None
+29691,Turtle Mix,Green/Brown,A703424,0.0,Other,None
+29694,Rabbit Sh Mix,Brown,A703428,,Other,Miller
+29695,Bat,Brown/Red,A703427,,Other,None
+29714,Dove Mix,Gray,A703445,,Other,None
+29717,Bat Mix,Gray,A703455,,Other,None
+29742,Bat,Brown/Black,A703488,,Other,None
+29753,Bat,Brown,A703500,,Other,None
+29795,Bat Mix,Brown,A703565,,Other,None
+29820,Bat Mix,Brown,A703591,,Other,None
+29874,Squirrel Mix,Brown,A703655,,Other,None
+29944,Rex Mix,Brown/White,A703739,,Other,None
+29949,Turtle Mix,Green,A703759,,Other,None
+29990,Bat,Brown,A703790,,Other,None
+30033,Rabbit Sh,White/Black,A703853,,Other,None
+30037,Parakeet,Green/Blue,A703854,,Other,None
+30039,Parakeet,Green/Blue,A703855,,Other,None
+30069,Bat,Black/Brown,A703881,,Other,None
+30070,Bat,Black/Brown,A703884,,Other,None
+30085,Raccoon Mix,Black/White,A703897,,Other,None
+30186,Bat Mix,Brown,A704015,,Other,None
+30187,Bat Mix,Brown,A704014,,Other,None
+30197,Bat,Brown,A704024,,Other,None
+30228,Bat,Black/Brown,A709950,,Other,None
+30244,Bat Mix,Brown/Black,A704084,,Other,None
+30276,Bat Mix,Brown,A704116,,Other,None
+30277,Raccoon Mix,Black/Gray,A704120,,Other,None
+30359,Rat Mix,Brown/White,A704214,0.0,Other,Pandora
+30360,Rat Mix,Brown/White,A704213,0.0,Other,Lilith
+30388,Bat,Brown,A704254,,Other,None
+30389,Bat,Brown,A704253,,Other,None
+30390,Raccoon Mix,Gray/Black,A710247,,Other,None
+30505,Lop-English Mix,Silver,A704398,1.0,Other,None
+30570,Snake Mix,Yellow,A704469,,Other,None
+30706,Rabbit Sh,White/Black,A704619,,Other,None
+30736,Opossum Mix,Pink,A704650,,Other,None
+30737,Opossum Mix,Pink,A704651,,Other,None
+30738,Opossum Mix,Pink,A704653,,Other,None
+30739,Opossum Mix,Pink,A704649,,Other,None
+30740,Opossum Mix,Pink,A704652,,Other,None
+30741,Opossum,Pink,A704655,,Other,None
+30743,Opossum,Pink,A704656,,Other,None
+30794,Bat,Brown,A704705,,Other,None
+30829,Bat,Red,A704751,,Other,None
+30830,Bat,Red,A704750,,Other,None
+30831,Bat,Red,A704752,,Other,None
+30832,Bat,Red,A704753,,Other,None
+30852,Dutch,Black/White,A704772,1.0,Other,None
+30860,Squirrel Mix,Brown,A704788,,Other,None
+30886,Squirrel,Brown,A704814,,Other,None
+30890,Bat,Red,A704815,,Other,None
+30891,Bat,Red,A704820,,Other,None
+30892,Bat,Red,A704818,,Other,None
+30893,Bat,Red,A704819,,Other,None
+30918,Bat,Red,A704848,,Other,None
+30919,Bat,Brown,A704851,,Other,None
+30920,Rabbit Sh,White,A704855,1.0,Other,None
+30974,Bat,Brown,A704922,,Other,None
+31045,Bat,Black/Brown,A705013,,Other,None
+31111,Squirrel,Brown,A705083,,Other,None
+31120,Raccoon,Gray/Black,A705093,,Other,None
+31123,Bat,Orange,A705096,,Other,None
+31176,Bat,Black/Brown,A705149,,Other,None
+31206,Squirrel Mix,Brown/Black,A705180,,Other,None
+31238,Raccoon Mix,Black/Gray,A705210,,Other,None
+31257,Opossum Mix,White/Gray,A705235,,Other,None
+31318,Cottontail Mix,Brown,A705309,,Other,None
+31330,Opossum Mix,White/Gray,A705327,,Other,None
+31376,Rabbit Sh Mix,White/Black,A705378,,Other,None
+31418,Bat Mix,Brown,A705447,,Other,None
+31432,Bat,Brown,A705460,,Other,None
+31517,Bat Mix,Brown,A705565,,Other,None
+31538,Rabbit Sh Mix,Gray,A705585,,Other,None
+31595,Bat,Red,A705651,,Other,None
+31641,Raccoon,Gray/White,A705700,,Other,None
+31745,Bat Mix,Brown,A705814,,Other,None
+31762,Bat Mix,Gray,A705831,,Other,None
+31763,Skunk Mix,Black/White,A705832,,Other,None
+31782,Raccoon,Gray/Black,A705859,,Other,None
+31828,Opossum Mix,White/Black,A705914,,Other,None
+31830,Bat,Red,A705926,,Other,None
+31831,Bat,Red,A705922,,Other,None
+31832,Bat,Red,A705918,,Other,None
+31833,Bat,Red,A705928,,Other,None
+31862,Bat Mix,Gray,A705953,,Other,None
+31916,Bat,Black/Brown,A706025,,Other,None
+32026,Bat Mix,Brown,A706166,,Other,None
+32052,Guinea Pig Mix,Chocolate/White,A706218,0.0,Other,Bailey
+32106,Bat,Brown/Black,A706277,,Other,None
+32111,Chicken,Brown,A706368,,Other,None
+32171,Bat,Red,A706355,,Other,None
+32223,Raccoon,Black/Gray,A706412,0.0,Other,None
+32304,Skunk,Black/White,A706500,,Other,None
+32396,Californian,White/Black,A706616,0.0,Other,None
+32400,Pigeon,White,A706618,,Other,None
+32405,Pigeon,Tan,A706617,,Other,None
+32456,Raccoon,Brown/Black,A706676,,Other,None
+32499,Raccoon Mix,Gray,A706737,,Other,None
+32538,Bat,Black,A706799,,Other,None
+32551,Bat Mix,Brown,A706814,,Other,None
+32564,Tarantula,Brown/Red,A706837,0.0,Other,None
+32565,Turtle,Green,A706839,,Other,None
+32566,Turtle,Green,A706838,,Other,None
+32595,Raccoon Mix,Sable,A706873,,Other,None
+32682,Rabbit Sh Mix,Orange/Black,A706977,1.0,Other,Darby
+32693,Raccoon,Gray/Black,A706988,,Other,None
+32708,New Zealand Wht Mix,White/Black,A707009,,Other,None
+32709,New Zealand Wht Mix,White/Black,A707012,1.0,Other,Rosevelt
+32721,Skunk,Black/White,A707026,,Other,None
+32722,Bat,Brown,A707027,,Other,None
+32783,Squirrel Mix,Brown,A707111,,Other,None
+32784,Bat Mix,Brown,A707110,,Other,None
+32823,Rabbit Sh Mix,Black,A707152,,Other,None
+32881,Bat Mix,Black,A707222,,Other,None
+32904,Dutch Mix,Black/White,A707251,1.0,Other,Honey Bunny
+33072,Bat Mix,Brown,A707455,,Other,None
+33097,Snake,Brown/Black,A707495,,Other,None
+33120,Bat Mix,Brown,A707525,,Other,None
+33143,Rabbit Sh Mix,Black,A707567,1.0,Other,Kong
+33152,Bat Mix,Brown,A707575,,Other,None
+33155,Tarantula,Brown,A707588,,Other,None
+33156,Tarantula,Brown,A707587,,Other,None
+33157,Tarantula,Brown,A707589,,Other,None
+33158,Snake,Brown,A707583,,Other,None
+33159,Frog,Brown,A707584,,Other,None
+33160,Tarantula,Brown,A707586,,Other,None
+33161,Snake/Snake,Tan/Brown,A707734,,Other,None
+33162,Tarantula,Brown,A707585,,Other,None
+33220,Raccoon,Brown,A707661,,Other,None
+33230,Opossum,Gray/White,A707676,,Other,None
+33265,Bat Mix,Brown,A707717,,Other,None
+33274,Raccoon Mix,Gray,A707720,,Other,None
+33304,Bat Mix,Brown,A707760,,Other,None
+33468,Ferret,White/Gray,A707963,1.0,Other,Bernie
+33477,Bat,Brown,A707970,,Other,None
+33516,Skunk Mix,Black/White,A708032,,Other,None
+33521,Bat,Brown,A708037,,Other,None
+33615,Raccoon Mix,Black/White,A708163,,Other,None
+33631,Rabbit Sh Mix,Chocolate/White,A708196,0.0,Other,None
+33632,Rabbit Sh Mix,Black/White,A708195,1.0,Other,None
+33640,Raccoon Mix,Gray,A708213,,Other,None
+33642,Bat Mix,Brown,A708219,,Other,None
+33655,Bat,Black,A708253,,Other,None
+33703,Bat Mix,Brown,A708315,,Other,None
+33704,Raccoon,Brown/Black,A708325,,Other,None
+33710,Raccoon,Black/Gray,A708332,,Other,None
+33763,Bat,Brown,A708374,,Other,None
+33830,Bat,Brown,A708449,,Other,None
+33832,Opossum Mix,Gray/Pink,A708455,,Other,None
+33833,Opossum,Gray,A708456,,Other,None
+33834,Bat,Brown,A708457,,Other,None
+33849,Bat Mix,Brown,A708483,,Other,None
+33851,Grackle,Brown,A708492,,Other,None
+33906,Rabbit Sh,Brown,A708550,,Other,None
+33951,Coyote Mix,Brown,A708662,1.0,Other,None
+33968,Raccoon Mix,Gray/Black,A708689,,Other,None
+34006,Bat,Brown/Black,A708743,,Other,None
+34010,Bat Mix,Brown,A708749,,Other,None
+34044,Bat,Black/Brown,A708795,,Other,None
+34045,Bat,Black/Brown,A708796,,Other,None
+34131,Bat,Black/Brown,A708888,,Other,None
+34154,Bat Mix,Brown,A708910,,Other,None
+34169,Bat Mix,Brown,A708933,,Other,None
+34226,Skunk,Black/White,A709010,,Other,None
+34268,Hamster,White/Orange,A709071,,Other,Peanut
+34273,Hamster,White/Orange,A709077,,Other,Hercules
+34370,Bat Mix,Brown,A709215,,Other,None
+34409,Bat Mix,Black,A709257,,Other,None
+34431,Bat,Red,A709285,,Other,None
+34488,Bat,Black/Brown,A709360,,Other,None
+34532,Raccoon Mix,Black/White,A709409,,Other,None
+34548,Bat,Brown,A709444,,Other,None
+34572,Bat Mix,Brown/Black,A709483,,Other,None
+34578,Bat,Brown,A709489,,Other,None
+34605,Raccoon Mix,Gray,A709530,,Other,None
+34628,Bat,Brown,A709582,,Other,None
+34650,Rabbit Sh,Brown,A709623,1.0,Other,Robert
+34651,Rabbit Sh,Black,A709625,1.0,Other,Jellybean
+34652,Rabbit Sh,Brown,A709617,1.0,Other,Bisquit
+34653,Lionhead,Black,A709621,0.0,Other,None
+34654,Raccoon,Gray/Black,A709615,,Other,None
+34655,Lionhead,Black,A709622,1.0,Other,None
+34656,Rabbit Sh,Brown,A709624,1.0,Other,Redford
+34657,Lionhead,Black/Gray,A709620,1.0,Other,None
+34658,Lionhead Mix,Brown,A709619,0.0,Other,Baby
+34659,Rabbit Sh,Brown,A709616,1.0,Other,Cocoa
+34667,Guinea Pig Mix,Calico,A709632,,Other,None
+34668,Guinea Pig Mix,Calico,A709633,,Other,None
+34699,Bat Mix,Brown,A709693,,Other,None
+34739,Opossum Mix,Gray,A709787,,Other,None
+34743,Bat Mix,Brown,A709791,,Other,None
+34795,Rabbit Sh Mix,White/Gray,A709897,1.0,Other,None
+34822,Rabbit Sh Mix,Black,A709947,,Other,None
+34835,Rabbit Sh Mix,Brown,A709961,,Other,None
+34848,Rabbit Sh Mix,White,A709970,0.0,Other,None
+34864,Bat Mix,Brown,A709994,,Other,None
+34873,Bat Mix,Brown,A709996,,Other,None
+34886,Hamster Mix,Orange,A710018,1.0,Other,Charming
+34887,Hamster Mix,Orange,A710017,1.0,Other,Charlie
+34930,Bat,Brown,A710061,,Other,None
+34953,Raccoon Mix,Brown/Black,A710081,,Other,None
+34954,Bat Mix,Brown,A710082,,Other,None
+34963,Bat,Brown,A710093,,Other,None
+34966,Bat,Brown,A710098,,Other,None
+34981,Fox Mix,Gray/Red,A710118,,Other,None
+35009,Californian Mix,White,A710144,,Other,None
+35013,Bat,Brown,A710153,,Other,None
+35021,Opossum Mix,Gray,A710165,,Other,None
+35041,Bat,Brown,A710184,,Other,None
+35083,Bat,Black,A710250,,Other,None
+35088,Bat Mix,Brown,A710255,,Other,None
+35099,Opossum Mix,Gray,A710268,,Other,None
+35102,Guinea Pig Mix,Brown/White,A710272,,Other,Odin
+35103,Guinea Pig,White,A710273,1.0,Other,Bowie
+35104,Skunk Mix,Black/White,A710270,,Other,None
+35169,Bat,Black/Brown,A710346,,Other,None
+35230,Hamster,Gray,A710408,,Other,None
+35231,Hamster,Tan/White,A710406,,Other,None
+35232,Hamster,Brown,A710407,,Other,None
+35259,Armadillo,Brown,A710440,,Other,None
+35272,Rabbit Sh Mix,White/Black,A710450,1.0,Other,None
+35276,Raccoon,Gray/Black,A710454,,Other,None
+35298,Bat,Brown/Black,A710480,,Other,None
+35342,Rabbit Sh Mix,Sable/White,A710534,,Other,None
+35430,Ringtail Mix,Fawn/Black,A710645,,Other,None
+35463,Turtle Mix,Green,A710675,,Other,None
+35464,Turtle Mix,Green,A710676,,Other,None
+35481,Bat Mix,Brown,A710691,,Other,None
+35489,Rabbit Sh Mix,Black/White,A710706,0.0,Other,Nina
+35490,Rabbit Sh Mix,White/Gray,A710705,1.0,Other,Snowball
+35537,Bat Mix,Brown,A710766,,Other,None
+35550,Lop-English Mix,White/Brown,A710784,,Other,None
+35553,Raccoon Mix,Black/White,A710783,,Other,None
+35554,Raccoon Mix,Black/White,A710788,,Other,None
+35589,Squirrel Mix,Brown,A710826,,Other,None
+35606,Bat,Black/Brown,A710848,,Other,None
+35608,Bat,Black/Brown,A710854,,Other,None
+35656,Raccoon Mix,Gray,A710905,,Other,None
+35659,Bat,Black,A710911,,Other,None
+35662,Bat Mix,Gray,A710919,,Other,None
+35681,Owl Mix,Tricolor,A710937,,Other,None
+35684,Squirrel Mix,Brown,A710938,,Other,None
+35699,Chicken Mix,Brown,A710951,,Other,None
+35700,Raccoon Mix,Brown/Black,A710954,,Other,None
+35716,Bat Mix,Gray,A710975,,Other,None
+35733,Bat,Brown,A710992,,Other,None
+35813,Squirrel Mix,Brown,A711091,,Other,None
+35818,Bat Mix,Black,A711098,,Other,None
+35848,Rabbit Sh Mix,White,A711137,,Other,None
+35908,Bat,Black/Brown,A711218,,Other,None
+35914,Bat Mix,Brown,A711139,,Other,None
+35921,Opossum Mix,Gray,A711234,,Other,None
+35943,Squirrel Mix,Brown,A711256,,Other,None
+36038,Bat,Black/Brown,A711374,,Other,None
+36150,Opossum Mix,White/Gray,A711510,,Other,None
+36200,Bat Mix,Brown,A711566,,Other,None
+36242,Squirrel Mix,Brown,A711614,,Other,None
+36257,Bat,Brown,A711628,,Other,None
+36272,Bat Mix,Black,A711646,,Other,None
+36291,Rat Mix,Black/White,A711671,1.0,Other,None
+36311,Rabbit Sh Mix,Brown,A711698,,Other,None
+36312,Squirrel Mix,Brown,A711699,,Other,None
+36313,Squirrel Mix,Brown,A711700,,Other,None
+36400,Bat Mix,Brown,A711785,,Other,None
+36403,Bat Mix,Brown,A711789,,Other,None
+36435,Bat Mix,Gray,A711816,,Other,None
+36492,Bat Mix,Brown/Red,A711888,,Other,None
+36503,Conure Mix,Green,A711895,,Other,None
+36520,Bat,Brown/Black,A711914,,Other,None
+36528,Raccoon Mix,Gray/Black,A711934,,Other,None
+36529,Bat,Brown,A711935,,Other,None
+36552,Bat Mix,Gray,A711959,,Other,None
+36561,Fox Mix,Brown,A711970,,Other,None
+36664,Bat Mix,Brown,A712094,,Other,None
+36668,Raccoon,Black/Gray,A712100,,Other,None
+36692,Sparrow Mix,Brown,A712127,,Other,None
+36728,Bat,Black,A712167,,Other,None
+36814,Bat,Brown/Black,A712263,,Other,None
+36815,Bat,Brown/Black,A712266,,Other,None
+36852,Bat Mix,Brown,A712304,,Other,None
+36865,Bat Mix,Gray,A712310,,Other,None
+36888,Bat,Brown,A712339,1.0,Other,None
+36941,Bat,Brown,A712397,,Other,None
+36942,Bat,Brown,A712399,,Other,None
+36977,Bat,Brown,A712457,,Other,None
+36979,Raccoon,Black/Brown,A712459,,Other,None
+37025,Skunk Mix,Black/White,A712521,,Other,None
+37080,Bat Mix,Brown,A712619,,Other,None
+37124,Rabbit Sh Mix,Gray,A712663,,Other,None
+37147,Raccoon,Gray/Black,A712690,,Other,None
+37176,Raccoon,Gray/Black,A712731,,Other,None
+37181,Raccoon,Gray/Black,A712735,,Other,None
+37182,Bat,Brown,A712733,,Other,None
+37205,Bat Mix,Brown,A712764,,Other,None
+37238,Bat,Brown,A712803,,Other,None
+37260,Rabbit Sh Mix,Brown,A712847,,Other,None
+37288,Bat,Brown,A712893,,Other,None
+37290,Squirrel Mix,Brown,A712894,,Other,None
+37299,Bat Mix,Brown,A712914,,Other,None
+5795,Rabbit Sh,White,A696040,1.0,Other,None
+18563,Miniature,Liver/Cream,A663228,1.0,Other,None
+18628,Opossum Mix,White,A664066,,Other,None
+18709,Rabbit Sh,Black/White,A657854,1.0,Other,Bow Tie
+19686,Rabbit Lh Mix,White,A664011,0.0,Other,Cypress
+21764,Rabbit Sh Mix,White,A663256,1.0,Other, Henry
+24722,Rabbit Sh Mix,Black/White,A660675,0.0,Other,Gumdrop
+25030,Rabbit Sh Mix,Brown,A657133,,Other,Parsnip
+33260,Hamster,Gray/White,A662887,0.0,Other,Cheeky
